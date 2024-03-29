@@ -26,7 +26,7 @@
 | Nombre del Compañero XXX | u202217485 |
 | Nombre del Compañero XXX | u202217485 |
 | Nombre del Compañero XXX | u202217485 |
-| Nombre del Compañero XXX | u202217485 |
+| Nicolas Sebastian Esteban Garcia | u202217485 |
 | Nombre del Compañero XXX | u202217485 |
 </center>
 
