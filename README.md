@@ -184,10 +184,14 @@
 Texto del proyecto
 
 #### 1.1.2. Perfiles de integrantes del equipo
-
-| Miembros del equipo                             | Codigo Estudiante | Carrera                | Conocimientos / Habilidades |
-| ----------------------------------------------- | ----------------- | ---------------------- | --------------------------- |
-| Compañero 1 	![Imagen del compañero](image.jpg) | U20...            | Ingenieria de software | C++, phyton .etc            |
+<!-- poner las rutas de las imagenes de assets en src -->
+|Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
+|-|-|-|-| 
+|Nicolas Sebastian Esteban Garcia  <img src="./assets/members-profile/nicolas-profile.jpg" alt="Imagen del compañero" style="width:80%">|U202217485|Ingenieria de software|C++, Python, Js, Reactjs, NodeJs, expressjs, MongoDB, SQL.  Paciencia, Liderazgo, Logico|
+|Nombre del compañero <img src="" alt="Imagen del compañero" style="width:80%">|U202217485|Ingenieria de software|C++, Python, persistente y amigable|
+|Esteban Garcia, Nicolas Sebastian <img src="" alt="Imagen del compañero" style="width:80%">|U202217485|Ingenieria de software|HTML, CSS Y JS. Sociable.|
+|Nombre del compañero 	<img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:80%">|U202217485|Ingenieria de software|C++, Python. Creativa.|
+|Nombre del compañero	<img src="" alt="Imagen del compañero" style="width:80%">|U202217485|Ingenieria de software|C++, Python, MongoDB, SQL, Assembler. Responsabilidad y Buena Comunicación| 
 
 ## 1.2. Solution Profile
 
