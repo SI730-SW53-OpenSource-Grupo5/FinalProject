@@ -21,13 +21,13 @@
 # Team  Members:
 <center>
 
-| Member                   | Code       |
-| ------------------------ | ---------- |
-| Nombre del Compañero XXX | u202217485 |
-| Nombre del Compañero XXX | u202217485 |
-| Nombre del Compañero XXX | u202217485 |
+| Member                           | Code       |
+|----------------------------------|------------|
+| Nombre del Compañero XXX         | u202217485 |
+| Nombre del Compañero XXX         | u202217485 |
+| Nombre del Compañero XXX         | u202217485 |
 | Nicolas Sebastian Esteban Garcia | u202217485 |
-| Nombre del Compañero XXX | u202217485 |
+| Johan Príncipe Godoy             | u202014511 |
 </center>
 
 # Registro de Versiones del Informe
@@ -185,13 +185,13 @@ Texto del proyecto
 
 #### 1.1.2. Perfiles de integrantes del equipo
 <!-- poner las rutas de las imagenes de assets en src -->
-|Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
-|-|-|-|-| 
-|Nicolas Sebastian Esteban Garcia  <img src="./assets/members-profile/nicolas-profile.jpg" alt="Imagen del compañero" style="width:80%">|U202217485|Ingenieria de software|C++, JS, HTML, CSS, Phyton. Comunicación asertiva y facil adaptación|
-|Nombre del compañero <img src="" alt="Imagen del compañero" style="width:80%">|U202217485|Ingenieria de software|C++, JS, HTML, CSS, Phyton|
-|Esteban Garcia, Nicolas Sebastian <img src="" alt="Imagen del compañero" style="width:80%">|U202217485|Ingenieria de software|C++, JS, HTML, CSS, Phyton|
-|Nombre del compañero 	<img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:80%">|U202217485|Ingenieria de software|C++, JS, HTML, CSS, Phyton|
-|Nombre del compañero	<img src="" alt="Imagen del compañero" style="width:80%">|U202217485|Ingenieria de software|C++, JS, HTML, CSS, Phyton| 
+| Miembros del equipo                                                                                                                     | Codigo Estudiante | Carrera | Conocimientos / Habilidades                                                   |
+|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------|-|-------------------------------------------------------------------------------| 
+| Nicolas Sebastian Esteban Garcia  <img src="./assets/members-profile/nicolas-profile.jpg" alt="Imagen del compañero" style="width:80%"> | U202217485        |Ingenieria de software| C++, JS, HTML, CSS, Phyton. Comunicación asertiva y facil adaptación          |
+| Nombre del compañero <img src="" alt="Imagen del compañero" style="width:80%">                                                          | U202217485        |Ingenieria de software| C++, JS, HTML, CSS, Phyton                                                    |
+| Esteban Garcia, Nicolas Sebastian <img src="" alt="Imagen del compañero" style="width:80%">                                             | U202217485        |Ingenieria de software| C++, JS, HTML, CSS, Phyton                                                    |
+| Príncipe Godoy, Johan 	<img src="../assets/members-profile/johan-profile.jpg" alt="Imagen del compañero" style="width:80%">             | U202014511        |Ingenieria de software| C++, JS, HTML, CSS, Phyton, SQL, MongoDB. Trabajo en equipo y responsabilidad |
+| Nombre del compañero	<img src="" alt="Imagen del compañero" style="width:80%">                                                          | U202217485        |Ingenieria de software| C++, JS, HTML, CSS, Phyton                                                    | 
 
 ## 1.2. Solution Profile
 
