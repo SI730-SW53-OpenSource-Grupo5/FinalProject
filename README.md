@@ -191,7 +191,7 @@ Nuestra startup [nombre] tiene como objetivo conectar a personas que presentan a
 | Nombre del compañero <img src="" alt="Imagen del compañero" style="width:80%">                                                          | U202217485        |Ingenieria de software| C++, JS, HTML, CSS, Phyton                                                    |
 | Esteban Garcia, Nicolas Sebastian <img src="" alt="Imagen del compañero" style="width:80%">                                             | U202217485        |Ingenieria de software| C++, JS, HTML, CSS, Phyton                                                    |
 | Príncipe Godoy, Johan 	<img src="./assets/members-profile/johan-profile.jpg" alt="Imagen del compañero" style="width:80%">             | U202014511        |Ingenieria de software| C++, JS, HTML, CSS, Phyton, SQL, MongoDB. Trabajo en equipo y responsabilidad |
-| Nombre del compañero	<img src="" alt="Imagen del compañero" style="width:80%">                                                          | U202217485        |Ingenieria de software| C++, JS, HTML, CSS, Phyton                                                    | 
+| Braulio Rodrigo Torrejon Navarro	<img src="" alt="Imagen del compañero" style="width:80%">                                                          | U201711828       |Ingenieria de software| C++, JS, HTML, CSS, Phyton                                                    | 
 
 ## 1.2. Solution Profile
 
