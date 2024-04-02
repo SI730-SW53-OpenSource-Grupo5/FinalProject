@@ -24,7 +24,7 @@
 | Member                           | Code       |
 |----------------------------------|------------|
 | Alexander Paolo Justo Yauricasa  | u20191c054 |
-| Nombre del Compañero XXX         | u202217485 |
+| Burga loarte Anaely Zarely       | u202118264 |
 | Djalma Santos Dioses Molina      | u201921405 |
 | Nicolas Sebastian Esteban Garcia | u202217485 |
 | Johan Príncipe Godoy             | u202014511 |
