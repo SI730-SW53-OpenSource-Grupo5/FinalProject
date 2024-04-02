@@ -229,7 +229,7 @@ La aplicación estará disponible para su descarga de forma gratuita, pero tambi
 
 #### 1.2.2.1. Lean UX Problem Statements.
 
-Texto
+Para personas que experimentan problemas de bienestar emocional, como estrés laboral y ansiedad social, encontrar un espacio seguro para expresar sus preocupaciones, recibir apoyo de especialistas en salud mental y conectar con otros usuarios dispuestos a ofrecer ayuda y consejos es una tarea desafiante. A diferencia de los recursos tradicionales, como terapias cara a cara o grupos de apoyo, no existe una plataforma centralizada y accesible que proporcione una solución integral para satisfacer estas necesidades. Esto crea una brecha en la disponibilidad de apoyo emocional oportuno y eficaz, dejando a las personas afectadas sin recursos adecuados para abordar sus problemas emocionales y mejorar su bienestar general. Ante ello, nos proponemos proporcionar a nuestros usuarios un servicio de calidad y efectivo que les permita encontrar alivio y apoyo en sus momentos de necesidad. A través de nuestra plataforma, nos esforzamos por ofrecer un espacio inclusivo y accesible donde puedan conectarse con especialistas en salud mental y otros usuarios dispuestos a ofrecer consejos y apoyo. Es por este motivo que, como startup, abordaremos la resolucion de la siguiente cuestión: ¿Como podemos absolver los problemas que presentan nuestros usuarios con el fin de ofrecer un servicio de calidad y efectivo?
 
 #### 1.2.2.2. Lean UX Assumptions.
 
