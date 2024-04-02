@@ -233,9 +233,16 @@ Para personas que experimentan problemas de bienestar emocional, como estrés la
 
 #### 1.2.2.2. Lean UX Assumptions.
 
-| Business Assumptions | User Assumptions |
-| -------------------- | ---------------- |
-| 1. - 12.             | 1. - 6.          |
+|Business Assumptions|User Assumptions|
+|-|-|
+|Creemos que nuestros usuario de la aplicación estan interesados en mejorar su bienestar emocional y controlar sus emociones  |Los usuarios de este aplicación son personas de diferentes edades que son mayores de 18 años, las cuales tengan problemas para expresar su malestar emocional de manera abierta |
+|Se asume que la demanda de servicios de salud mental a través de nuestra aplicación web seguirá creciendo, respaldando así la viabilidad del negocio a largo plazo |Nuestra aplicacióm presentará una gran demanda de usuarios, debido a la interfaz intuitiva y  facil accesibilidad. |
+|Los usuarios usaran los foros de la comunidad para interactuar con diversas personas en el globo que presenten algun problema similiar  |La aplicación ofrecerá un facil acceso a los foros de la comunidad con el fin de que los usuarios puedan comunicarse facilmente |
+|Los usuarios tendran la posibilidad de interactuar con un persona especialista en el problema que se debate, el cual será previamente calificado como persona apta | La aplicación garantizará que los especialistas sean personas aptas para dar algun tipo de recomendación a traves de la validación de sus datos personales |
+|Los usuarios deben tener la posibilidad de interactuar con un especialista, para el cual podra reservar una cita de acuerdo a su disponibilidad |La aplicación mostrará una interfaz donde se visualice el perfil del especialista con sus datos personales y horarios disponibles para reservar una cita |
+|Los usuarios deben tener la posibilidad de inscribirse a eventos gratuitos realizados por especialistas en el área |La aplicación debe mantener un registro de los eventos proximos a realizar y mostrarlo a los usuarios para que posteriormente puedan inscribirse a traves de un formulario |
+|Los usuarios tendrán la posibilidad de pagar por una suscripcion, la cual ofrecerá una gran cantidad de nuevas funcionalidades|La aplicación implementará nuevas funcionalidades, como la inscripcion a talleres y eventos exclusivos, ademas de poder reservar una cantidad de citas durante el mes de suscripcion, entre otros  |
+|Los usuarios podran dejar una reseña o una calificacion al especialista luego de haber recibido su terapia luego de la cita brindada al usuario previamente|La aplicación te dará la posibilidad de dejar una reseña o calificacion al especialista luego de haber sido completada la cita, la cual se podrá visualizar junto a otros reseñas hechos por otros usuarios |
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
