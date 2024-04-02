@@ -246,7 +246,15 @@ Para personas que experimentan problemas de bienestar emocional, como estrés la
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-Texto
+* Creemos que los usuarios que experimentan estrés laboral y ansiedad social estarán dispuestos a utilizar una aplicación web como medio para expresar sus preocupaciones y recibir apoyo emocional de especialistas en salud mental y otros usuarios. Sabremos que hemos tenido exito, si el usuario encuentre este ambiente bastante cómodo y puede expresarse libremente poe mdio de la plataforma.
+
+* Creemos que al proporcionar una plataforma centralizada y accesible que combine características como foros de discusión, talleres y acceso a especialistas en salud mental, los usuarios encontrarán una solución integral para satisfacer sus necesidades emocionales.
+
+* Creemos que al ofrecer un plan de suscripción con beneficios adicionales, como acceso a eventos exclusivos y reservas de citas con especialistas, podremos generar ingresos sostenibles y rentables para la startup. Sabremos que hemos tenido exito si los usuarios optan por pagar una suscripcion, ya que se ofrece una gran variedad de nuevas funcionalidades.
+
+* Creemos que los usuarios estarán dispuestos a participar activamente en los foros de discusión de la aplicación, compartiendo sus experiencias y ofreciendo apoyo emocional a otros usuarios. Sabremos que hemos tenido exito si se presenta una mayor cantidad de usuarios que comparten sus opiniones en los foros creados
+
+* Creemos que al ofrecer eventos gratuitos y talleres exclusivos para usuarios suscritos, aumentaremos la retención de usuarios y fomentaremos la conversión de usuarios gratuitos a usuarios de pago. Sabremos que hemos tenido exito si se presenta una mayor demanda de usuarios que adquieren una suscripcion.
 
 #### 1.2.2.4. Lean UX Canvas.
 
