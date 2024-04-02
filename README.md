@@ -197,7 +197,33 @@ Nuestra startup [nombre] tiene como objetivo conectar a personas que presentan a
 
 ### 1.2.1 Antecedentes y problemática
 
-Investigacion (5w, 2h tbn)
+Durante el año 2023, se realizó una investigación exhaustiva sobre los índices de salud mental, evidenciando una compleja interacción de factores que afectan el bienestar emocional de la población. Estudios como el llevado a cabo por Johnson et al. (2023) subrayaron la importancia de considerar no solo las diferencias de género, sino también otros aspectos como la edad, el entorno socioeconómico y la historia de trauma en la manifestación de trastornos emocionales. Se encontró que las mujeres tenían una mayor prevalencia de trastornos de ansiedad y depresión, lo que se asociaba con factores como la carga de responsabilidades familiares y sociales, así como el estrés crónico. Por otro lado, los hombres mostraban una mayor propensión hacia trastornos relacionados con la ira y la impulsividad, aunque estas tendencias podrían estar influenciadas por normas de género y roles sociales preestablecidos.
+
+Además, investigaciones como el Informe Global sobre la Salud Mental (2023) destacaron la importancia de abordar los determinantes sociales de la salud mental, como la discriminación, la marginalización y la falta de acceso a recursos básicos. Estos factores, junto con la estigmatización asociada a los trastornos emocionales, representan barreras significativas para la búsqueda de ayuda y tratamiento. En consecuencia, se requieren intervenciones integrales que no solo se centren en el diagnóstico y tratamiento clínico, sino también en la promoción de entornos sociales y comunitarios que fomenten el apoyo mutuo, la inclusión y la resiliencia emocional.
+
+* What?
+
+Se trata de aplicación web diseñada para conectar a personas que experimentan problemas de bienestar emocional, como estrés laboral y ansiedad social, con especialistas en salud mental y otros usuarios dispuestos a ofrecer apoyo y consejos.
+
+* Who?
+
+La startup se encarga de desarrollar y mantener la aplicación. Además, contará con especialistas en salud mental que ofrecen sus servicios dentro de la plataforma, así como usuarios que buscan ayuda y apoyo emocional.
+
+* When?
+  
+La aplicación estará disponible para su uso en cualquier momento, permitiendo a los usuarios acceder a recursos y apoyo cuando lo necesiten, además de poder realizar consultas en nuestros diversos foros las 24 horas.
+
+* Why?
+  
+La startup busca proporcionar un espacio seguro y accesible para que las personas puedan expresar sus preocupaciones emocionales y recibir apoyo de especialistas y otros usuarios. El objetivo es mejorar el bienestar emocional de los usuarios y ayudarles a encontrar formas efectivas de manejar el estrés y la ansiedad.
+
+* How?
+
+La aplicación ofrece diferentes características, incluyendo foros donde los usuarios pueden hablar sobre sus problemas y recibir recomendaciones y consejos de especialistas en salud mental y otros usuarios. También proporciona acceso a talleres y eventos gratuitos organizados por especialistas, así como un plan de suscripción que incluye beneficios adicionales, como análisis detallados de la salud emocional y la posibilidad de reservar citas con especialistas.
+
+* How much?
+
+La aplicación estará disponible para su descarga de forma gratuita, pero también ofrece un plan de suscripción que proporciona acceso a funciones adicionales por una tarifa. El costo del plan de suscripción y los precios de los servicios ofrecidos dentro de la aplicación pueden variar dependiendo de la estructura de precios establecida por la startup.
 
 ### 1.2.2 Lean UX Process.
 
