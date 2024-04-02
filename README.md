@@ -23,7 +23,7 @@
 
 | Member                           | Code       |
 |----------------------------------|------------|
-| Nombre del Compañero XXX         | u202217485 |
+| Alexander Paolo Justo Yauricasa  | u20191c054 |
 | Nombre del Compañero XXX         | u202217485 |
 | Nombre del Compañero XXX         | u202217485 |
 | Nicolas Sebastian Esteban Garcia | u202217485 |
