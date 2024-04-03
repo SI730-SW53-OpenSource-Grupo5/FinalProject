@@ -258,7 +258,7 @@ Para personas que experimentan problemas de bienestar emocional, como estrés la
 
 #### 1.2.2.4. Lean UX Canvas.
 
-(imagen con texto)
+<img src="./assets/images-chapter1/LeanUX-canvas.jpg" alt="LeanUX_Canvas" style="width:100%">
 
 ## 1.3. Segmentos objetivo.
 
