@@ -260,6 +260,8 @@ Para personas que experimentan problemas de bienestar emocional, como estrés la
 
 <img src="./assets/images-chapter1/LeanUX-canvas.jpg" alt="LeanUX_Canvas" style="width:100%">
 
+#### Enlace Miro: https://miro.com/app/board/uXjVKZJsmRs=/?share_link_id=496612858930
+
 ## 1.3. Segmentos objetivo.
 
 |                           | Segmento 1 | Segmento 2 |
