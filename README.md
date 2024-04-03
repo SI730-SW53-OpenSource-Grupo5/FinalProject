@@ -264,11 +264,11 @@ Para personas que experimentan problemas de bienestar emocional, como estrés la
 
 |                           | Segmento 1 | Segmento 2 |
 | ------------------------- | ---------- | ---------- |
-| Variables                 |            |            |
-| Geográfica                |            |            |
-| Demográfica               |            |            |
-| Psicológica               |            |            |
-| Función de comportamiento |            |            |
+| Variables                 | Usuarios que presentan problemas en su salud mental y desean recurrir a la yuda de otras personas y/o especialistas           | Especialistas que deseen ofrecer sus servicios para apoyar a los usuarios afectados           |
+| Geográfica                | En el Perú se ha contabilizado más de 1 millón 333 mil atenciones en salud mental durante el año 2023.           | En el Perú durante el primer semestre del 2023 se realizaron 6,959 mil asistencias en salud mental por especialistas.           |
+| Demográfica               | No hay distincion de género, pueden ser jóvenes adultos, adultos de mediana edad o personas mayores.           | Especialistas que se encuentren trabajando en un centro de salud certificado          |
+| Psicológica               | Los usuarios pueden tener una necesidad específica de recibir apoyo y orientación emocional y pueden experimentar niveles variables de estrés y ansiedad.           | Nivel de empatía y habilidad para comprender y responder a las necesidades emocionales de los usuarios, además del compromiso con altos estándares éticos en la práctica clínica.           |
+| Función de comportamiento | Busqueda de apoyo, en el cuál actúan buscando una plataforma donde puedan encontrar apoyo emocional y orientación, los niveles de interacción social pueden variar en línea, algunos pueden ser más propensos a participar activamente en discusiones y actividades en la plataforma que otros.            | Deben presentar disposición a colaborar con otros profesionales de la salud mental y a trabajar en equipo y actúan buscando oportunidades para ampliar su base de clientes y ofrecer sus servicios a aquellos que los necesitan.           |
 
 ---
 
