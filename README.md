@@ -24,10 +24,10 @@
 | Member                           | Code       |
 |----------------------------------|------------|
 | Nombre del Compañero XXX         | u202217485 |
-| Nombre del Compañero XXX         | u202217485 |
 | Torrejon Navarro Braulio Rodrigo | u201711828 |
 | Nicolas Sebastian Esteban Garcia | u202217485 |
 | Johan Príncipe Godoy             | u202014511 |
+| Anaely Burga Loarte              | u202118264 |
 </center>
 
 # Registro de Versiones del Informe
