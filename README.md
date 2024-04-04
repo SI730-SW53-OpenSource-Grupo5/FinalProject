@@ -529,17 +529,17 @@ Las etiquetas de SEO y metaetiquetas desempeñan un papel crucial en la visibili
 
 Landing Page:
 
-Tittle: CalmConnection.
-Description: CalmConnection - CalmConnection Official Landing Page.
-Keywords: emotional, connection, mental health, psychologists.
-Authors: CalmConnection team.
+Tittle: CalmConnection.<br>
+Description: CalmConnection - CalmConnection Official Landing Page.<br>
+Keywords: emotional, connection, mental health, psychologists.<br>
+Authors: CalmConnection team.<br>
 
 Aplicación web:
 
-Tittle: CalmConnection.
-Description: CalmConnection - CalmConnection Official Web Page.
-Keywords: emotional, connection, mental health, psychologists.
-Authors: CalmConnection team.
+Tittle: CalmConnection.<br>
+Description: CalmConnection - CalmConnection Official Web Page <br>
+Keywords: emotional, connection, mental health, psychologists.<br>
+Authors: CalmConnection team.<br>
 
 ### 4.2.4. Searching Systems.
 
