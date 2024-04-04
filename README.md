@@ -1,5 +1,3 @@
-![image](https://github.com/SI730-SW53-OpenSource-Grupo5/FinalProject/assets/114323722/023bca34-d0ef-4aa6-a3b3-415ca40b2715)<hr>
-
 # <center>COURSE PROJECT</center>
 
 <p align="center">
@@ -514,6 +512,8 @@ Esquemas de Categorización de Contenido:
 Por Tópicos: La categorización por temas será fundamental en áreas como los foros de discusión y la biblioteca de recursos. Los usuarios podrán explorar y participar en discusiones sobre temas específicos relacionados con su bienestar emocional, como manejo del estrés, ansiedad social, técnicas de relajación, entre otros.
 
 Según Audiencia:Se aplicará una categorización basada en secciones como el perfil del especialista y los eventos. Los usuarios podrán buscar y filtrar especialistas según sus áreas de especialización y experiencia, lo que les permitirá encontrar el apoyo más relevante para sus necesidades emocionales específicas.
+![image](https://github.com/SI730-SW53-OpenSource-Grupo5/FinalProject/assets/114323722/023bca34-d0ef-4aa6-a3b3-415ca40b2715)<hr>
+
 
 ### 4.2.2. Labeling Systems.
 
