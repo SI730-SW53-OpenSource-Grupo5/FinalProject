@@ -347,26 +347,11 @@ Ocupación: _____
 
 ### 2.3.3. User Journey Mapping.
 
-**Registration:**
-Why would they trust us?
+**Segmento 1: Usuarios que presentan problemas en su salud mental y desean recurrir a la yuda de otras personas y/o especialistas**  
+<img src="./assets/Journey_Map_UP1.png" alt="Imagen Journey Map del User Persona 1" style="width:80%">
 
-- s
-- s
-- s
-
-**Onboarding and first use:**
-How can they feel successful?
-
-- s
-- s
-- s
-
-**Sharing:**
-Why would they invite others?
-
-- s
-- s
-- s
+**Segmento 2: Especialistas que deseen ofrecer sus servicios para apoyar a los usuarios afectados**
+<img src="./assets/Journey_Map_UP2.png" alt="Imagen Journey Map del User Persona 2" style="width:80%">
 
 ### 2.3.4. Empathy Mapping.
 
