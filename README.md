@@ -312,10 +312,10 @@ Ocupación: _____
 ### 2.3.1. User Personas.
 
 **Segmento 1:**  
-![Imagen User Persona 1](image.jpg)
+<img src="./assets/Ana_Garcia.png" alt="Imagen del User Persona 1" style="width:100%">
 
 **Segmento 2:**
-![Imagen User Persona 1](image.jpg)
+<img src="./assets/Javier_Sanchez.png" alt="Imagen del User Persona 1" style="width:100%">
 
 ### 2.3.2. User Task Matrix.
 
