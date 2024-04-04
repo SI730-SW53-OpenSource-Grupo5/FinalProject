@@ -403,8 +403,25 @@ Segmento 2:
 
 ## 3.2. User Stories.
 
-| HU0X | Historia Usuario | "Descripcion" |
-| ---- | ---------------- | ------------- |
+| HU0X | Historia Usuario  | "Descripcion" |
+|------|-------------------|---------------|
+| HU01 | Acceso a Recursos de Autocuidado  | Como usuario afectado por el estrés, quiero poder acceder a una variedad de recursos de autocuidado, como técnicas de respiración y meditación guiada, para ayudarme a manejar el estrés en el trabajo. | 
+| HU02 | Participación en Grupos de Discusión Moderados           | Como usuario que busca apoyo emocional, deseo poder participar en grupos de discusión en línea moderados por especialistas en salud mental para compartir mis experiencias y recibir consejos de otros usuarios.        |
+| HU03 | Programación de Sesiones de Terapia en Línea            | Como especialista en salud mental, quiero poder programar y conducir sesiones de terapia en línea con los usuarios para proporcionarles orientación y apoyo individualizado.        |
+| HU04 | Notificaciones sobre Eventos y Talleres Gratuitos           | Como usuario interesado en mejorar mi bienestar emocional, deseo recibir notificaciones y recordatorios sobre eventos y talleres gratuitos relacionados con el manejo del estrés y la ansiedad.        |
+| HU05 | Chat en Línea con Especialistas en Crisis           | Como usuario que busca acceso rápido a la ayuda, deseo poder chatear en línea con un especialista en salud mental cuando experimente crisis emocionales o necesite apoyo inmediato.        |
+| HU06 | Herramientas de Seguimiento del Progreso del Usuario           | Como especialista en salud mental, quiero tener acceso a herramientas de seguimiento del progreso del usuario para poder monitorear y evaluar su bienestar emocional a lo largo del tiempo.        |
+| HU07 | Acceso a Terapias Asequibles           | Como usuario que busca opciones de terapia asequibles, deseo tener acceso a una lista de especialistas en salud mental que ofrezcan tarifas asequibles o descuentos para sesiones de terapia en línea.       |
+| HU08 | Colaboración con Profesionales de Salud Mental           | Como especialista en salud mental, quiero poder colaborar con otros profesionales de la salud mental en la plataforma para discutir casos de usuarios y compartir mejores prácticas.        |
+| HU09 | Interfaz de Usuario Intuitiva y Navegación Eficiente           | Como usuario que busca una experiencia de usuario intuitiva, deseo una interfaz de usuario simple y fácil de navegar para acceder a los recursos y servicios disponibles en la aplicación de manera rápida y eficiente.        |
+| HU10 | Descripción Detallada de los Beneficios Premium          | Como usuario interesado en explorar las funciones premium, deseo poder acceder a una descripción detallada de los beneficios y características adicionales incluidas en el plan de suscripción premium.        |
+| HU11 | Personalización del Perfil de Usuario          | Como usuario registrado, deseo poder personalizar mi perfil de usuario agregando información relevante, como mis intereses, desafíos emocionales específicos y preferencias de notificación, para recibir recomendaciones y contenido personalizado.      |
+| HU12 | Interacción en los Foros de Discusión           | Como usuario participante, deseo poder interactuar con otros usuarios y especialistas en los foros de discusión, comentando en publicaciones, dando me gusta a respuestas útiles y compartiendo recursos relevantes, para sentirme parte de una comunidad de apoyo.       |
+| HU13 | Exploración de Perfiles de Especialistas           | Como usuario en búsqueda de apoyo profesional, deseo explorar perfiles detallados de especialistas en salud mental en la aplicación, que incluyan información sobre su experiencia, enfoques terapéuticos y disponibilidad de citas.      |
+| HU14 | Valoración y Reseñas de Usuarios           | Como usuario interesado en la calidad de los servicios, deseo poder leer reseñas y valoraciones de otros usuarios sobre las sesiones de terapia y servicios ofrecidos por los especialistas en salud mental, para tomar decisiones informadas sobre mi cuidado emocional.      |
+| HU15 | Visualización de Disponibilidad de Citas           | Como usuario, deseo poder ver fácilmente la disponibilidad de citas de los especialistas en un calendario interactivo, mostrando los horarios preestablecidos disponibles para programar una sesión.       |
+| HU16 |  Adaptación a Múltiples Dispositivos         | Como usuario, deseo que la aplicación se adapte de manera fluida y eficiente a diferentes dispositivos, como teléfonos inteligentes, tabletas y computadoras de escritorio, para garantizar una experiencia consistente y optimizada en todos los dispositivos.      |
+
 
 ## 3.3. Impact Mapping.
 
