@@ -527,18 +527,19 @@ Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
 
 Las etiquetas de SEO y metaetiquetas desempeñan un papel crucial en la visibilidad y la accesibilidad de "CalmConnection" en los motores de búsqueda. Las etiquetas SEO consisten en términos clave pertinentes y descripciones breves, con el propósito de que los motores de búsqueda puedan indexar y clasificar eficazmente el contenido de la aplicación. Por otro lado, las metaetiquetas ofrecen detalles adicionales acerca de la página, como el título y la descripción que se visualizan en los resultados de búsqueda. Estas etiquetas son esenciales para aumentar la visibilidad y la clasificación de "CalmConnection" en los motores de búsqueda, lo que resulta en un mayor tráfico y una mayor exposición para la aplicación.
 
-Para el Landing Page:
+Landing Page:
 
-Tittle: CalmConnection
-Description: CalmConnection - CalmConnection Official Landing Page
-Keywords: emotional, connection, mental health, psychologists
-Authors: CalmConnection team
-Para la aplicación web:
+Tittle: CalmConnection.
+Description: CalmConnection - CalmConnection Official Landing Page.
+Keywords: emotional, connection, mental health, psychologists.
+Authors: CalmConnection team.
 
-Tittle: CalmConnection
-Description: CalmConnection - CalmConnection Official Web Page
-Keywords: emotional, connection, mental health, psychologists
-Authors: CalmConnection team
+Aplicación web:
+
+Tittle: CalmConnection.
+Description: CalmConnection - CalmConnection Official Web Page.
+Keywords: emotional, connection, mental health, psychologists.
+Authors: CalmConnection team.
 
 ### 4.2.4. Searching Systems.
 
