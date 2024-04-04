@@ -497,6 +497,8 @@ Descripcion de los elementos que se utilizaran en el web app
 
 ## 4.2. Information Architecture.
 
+En el proyecto "CalmConnection", la arquitectura de la información se diseña meticulosamente para garantizar una experiencia de usuario coherente y efectiva. Esta arquitectura se fundamenta en la comprensión profunda de las necesidades emocionales de los usuarios y las soluciones propuestas para abordarlas. A continuación, se detallan y se amplían los sistemas de arquitectura de información seleccionados:
+
 ### 4.2.1. Organization Systems.
 
 Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
