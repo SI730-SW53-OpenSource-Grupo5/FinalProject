@@ -311,18 +311,39 @@ Ocupación: _____
 
 ### 2.3.1. User Personas.
 
-**Segmento 1:**  
-<img src="./assets/Ana_Garcia.png" alt="Imagen del User Persona 1" style="width:100%">
+**Segmento 1: Usuarios que presentan problemas en su salud mental y desean recurrir a la yuda de otras personas y/o especialistas**  
+<img src="./assets/Ana_Garcia.png" alt="Imagen del User Persona 1" style="width:80%">
 
-**Segmento 2:**
-<img src="./assets/Javier_Sanchez.png" alt="Imagen del User Persona 1" style="width:100%">
+**Segmento 2: Especialistas que deseen ofrecer sus servicios para apoyar a los usuarios afectados**
+<img src="./assets/Javier_Sanchez.png" alt="Imagen del User Persona 1" style="width:80%">
 
 ### 2.3.2. User Task Matrix.
 
-| ---  | ------  | Segmento 1  | ------/----- | Segmento 2  | ---------- |
-| ---- | ------- | ----------- | ------------ | ----------- | ---------- |
-| ID   | Titulo  | Importancia | Frecuencia   | Importancia | Frecuencia |
-| U01X | {Texto} | Alta        | Alta         | Media       | Baja       |
+**Segmento 1: Usuarios que presentan problemas en su salud mental y desean recurrir a la yuda de otras personas y/o especialistas**
+
+| Tarea                                    | Frecuencia | Severidad |
+|------------------------------------------|------------|-----------|
+| Buscar recursos de apoyo emocional       | Alta       | Alta      |
+| Programar una cita con un consejero      | Media      | Alta      |   
+| Practicar técnicas de relajación         | Alta       | Media     |
+| Compartir experiencias con otros         | Baja       | Alta      |
+| Encontrar información sobre salud mental | Alta       | Alta      |
+| Practicar técnicas de relajación         | Media      | Alta      |
+| Establecer metas de autocuidado          | Baja       | Alta      |
+| Realizar actividades recreativas         | Baja       | Alta      |
+| Mantener un diario de emociones          | Media      | Media     |
+
+**Segmento 2: Especialistas que deseen ofrecer sus servicios para apoyar a los usuarios afectados**
+
+| Tarea                                                             | Frecuencia | Severidad |
+|-------------------------------------------------------------------|------------|-----------|
+| Evaluar las necesidades del cliente                               | Alta       | Alta      |
+| Diseñar un plan de tratamiento personalizado                      | Alta       | Alta      |   
+| Brindar terapia individual o grupal                               | Alta       | Alta      |
+| Seguir el progreso del cliente                                    | Alta       | Alta      |
+| Proporcionar recursos y herramientas de autoayuda                 | Media      | Alta      |
+| Colaborar con otros profesionales de la salud                     | Media      | Media     |
+| Mantenerse actualizado en las últimas investigaciones y prácticas | Alta       | Alta      |
 
 ### 2.3.3. User Journey Mapping.
 
