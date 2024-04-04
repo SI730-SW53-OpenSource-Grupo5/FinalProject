@@ -252,12 +252,12 @@ En este apartado se realizará el análisis de 3 competidores, directos o indire
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
-| Competidores -> |               | Nosotros | Competidor2 | Competidor3 |
+| Competidores -> |               | Nosotros | Buenoco | KalmaPeru |
 | --------------- | ------------- | -------- | ----------- | ----------- |
-| Análisis SWOT   | Fortalezas    | lorem    | Lorem       | lorem       |
-|                 | Debilidades   | lorem    | lorem       | lorem       | lorem |
-|                 | Oportunidades | lorem    | lorem       | lorem       | lorem |
-|                 | Amenazas      | lorem    | lorem       | lorem       | lorem |
+| Análisis SWOT   | Fortalezas    | Variedad de servicio, foro de la comunidad, comunidad fuerte   | Selección rigurosa de psicologos  | Socios involucrados, ser el primero en el Perú |
+|                 | Debilidades   | Requiere conexión a internet, enfocado solo en peru,    | Aceptación de terapias en linea, dependencia a la tecnologia     | no colocar su precio en la pagina principal, no aplicativo.       | lorem |
+|                 | Oportunidades | Demanda creciente, expansión global, colaboraciones con organizaciones, accesiblidad    | Crecimiento de mercado, personalización, expansión internacional  | Funciona mejor para gente de edad mas avanzada.     | lorem |
+|                 | Amenazas      | Competencia, que los psicologos se unan, seguridad, tencnologia   | Competencia, regulaciones, percepción publica.      | Competencia, falta de adaptación a la tecnologia      | lorem |
 
 ## 2.2. Entrevistas.
 
