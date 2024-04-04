@@ -554,10 +554,22 @@ Authors: CalmConnection team.<br>
 
 ### 4.2.4. Searching Systems.
 
-**Que se busca?:** Que buscara el usuario  
-**Que resultados se mostraran?:** Que se mostrara  
-**Interface de busqueda:** Descripcion de como ayuda a encontrar lo deseado
-![Search interface preview web](image.jpg)
+Dentro de "CalmConnection" hemos diseñado un sistema de búsqueda que permite a nuestros usuarios encontrar rápida y eficientemente información relevante para mejorar su bienestar emocional.
+
+**¿Qué se busca?**
+Nuestros usuarios tienen la posibilidad de explorar una amplia variedad de temas relacionados con su salud mental y emocional. Desde técnicas para manejar el estrés hasta estrategias para abordar la ansiedad social, nuestro sistema de búsqueda abarca una amplia gama de necesidades.
+
+**¿Qué resultados se mostrarán?**
+Al realizar una búsqueda, los usuarios encontrarán una lista diversa de resultados que cubren diferentes aspectos de su consulta. Esto incluye publicaciones significativas de nuestros foros de discusión, próximos eventos relacionados con el tema, talleres disponibles que pueden ofrecer herramientas adicionales, y perfiles detallados de especialistas en salud mental que pueden proporcionar orientación y apoyo personalizado.
+
+**Interfaz de Búsqueda:*
+La interfaz de búsqueda ha sido diseñada pensando en la facilidad de uso y la accesibilidad. Los usuarios pueden escribir sus consultas en un cuadro de búsqueda dedicado, y nuestra función de autocompletar les ofrece sugerencias relevantes para agilizar el proceso. Una vez realizada la búsqueda, los resultados se presentan de manera clara y ordenada, con opciones de filtrado y clasificación disponibles para una navegación más eficiente y personalizada.
+
+Con nuestro sistema de búsqueda, garantizamos que los usuarios de "CalmConnection" puedan acceder de manera rápida y sencilla a recursos que promuevan su bienestar emocional, brindándoles el apoyo necesario para afrontar sus desafíos emocionales con confianza y seguridad.
+
+
+![image](https://github.com/SI730-SW53-OpenSource-Grupo5/FinalProject/assets/114323722/5291b6ec-6056-4ee7-ba72-6374025b12a3)
+
 
 ### 4.2.5. Navigation Systems.
 En "CalmConnection", nos esforzamos por asegurar que la navegación dentro de nuestra aplicación de salud mental sea intuitiva y efectiva, ofreciendo a los usuarios una experiencia enriquecedora y satisfactoria mientras buscan apoyo y recursos para fortalecer su bienestar emocional.
