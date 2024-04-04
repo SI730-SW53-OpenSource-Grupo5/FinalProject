@@ -562,7 +562,7 @@ Nuestros usuarios tienen la posibilidad de explorar una amplia variedad de temas
 **¿Qué resultados se mostrarán?**
 Al realizar una búsqueda, los usuarios encontrarán una lista diversa de resultados que cubren diferentes aspectos de su consulta. Esto incluye publicaciones significativas de nuestros foros de discusión, próximos eventos relacionados con el tema, talleres disponibles que pueden ofrecer herramientas adicionales, y perfiles detallados de especialistas en salud mental que pueden proporcionar orientación y apoyo personalizado.
 
-**Interfaz de Búsqueda:*
+**Interfaz de Búsqueda:**
 La interfaz de búsqueda ha sido diseñada pensando en la facilidad de uso y la accesibilidad. Los usuarios pueden escribir sus consultas en un cuadro de búsqueda dedicado, y nuestra función de autocompletar les ofrece sugerencias relevantes para agilizar el proceso. Una vez realizada la búsqueda, los resultados se presentan de manera clara y ordenada, con opciones de filtrado y clasificación disponibles para una navegación más eficiente y personalizada.
 
 Con nuestro sistema de búsqueda, garantizamos que los usuarios de "CalmConnection" puedan acceder de manera rápida y sencilla a recursos que promuevan su bienestar emocional, brindándoles el apoyo necesario para afrontar sus desafíos emocionales con confianza y seguridad.
