@@ -230,12 +230,14 @@ Texto
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores.
+Esta sección estará dividia en 2 segmentos. La primera parte se realizará el análisis de los competidores más conocidos en el área en el que se desarrolla nuestro proyecto. En la segunda parte vamos a analizar los métodos y estrategias para poder hacerles frente y lograr destacar entre ellas.
 
 ### 2.1.1. Análisis competitivo.
+En este apartado se realizará el análisis de 3 competidores, directos o indirectos, con un modelo de negocio similar o con ofertas parcialmente similares.
 
 | Competitive Analysis Landscape        |     |
 | ------------------------------------- | --- |
-| ¿Por qué llevar a cabo este análisis? | --  |
+| ¿Por qué llevar a cabo este análisis? | Llevamos a cabo el análisis de los competidores directos e indirectos de nuestro producto, con el fin de poder indentificar sus debilidades , fortalezas, misión, visión, su público objetivo, entre otros aspectos. Esto nos va a servir para desarrollar ventajas competitivas y mejorar nuestro producto.  |
 
 |                     |                                                       | (Nosotros)                                                                                                                     | Competidor                                                                  | Comptdor                                             |
 | ------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- | ---------------------------------------------------- |
