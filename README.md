@@ -363,25 +363,11 @@ Ocupación: _____
 
 ### 2.3.5. As-is Scenario Mapping.
 
-**Segmento 1**  
-Escenario: {escenario}
+**Segmento 1: Usuarios que presentan problemas en su salud mental y desean recurrir a la yuda de otras personas y/o especialistas**  
+<img src="./assets/As-is_scenariomap_UP1.png" alt="Imagen As-is Scenario Map del User Persona 1" style="width:80%">
 
-As Is:
-| Fases    | Fase 1 | Fase 2 | Fase 3 | Fase 4 |
-| -------- | ------ | ------ | ------ | ------ |
-| Doing    | texto  | texto  | texto  | texto  |
-| Thinking | texto  | texto  | texto  | texto  |
-| Feeling  | texto  | texto  | texto  | texto  |
-
-**Segmento 2**  
-Escenario: Dificultad para entender Matemáticas
-
-As Is:
-| Fases    | Fase 1 | Fase 2 | Fase 3 | Fase 4 |
-| -------- | ------ | ------ | ------ | ------ |
-| Doing    | texto  | texto  | texto  | texto  |
-| Thinking | texto  | texto  | texto  | texto  |
-| Feeling  | texto  | texto  | texto  | texto  |
+**Segmento 2: Especialistas que deseen ofrecer sus servicios para apoyar a los usuarios afectados**
+<img src="./assets/As-is_scenariomap_UP2.png" alt="Imagen As-is Scenario Map del User Persona 2" style="width:80%">
 
 ## 2.4. Ubiquitous Language.
 
