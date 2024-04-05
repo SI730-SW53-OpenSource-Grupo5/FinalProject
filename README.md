@@ -355,11 +355,11 @@ Ocupación: _____
 
 ### 2.3.4. Empathy Mapping.
 
-**Segmento 1:**
-![Empathy Map Segmento1](image.jpg)
+**Segmento 1: Usuarios que presentan problemas en su salud mental y desean recurrir a la yuda de otras personas y/o especialistas**  
+<img src="./assets/Empathy_map_UP1.png" alt="Imagen Empathy Map del User Persona 1" style="width:80%">
 
-**Segmento 2:**
-![Empathy Map Segmento1](image.jpg)
+**Segmento 2: Especialistas que deseen ofrecer sus servicios para apoyar a los usuarios afectados**
+<img src="./assets/Empathy_map_UP2.png" alt="Imagen Empathy Map del User Persona 2" style="width:80%">
 
 ### 2.3.5. As-is Scenario Mapping.
 
