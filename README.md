@@ -446,7 +446,7 @@ Segmento 2:
 | 13     | HU13          | Exploración de Perfiles de Especialistas           | Como usuario buscando apoyo profesional, quiero ver perfiles detallados de especialistas en salud mental en la aplicación, con información sobre su experiencia, enfoques terapéuticos y disponibilidad de citas.      | 2 |
 | 14     | HU14          | Valoración y Reseñas de Usuarios           | Como usuario preocupado por la calidad, quiero leer reseñas de otros usuarios sobre las sesiones de terapia y servicios ofrecidos por los especialistas en salud mental para tomar decisiones informadas sobre mi cuidado emocional.      | 2 |
 | 15     | HU15          | Visualización de Disponibilidad de Citas           | Como usuario, quiero ver la disponibilidad de citas de los especialistas en un calendario interactivo para programar fácilmente una sesión, mostrando los horarios disponibles.       | 2 |
-| 16     | HU16          |  Adaptación a Múltiples Dispositivos         | Como usuario, quiero que la aplicación se adapte sin problemas a diferentes dispositivos (teléfonos inteligentes, tabletas, computadoras de escritorio) para asegurar una experiencia consistente y óptima en todos ellos.      | 8 |
+| 16     | HU16          |  Adaptación a Múltiples Dispositivos         | Como usuario, quiero que la aplicación se adapte sin problemas a diferentes dispositivos (teléfonos inteligentes, tabletas, computadoras de escritorio) para asegurar una experiencia consistente y óptima en todos ellos.      | 5 |
 
 # Capítulo IV: Product Design
 
