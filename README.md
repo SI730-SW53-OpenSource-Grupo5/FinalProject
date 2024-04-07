@@ -431,7 +431,7 @@ Segmento 2:
 
 | #Orden | User Story ID | Titulo     | Descripción | Story Points (1/2/3/5/8) |
 | ------ | ------------- | ---------- | ----------- | ------------------------ |
-| 1      | HU01          | titulo his | desc        | 5                        |
+| 1      | HU01          | Acceso a Recursos de Autocuidado | Como usuario estresado, quiero acceder a recursos de autocuidado como técnicas de respiración y meditación para gestionar el estrés laboral. | 5                        |
 
 # Capítulo IV: Product Design
 
