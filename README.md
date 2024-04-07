@@ -432,6 +432,9 @@ Segmento 2:
 | #Orden | User Story ID | Titulo     | Descripción | Story Points (1/2/3/5/8) |
 | ------ | ------------- | ---------- | ----------- | ------------------------ |
 | 1      | HU01          | Acceso a Recursos de Autocuidado | Como usuario estresado, quiero acceder a recursos de autocuidado como técnicas de respiración y meditación para gestionar el estrés laboral. | 5                        |
+| 2      | HU2           | Participación en Grupos de Discusión Moderados | Como usuario buscando apoyo emocional, quiero unirme a grupos de discusión en línea con moderación profesional para intercambiar experiencias y recibir consejos de otros participantes. | 3 |
+| 3      | HU3           | Programación de Sesiones de Terapia en Línea	 | ----------- | ------------------------ |
+| 4      | HU4           | ---------- | ----------- | ------------------------ |
 
 # Capítulo IV: Product Design
 
