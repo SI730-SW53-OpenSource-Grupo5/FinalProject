@@ -292,14 +292,24 @@ En este apartado se realizará el análisis de 3 competidores, directos o indire
 
 ### 2.2.2. Registro de entrevistas.
 
-**Segmento 1**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
+**Segmento 01: Personas con problemas de salud mental buscan apoyo emocional*** 
 
-**Segmento 2**  
+***Entrevistado 1***
+
+Nombre: Sebastian Ramirez Hoffman  
+Edad: 19 años   
+Ocupación: Estudiante de Ingenieria de Software
+
+<img src="./assets/interviews/entrevistado01_segmento01.png" style="width:100%;">
+
+***Entrevistado 2***
+
+Nombre: Harold Mayta Lopez  
+Edad: 21 años   
+Ocupación: Estudiante de Ingenieria de Software
+<img src="./assets/interviews/entrevistado02-segmento01.png" style="width:100%;">
+
+**Segmento 02: Profesionales de la salud mental que desean ayudar a mejorar la salud emocional de las personas**  
 Nombre: _____
 Edad: _ años
 Ocupación: _____  
