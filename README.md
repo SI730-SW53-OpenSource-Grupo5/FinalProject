@@ -265,24 +265,30 @@ En este apartado se realizará el análisis de 3 competidores, directos o indire
 
 **Preguntas generales:**
 
-1. ¿Cuál es su nombre?
+1. ¿Podrías proporcionarnos tu nombre completo? 
 2. ¿Qué edad tiene?
-3. ¿A qué se dedica?
-4. ¿[Opinion de idea de propuesta]?
+3. ¿Cuál es tu ocupación actual o solo estudios? 
+4. ¿Podrías decirnos brevemente sobre tus intereses personales o profesionales? 
+   
+**Entrevistas usuario segmento 1: usuarios que buscan ayuda emocional por medio de una plataforma**
+
+1. ¿Qué piensas de la idea de buscar ayuda emocional a través de una aplicación web? 
+2. ¿Cómo te sentirías al compartir tus preocupaciones emocionales en una plataforma en línea? 
+3. ¿Qué aspectos considerarías importantes al decidir utilizar una aplicación web para mejorar tu bienestar emocional? 
+4. ¿Qué opinas sobre la posibilidad de recibir apoyo emocional de una comunidad en línea?	
+5. ¿Cuáles serían tus expectativas al participar en una plataforma que ofrece recursos y consejos para el bienestar emocional?
+6. ¿Qué características te gustaría ver en una aplicación web que ofrece apoyo emocional?
+7. ¿Qué tipo de interacción esperarías tener con otros usuarios en una plataforma de ayuda emocional en línea?
 
 **Entrevistas usuario segmento 2**
 
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?
-
-**Entrevistas usuario segmento 2**
-
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?
+1. ¿Qué piensas de la idea de ofrecer tus servicios profesionales en una aplicación web? 
+2. ¿Cómo crees que el uso de una plataforma digital puede influir en la forma en que proporcionas tratamiento o terapia? 
+3. ¿Qué aspectos considerarías importantes al decidir unirte a una plataforma en línea para ofrecer tus servicios? 
+4. ¿Qué desafíos anticipas al brindar servicios de salud mental a través de una aplicación web?
+5. ¿Cómo crees que la tecnología puede mejorar tu capacidad para llegar a más personas que buscan ayuda emocional?
+6. ¿Qué oportunidades crees que ofrece una plataforma digital para expandir tu práctica profesional en el campo de la salud mental?
+7. ¿Qué crees que podría diferenciar a una aplicación web exitosa para profesionales de la salud mental de otras plataformas disponibles en línea?
 
 ### 2.2.2. Registro de entrevistas.
 
