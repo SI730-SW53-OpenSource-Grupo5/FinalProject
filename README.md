@@ -422,7 +422,7 @@ Segmento 2:
 
 ### 4.1.1. General Style Guidelines.
 
-Descripcion del porque estos elementos seran importantes
+Como empresa emergente, nuestra meta es asegurar que la interfaz de nuestra aplicación [name] transmita un sentido de profesionalismo, facilidad de uso y precisión para nuestros usuarios. Nos esforzamos en garantizar que los usuarios puedan llevar a cabo sus proyectos de manera eficaz, por lo que empleamos recursos visuales para atraer a nuestros segmento objetivo. Optamos por colores asociados al ámbito de la salud mental y utilizamos una tipografía con diferentes tamaños que garantiza la legibilidad.
 
 **Color:** (Descripcion de los colores escogidos y porque)  
 ![Colores generales](image.jpg)
