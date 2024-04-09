@@ -292,6 +292,8 @@ En este apartado se realizará el análisis de 3 competidores, directos o indire
 
 ### 2.2.2. Registro de entrevistas.
 
+***Enlace Entrevistas:*** https://drive.google.com/drive/folders/11k8Bvr1FZljtDV1J2fFZM1UawkEcSi-B?usp=sharing
+
 **Segmento 01: Personas con problemas de salud mental buscan apoyo emocional*** 
 
 ***Entrevistado 1***
