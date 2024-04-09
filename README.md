@@ -440,7 +440,8 @@ Como empresa emergente, nuestra meta es asegurar que la interfaz de nuestra apli
 
 
 **Brand Overview:** 
-<b/>Nuestra porpuesta suerge por la falta de recursos de ayuda en la salud mental, por lo que brindamos una solución tecnológica en la cual podrán encontrar un repertorio de ayuda psicologuica que necesiten por especialistas en el tema.   
+
+Nuestra porpuesta suerge por la falta de recursos de ayuda en la salud mental, por lo que brindamos una solución tecnológica en la cual podrán encontrar un repertorio de ayuda psicologuica que necesiten por especialistas en el tema.   
 
 **Brand Name:**
 
