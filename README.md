@@ -297,22 +297,41 @@ En este apartado se realizará el análisis de 3 competidores, directos o indire
 ***Entrevistado 1***
 
 Nombre: Sebastian Ramirez Hoffman  
+
 Edad: 19 años   
+
 Ocupación: Estudiante de Ingenieria de Software
 
 <img src="./assets/interviews/entrevistado01_segmento01.png" style="width:100%;">
 
+Duración: 11:08
+
+Enlace de entrevista: https://drive.google.com/file/d/1jh8pLWQNGsjuUY4qjBZL0ngEASCMfV5r/view?usp=sharing
+
+**Resumen de la entrevista:** Nuestro entrevistado fue Sebastian Ramirez, estudiante de la carrera de Ingeniería de software, el cual cuenta con cierta experiencia en el uso de plataformas de debate o donde multiples usuarios pueden dar una opinión respecto a un tema en concreto. En base a ello, nos comentó como era el ambiente y que cualidades destacables tenian los foros en linea y como las personas pueden dar una opinión libre respecto al tema que se debate. Además, que la función mas relevante era el anonimato, ya que muchos de estos usuarios se expresan a traves de una cuenta, en la cual no se tiene conocimiento o no se garantiza de donde proviene el usuario que comenta. Luego de explicarle nuestra idea de negocio, nos comentó que seria una alternativa viable, ya que muchos foros en linea debaten diversos temas que no necesariamente guardan una relacion entre sí, sin embargo, el hecho de dar prioridad al tema de bienestar y cuidado emocional, donde se pueda contar con usuarios especialistas u otros usuarios que hayan pasado por dicho problema puedan ser libres de dar algun consejo.  
+
 ***Entrevistado 2***
 
 Nombre: Harold Mayta Lopez  
+
 Edad: 21 años   
+
 Ocupación: Estudiante de Ingenieria de Software
+
 <img src="./assets/interviews/entrevistado02-segmento01.png" style="width:100%;">
+
+Duración: 9:30
+
+Enlace de entrevista: https://drive.google.com/file/d/1lSAuVtGM5KNiw88R8gcFNf6SD611oyKP/view?usp=sharing
+
+**Resumen de la entrevista:** Nuestro entrevistado fue Sebastian Ramirez, estudiante de la carrera de Ingeniería de software, el cual cuenta con experiencia en la participación de foros en linea como Reddit. Respecto a ello, nos comento que existen diversos temas que se debaten dia a dia, con cientos de usuarios dispuestos a dar una opnión respecto a un tema especifico. Sin embargo, no mucha de esta información es confiable, o no se garantiza información veridica del usuario que comenta. Luego, resalto la suma importancia del anonimato en este tipo de comunidades en línea, ya que protegia la integridad de un usuario. Luego de comentarle nuestra idea de negocio, nos comentó que seria de gran ayuda contar con un foro en linea que se centre especificamente a todo lo relacionado a la salud mental, ya que es un tema que no se le da mucha relevancia, resalto que el hecho de contar con usuarios verificados como especialistas en el área, pueden dar un mejor aporte a los hilos o debates creados con los usuarios, además que esto ayudarpia a que la información proporcionada tenga mayor validez.
 
 ***Entrevistado 3***
 
 Nombre: Camila Dias MigueldelPriego 
+
 Edad: 23 años   
+
 Ocupación: Estudiante de Diseño grafico
 
 <img src="./assets/interviews/entrevistado03_segmento01.PNG" style="width:100%;">
@@ -322,7 +341,6 @@ Nombre: _____
 Edad: _ años
 Ocupación: _____  
 ![Imagen de entrevista](image.jpg)
-{texto}
 
 ### 2.2.3. Análisis de entrevistas.
 
