@@ -438,9 +438,11 @@ Como empresa emergente, nuestra meta es asegurar que la interfaz de nuestra apli
 | Tipografia Segundario | Fuente: Arima / Tamño: 12 px - 20 px | ![Tipografias generales](image.jpg) |
 
 **Branding** 
-| ---------- | ------ |
-| **Brand Overview:** | Nuestra porpuesta suerge por la falta de recursos de ayuda en la salud mental, por lo que brindamos una solución tecnológica en la cual podrán encontrar un repertorio de ayuda psicologuica que necesiten por especialistas en el tema.  | 
-| **Brand Name:** | ----- | 
+
+Brand Overview: Nuestra porpuesta suerge por la falta de recursos de ayuda en la salud mental, por lo que brindamos una solución tecnológica en la cual podrán encontrar un repertorio de ayuda psicologuica que necesiten por especialistas en el tema.   
+
+Brand Name:
+
 ![Branding general](image.jpg)
 
 ### 4.1.2. Web Style Guidelines.
