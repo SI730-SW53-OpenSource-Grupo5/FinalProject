@@ -464,49 +464,94 @@ Descripcion de los elementos que se utilizaran en el web app
 
 ## 4.2. Information Architecture.
 
+En el proyecto "CalmConnection", la arquitectura de la información se diseña meticulosamente para garantizar una experiencia de usuario coherente y efectiva. Esta arquitectura se fundamenta en la comprensión profunda de las necesidades emocionales de los usuarios y las soluciones propuestas para abordarlas. A continuación, se detallan y se amplían los sistemas de arquitectura de información seleccionados:
+
 ### 4.2.1. Organization Systems.
 
-Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
-"Hierarchical. This structures advices to present the content in a way to distinguish the level of importance by making
-use of physical differences, such as size, colour, contrast, alignment etc.
+En la creación del Lading Page y también de la aplicación web haremos uso del enfoque jerárquica. Esta metodología permitirá asignar la ubicación óptima a cada elemento requerido en el desarrollo y este enfoque jerárquico permite una navegación clara y fácil, lo que ayuda a los usuarios a encontrar rápidamente lo que están buscando y a comprender la estructura general de la aplicación. Para lograrlo, se tendrán en cuenta factores como etiquetas, especificaciones de pantalla y resolución. Asimismo, se diseñarán íconos utilizando una matriz, lo que facilitará la visualización de los detalles y contribuirá a mantener un proceso ordenado en todo momento.
 
-Sequential. Guide users to follow a specific path towards their goal and provide content step-by-step based on the
-current step.
+- Selección: Jerárquico: El sistema de organización jerárquica se adapta perfectamente a las necesidades de "CalmConnection". Este enfoque estructura el contenido en un formato que refleja la importancia y la relación de los elementos entre sí. Por ejemplo, la página de inicio actúa como un punto central desde el cual los usuarios pueden acceder a los servicios principales, como los foros de discusión, eventos y opciones de suscripción. Desde allí, pueden navegar hacia abajo a través de niveles de contenido secundario para encontrar información más específica o detallada sobre temas relacionados con su bienestar emocional.
 
-Matrix. You can always give the users the option to choose the type of navigation they prefer, i.e. Alphabetical,
-Chronological, by topic."
+- Matrix: Si bien el enfoque de matriz permite una flexibilidad en la navegación, podría resultar abrumador para los usuarios debido a la cantidad de opciones disponibles. La organización jerárquica proporciona una estructura más clara y fácil de entender para los usuarios, lo que mejora la usabilidad y la experiencia general. Si bien no se aplicará ampliamente, el enfoque matricial se utilizará en áreas donde los usuarios puedan beneficiarse de la flexibilidad de elegir cómo desean explorar el contenido. Por ejemplo, podríamos permitir a los usuarios ordenar las publicaciones del foro por temas, fecha o popularidad, brindándoles opciones para personalizar su experiencia de navegación según sus preferencias individuales y se incluirá para que cuando el usuario quisiera consigurar aspectos de la cuenta creada pueda realizar los cambios necesario en apartados divididos.
+  
+- Sequential: Aunque este enfoque puede ser útil para guiar a los usuarios a través de un proceso paso a paso, no se adapta bien a la naturaleza diversa y multifacética de "CalmConnection". La organización jerárquica permite una exploración más libre y personalizada de los servicios y recursos disponibles. Sin embargo, se incluirá al momento de que los usuarios realicen la creación de sus cuenta o realicen el plan de suscripción que se ofrecerá en la aplicación.
+
+- Esquemas de Categorización de Contenido:
+Por Tópicos: La categorización por temas será fundamental en áreas como los foros de discusión y la biblioteca de recursos. Los usuarios podrán explorar y participar en discusiones sobre temas específicos relacionados con su bienestar emocional, como manejo del estrés, ansiedad social, técnicas de relajación, entre otros.
+
+Según Audiencia:Se aplicará una categorización basada en secciones como el perfil del especialista y los eventos. Los usuarios podrán buscar y filtrar especialistas según sus áreas de especialización y experiencia, lo que les permitirá encontrar el apoyo más relevante para sus necesidades emocionales específicas.
+
 
 ### 4.2.2. Labeling Systems.
 
-The labeling system aims at uniting the data effectively and represent them in simple way and avoid confusing great
-amount of information. A widely adopted way to achieve this is by creating the labels which represent loads of data in
-few words.
+En "CalmConnection", hemos dedicado especial atención a seleccionar etiquetas descriptivas que guíen de manera clara y efectiva a nuestros usuarios a través de la aplicación. Cada etiqueta ha sido cuidadosamente elegida para reflejar con precisión el propósito y el contenido de las diversas secciones de nuestra plataforma, asegurando una experiencia de navegación fluida y satisfactoria.
 
-Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
+- Inicio: La etiqueta "Inicio" actúa como la puerta de entrada a nuestra aplicación, ofreciendo a los usuarios una visión general de los servicios y recursos disponibles en "CalmConnection". Desde aquí, los usuarios pueden iniciar su viaje hacia el bienestar emocional explorando las diversas opciones y funcionalidades que ofrecemos.
+
+- Servicios: Al seleccionar esta etiqueta, nuestros usuarios son conducidos a una sección que resalta los principales servicios ofrecidos por "CalmConnection". Desde foros de discusión hasta eventos especiales y opciones de suscripción, esta sección proporciona una descripción detallada de los recursos disponibles para nuestros usuarios.
+
+- Quiénes Somos: La etiqueta "Quiénes Somos" les brinda a nuestros usuarios la oportunidad de conocer más sobre la historia y el equipo detrás de "CalmConnection". Aquí, compartimos nuestra misión, visión y valores, así como también presentamos al equipo comprometido con el desarrollo y mantenimiento de nuestra aplicación.
+
+- Ayuda: En "CalmConnection", nos esforzamos por ofrecer apoyo y orientación a nuestros usuarios en cada paso del camino. La etiqueta "Ayuda" les proporciona acceso a recursos y guías diseñadas para resolver cualquier duda o problema que puedan encontrar durante su experiencia con nuestra aplicación.
+
+- Preguntas: Nuestra sección de "Preguntas" ofrece respuestas a las consultas más comunes sobre el funcionamiento y los servicios de "CalmConnection". Desde detalles sobre la reserva de citas hasta información sobre eventos futuros, esta sección sirve como una valiosa fuente de información para nuestros usuarios.
+
+- Testimonios: ¿Qué mejor manera de conocer los beneficios de "CalmConnection" que a través de las experiencias reales de nuestros usuarios? La etiqueta "Testimonios" presenta historias auténticas y reseñas de aquellos que han encontrado apoyo y soluciones a través de nuestra plataforma.
+
+- Descargar: La etiqueta "Descargar" ofrece a nuestros usuarios un acceso rápido y conveniente para obtener la aplicación "CalmConnection" en sus dispositivos preferidos. Con enlaces directos a las diferentes versiones disponibles, facilitamos que nuestros usuarios comiencen a disfrutar de los beneficios de nuestra aplicación en cualquier momento y lugar.
+
+Con estas etiquetas descriptivas, buscamos garantizar que la experiencia de navegación en "CalmConnection" sea clara, intuitiva y completamente centrada en las necesidades de nuestros usuarios.
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-**Meta & SEO (Search Engine Optimization) Tags:**  sirven para que la pagina web sea encontrada facilmente es lo que
-sale al encontrar la pagina en el buscador (se ponen en el <"head">)
+Las etiquetas de SEO y metaetiquetas desempeñan un papel crucial en la visibilidad y la accesibilidad de "CalmConnection" en los motores de búsqueda. Las etiquetas SEO consisten en términos clave pertinentes y descripciones breves, con el propósito de que los motores de búsqueda puedan indexar y clasificar eficazmente el contenido de la aplicación. Por otro lado, las metaetiquetas ofrecen detalles adicionales acerca de la página, como el título y la descripción que se visualizan en los resultados de búsqueda. Estas etiquetas son esenciales para aumentar la visibilidad y la clasificación de "CalmConnection" en los motores de búsqueda, lo que resulta en un mayor tráfico y una mayor exposición para la aplicación.
 
-* Titulo: ```<title> ___ </title> ```
-* Descripcion: ```<meta name = "description" content = "texto descipcion"/> ```
-* Palabras Clave: ```<meta name = "keyword" content = "keyword1, 2 3"/> ```
+- Landing Page:
+
+Tittle: CalmConnection.<br>
+Description: CalmConnection - CalmConnection Official Landing Page.<br>
+Keywords: emotional, connection, mental health, psychologists.<br>
+Authors: CalmConnection team.<br>
+
+- Aplicación web:
+
+Tittle: CalmConnection.<br>
+Description: CalmConnection - CalmConnection Official Web Page <br>
+Keywords: emotional, connection, mental health, psychologists.<br>
+Authors: CalmConnection team.<br>
 
 ### 4.2.4. Searching Systems.
 
-**Que se busca?:** Que buscara el usuario  
-**Que resultados se mostraran?:** Que se mostrara  
-**Interface de busqueda:** Descripcion de como ayuda a encontrar lo deseado
-![Search interface preview web](image.jpg)
+Dentro de "CalmConnection" hemos diseñado un sistema de búsqueda que permite a nuestros usuarios encontrar rápida y eficientemente información relevante para mejorar su bienestar emocional.
+
+**¿Qué se busca?**
+Nuestros usuarios tienen la posibilidad de explorar una amplia variedad de temas relacionados con su salud mental y emocional. Desde técnicas para manejar el estrés hasta estrategias para abordar la ansiedad social, nuestro sistema de búsqueda abarca una amplia gama de necesidades.
+
+**¿Qué resultados se mostrarán?**
+Al realizar una búsqueda, los usuarios encontrarán una lista diversa de resultados que cubren diferentes aspectos de su consulta. Esto incluye publicaciones significativas de nuestros foros de discusión, próximos eventos relacionados con el tema, talleres disponibles que pueden ofrecer herramientas adicionales, y perfiles detallados de especialistas en salud mental que pueden proporcionar orientación y apoyo personalizado.
+
+**Interfaz de Búsqueda:**
+La interfaz de búsqueda ha sido diseñada pensando en la facilidad de uso y la accesibilidad. Los usuarios pueden escribir sus consultas en un cuadro de búsqueda dedicado, y nuestra función de autocompletar les ofrece sugerencias relevantes para agilizar el proceso. Una vez realizada la búsqueda, los resultados se presentan de manera clara y ordenada, con opciones de filtrado y clasificación disponibles para una navegación más eficiente y personalizada.
+
+Con nuestro sistema de búsqueda, garantizamos que los usuarios de "CalmConnection" puedan acceder de manera rápida y sencilla a recursos que promuevan su bienestar emocional, brindándoles el apoyo necesario para afrontar sus desafíos emocionales con confianza y seguridad.
+
+
+![image](https://github.com/SI730-SW53-OpenSource-Grupo5/FinalProject/assets/114323722/5291b6ec-6056-4ee7-ba72-6374025b12a3)
+
 
 ### 4.2.5. Navigation Systems.
+En "CalmConnection", nos esforzamos por asegurar que la navegación dentro de nuestra aplicación de salud mental sea intuitiva y efectiva, ofreciendo a los usuarios una experiencia enriquecedora y satisfactoria mientras buscan apoyo y recursos para fortalecer su bienestar emocional.
 
-Basicamente aqui definimos como funciona la navegacion del web app
-**Hierarchical Navigation System:** Main page a destination pages.
-**Global Navigation Systems** (Complemento del Hierachical) Movimiento vertical (te mueves por la pagina)con nav(debe
-poder regresar a la principal)
-**Local Navigation Systems** (vas a otras paginas) (complemento del global nav sistem sub-site) Usas otras paginas
+- Sistema de Navegación Jerárquica:
+Hemos adoptado una estructura jerárquica en nuestra plataforma para facilitar a los usuarios el acceso a diversas áreas diseñadas para abordar sus necesidades emocionales. Desde la página de inicio, los usuarios pueden explorar los foros de discusión para conectarse con otros usuarios, acceder a eventos y talleres organizados por especialistas en salud mental, y explorar perfiles de expertos para programar citas y obtener asesoramiento personalizado. Esta jerarquía claramente definida les permite a los usuarios encontrar rápidamente los recursos y el apoyo que están buscando, guiándolos de manera lógica a través de la aplicación.
+
+- Sistema de Navegación Global:
+Nuestra aplicación cuenta con un sistema de navegación global que permite a los usuarios moverse sin problemas entre las distintas secciones y regresar a la página de inicio en cualquier momento. Esta coherencia en la navegación brinda a los usuarios una sensación de familiaridad y control mientras exploran las diferentes características y servicios disponibles en "CalmConnection". Este sistema se complementa con el movimiento vertical, permitiendo a los usuarios desplazarse por la página con facilidad utilizando la barra de navegación, lo que garantiza que siempre puedan regresar a la página principal con un solo clic.
+
+- Sistema de Navegación Local:
+Además del sistema global, ofrecemos un sistema de navegación local que permite a los usuarios acceder a páginas específicas dentro de la aplicación, como perfiles de especialistas o eventos específicos. Este sistema de navegación local actúa como un complemento al sistema global, permitiendo a los usuarios explorar contenido relacionado de manera intuitiva y acceder a información detallada según sus necesidades específicas.
+
+Con estos sistemas de navegación, proporcionamos a los usuarios de "CalmConnection" una guía clara y efectiva a través de nuestra aplicación, facilitándoles el acceso a recursos y apoyo para mejorar su bienestar emocional y promover una vida más saludable y equilibrada.
 
 ## 4.3. Landing Page UI Design.
 
