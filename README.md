@@ -315,7 +315,7 @@ Nombre: Camila Dias MigueldelPriego
 Edad: 23 años   
 Ocupación: Estudiante de Diseño grafico
 
-<img src="./assets/interviews/entrevistado03_segmento01.png" style="width:100%;">
+<img src="./assets/interviews/entrevistado03_segmento01.PNG" style="width:100%;">
 
 **Segmento 02: Profesionales de la salud mental que desean ayudar a mejorar la salud emocional de las personas**  
 Nombre: _____
