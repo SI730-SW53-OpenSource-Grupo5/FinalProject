@@ -424,17 +424,22 @@ Segmento 2:
 
 Como empresa emergente, nuestra meta es asegurar que la interfaz de nuestra aplicación [name] transmita un sentido de profesionalismo, facilidad de uso y precisión para nuestros usuarios. Nos esforzamos en garantizar que los usuarios puedan llevar a cabo sus proyectos de manera eficaz, por lo que empleamos recursos visuales para atraer a nuestros segmento objetivo. Optamos por colores asociados al ámbito de la salud mental y utilizamos una tipografía con diferentes tamaños que garantiza la legibilidad.
 
-**Color:** (Descripcion de los colores escogidos y porque)  
+**Color:** 
 | Color | Descripcion | Muestra |
 | ----- | ----------- | ------- |
 | Color Primario | Celeste, usaremos este color ya que se asocia con el cielo despejado y el agua serena, ademas evoca una sensación de calma y serenidad | ![Colores generales](image.jpg) |
 | Color Segundario | Blanco, usaremos este color ya que es un color clásico y atemporal que también puede crear entornos tranquilos y serenos. Al combinar el blanco con otros tonos suaves se puede crear un ambiente aún más relajante y acogedor. | ![Colores generales](image.jpg) |
 
-![Colores generales](image.jpg)
 
-**Tipografia:** (Descripcion de la tipografia escogida para el proyecto y porque)
-![Tipografias generales](image.jpg)
+**Tipografia:** 
+| Tipografia | Fuente | Muestra |
+| ---------- | ------ | ------- |
+| Tipografia Principal | Fuente: Open Runde / Tamaño: 25 px - 55 px | ![Tipografias generales](image.jpg) |
+| Tipografia Segundario | Fuente: Arima / Tamño: 12 px - 20 px | ![Tipografias generales](image.jpg) |
+
 **Branding** (Describir logotipo y porque)
+| **Brand Overview:** | Nuestra porpuesta suerge por la falta de recursos de ayuda en la salud mental, por lo que brindamos una solución tecnológica en la cual podrán encontrar un repertorio de ayuda psicologuica que necesiten por especialistas en el tema.  | 
+| **Brand Name:** | ----- | 
 ![Branding general](image.jpg)
 
 ### 4.1.2. Web Style Guidelines.
