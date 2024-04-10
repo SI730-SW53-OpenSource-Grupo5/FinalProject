@@ -666,7 +666,7 @@ La clase EventType define los tipos de eventos que pueden ocurrir en la platafor
 
 ### 4.8.1. Database Diagram.
 
-Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
+<img src="./assets/database_diagram.png" alt="Image of Class Diagram" style="width:100%">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
