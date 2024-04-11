@@ -425,7 +425,7 @@ Segmento 2:
 
 ## 3.3. Impact Mapping.
 
-<img src="./impact map.png" alt="Impact Mapping">
+<img src="assets/impact map.png" alt="Impact Mapping">
 
 ## 3.4. Product Backlog.
 
