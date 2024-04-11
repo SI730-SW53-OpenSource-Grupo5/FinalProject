@@ -614,6 +614,18 @@ un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del
    aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
 
+   **Gestión del usuario Context Component Diagram:**
+
+<img src="./assets/GestionUsuario.jpg" alt="Image of Software Architecture Container Diagrams." style="width:100%">
+
+**Terapias y citas Context Component Diagram:**
+
+<img src="./assets/TerapiasCitas.jpg" alt="Image of Software Architecture Container Diagrams." style="width:100%">
+
+**Comunidad y foro Context Component Diagram:**
+
+<img src="./assets/ComunidadForo.jpg" alt="Image of Software Architecture Container Diagrams." style="width:100%">
+
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
