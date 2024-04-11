@@ -386,20 +386,11 @@ Texto ubiquo: Definicion de este
 
 ## 3.1. To-Be Scenario Mapping.
 
-Segmento 1:
+**Segmento 1: Usuarios que presentan problemas en su salud mental y desean recurrir a la yuda de otras personas y/o especialistas**  
+<img src="./assets/ToBe_Map_UP1.png" alt="Imagen To-Be Scenario Map del User Persona 1" style="width:80%">
 
-| Fases    | fase 1 as is | fase 2 | fase 3 |
-| -------- | ------------ | ------ | ------ |
-| Doing    |              | texto  | texto  | texto | texto |
-| Thinking |              | texto  | texto  | texto | texto |
-| Feeling  |              | texto  | texto  | texto | texto |
-
-Segmento 2:
-| Fases    | fase 1 as is | fase 2 | fase 3 |
-| -------- | ------------ | ------ | ------ |
-| Doing    |              | texto  | texto  | texto | texto |
-| Thinking |              | texto  | texto  | texto | texto |
-| Feeling  |              | texto  | texto  | texto | texto |
+**Segmento 2: Especialistas que deseen ofrecer sus servicios para apoyar a los usuarios afectados**
+<img src="./assets/ToBe_Map_UP2.png" alt="Imagen To-Be Scenario Map del User Persona 2" style="width:80%">
 
 ## 3.2. User Stories.
 
