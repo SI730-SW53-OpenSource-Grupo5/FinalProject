@@ -597,8 +597,7 @@ un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 
 ### 4.6.1. Software Architecture Context Diagram.
 
-1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
-   se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
+<img src="./assets/context_diagram.png" alt="Image of Software Architecture Context Diagram." style="width:100%">
 
 2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que
    encapsula palabras clave en los procesos para poder
@@ -608,9 +607,7 @@ un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's,
-   indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como
-   objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP)
+<img src="./assets/container_diagram.png" alt="Image of Software Architecture Container Diagrams." style="width:100%">
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
