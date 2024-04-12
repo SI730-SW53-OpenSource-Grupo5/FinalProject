@@ -141,10 +141,10 @@
 [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
 
 [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)  
-[5.2.1. Sprint ](#52x-sprint-n)  
-[5.2.1.1. Sprint Planning n](#52x1-sprint-planning-n)  
-[5.2.1.2. Sprint Backlog n](#52x2-sprint-backlog-n)  
-[5.2.1.3. Development Evidence for Sprint Review](#52x3-development-evidence-for-sprint-review)  
+[5.2.1. Sprint 1 ](#521-sprint-1)  
+[5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)  
+[5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)  
+[5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)  
 [5.2.1.4. Testing Suite Evidence for Sprint Review](#52x4-testing-suite-evidence-for-sprint-review)  
 [5.2.1.5. Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)  
 [5.2.1.6. Services Documentation Evidence for Sprint Review](#52x6-services-documentation-evidence-for-sprint-review)  
@@ -658,16 +658,16 @@ Configuraciones de donde y como deployeamos el proyecto
 
 | Id   | Title            | Id   | Title                           | Description                                                                           | Estimations (Hours) | Assigned To                       | Status |
 |------|------------------|------|---------------------------------|---------------------------------------------------------------------------------------|---------------------|-----------------------------------|--------|
-| CC01 | Testimonials     | C01  | Sección Testimonials responsive | Desarrollo e implementación de los estilos que corresponden a la sección Testimonials | 6                   | Dioses Molina, Djalma Santos      | Done   |
-| CC02 | Features         | C02  | Sección Features responsive     | Desarrollo e implementación de los estilos que corresponden a la sección Features     | 8                   | Dioses Molina, Djalma Santos      | Done   |
-| CC03 | Button component | C03  | Button Design responsive        | Desarrollo e implementación de los estilos que corresponden al Button                 | 3                   | Esteban Garcia, Nicolas Sebastian | Done   |
-| CC04 | Navbar component | C04  | Sección Navbar responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Navbar       | 4                   | Esteban Garcia, Nicolas Sebastian | Done   |
-| CC05 | Contact          | C05  | Sección Contact responsive      | Desarrollo e implementación de los estilos que corresponden a la sección Contact      | 5                   | Justo Yauricasa, Alexander Paolo  | Done   |
-| CC06 | Footer           | C06  | Sección Footer responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Footer       | 6                   | Justo Yauricasa, Alexander Paolo  | Done   |
+| CC01 | Testimonials     | C01  | Sección Testimonials responsive | Desarrollo e implementación de los estilos que corresponden a la sección Testimonials | 3                   | Dioses Molina, Djalma Santos      | Done   |
+| CC02 | Features         | C02  | Sección Features responsive     | Desarrollo e implementación de los estilos que corresponden a la sección Features     | 3                   | Dioses Molina, Djalma Santos      | Done   |
+| CC03 | Button component | C03  | Button Design responsive        | Desarrollo e implementación de los estilos que corresponden al Button                 | 2                   | Esteban Garcia, Nicolas Sebastian | Done   |
+| CC04 | Navbar component | C04  | Sección Navbar responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Navbar       | 3                   | Esteban Garcia, Nicolas Sebastian | Done   |
+| CC05 | Contact          | C05  | Sección Contact responsive      | Desarrollo e implementación de los estilos que corresponden a la sección Contact      | 3                   | Justo Yauricasa, Alexander Paolo  | Done   |
+| CC06 | Footer           | C06  | Sección Footer responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Footer       | 2                   | Justo Yauricasa, Alexander Paolo  | Done   |
 | CC07 | Hero             | C07  | Sección Hero responsive         | Desarrollo e implementación de los estilos que corresponden a la sección Hero         | 4                   | Torrejon Navarro, Braulio Rodrigo | Done   |
-| CC08 | About            | C08  | Sección About responsive        | Desarrollo e implementación de los estilos que corresponden a la sección About        | 5                   | Torrejon Navarro, Braulio Rodrigo | Done   |
-| CC09 | Service          | C09  | Sección Service responsive      | Desarrollo e implementación de los estilos que corresponden a la sección Service      | 3                   | Príncipe Godoy, Johan             | Done   |
-| CC10 | Prices           | C010 | Sección Prices responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Prices       | 5                   | Burga Loarte, Anaely Zarely       | Done   |
+| CC08 | About            | C08  | Sección About responsive        | Desarrollo e implementación de los estilos que corresponden a la sección About        | 3                   | Torrejon Navarro, Braulio Rodrigo | Done   |
+| CC09 | Service          | C09  | Sección Service responsive      | Desarrollo e implementación de los estilos que corresponden a la sección Service      | 2                   | Príncipe Godoy, Johan             | Done   |
+| CC10 | Prices           | C010 | Sección Prices responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Prices       | 2                   | Burga Loarte, Anaely Zarely       | Done   |
 
    Link del trello: https://trello.com/b/xObDcpU6/sprint-1
 
