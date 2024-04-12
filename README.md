@@ -627,9 +627,24 @@ En este apartado, se van a mencionar los distintos productos de software emplead
 El gitjab donde tengamos el proyecto
 
 ### 5.1.3. Source Code Style Guide & Conventions.
+En el proyecto hemos hecho uso de algunas convenciones y guia de estilos para el desarrollo del Landing Page.
 
-Que usamos con css (en caso usemos software para SASS)
-supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
+**React:**
+
+   + Componentes: Se fomenta la creación de componentes para mantener un código limpio y modularizado.
+   + Nomenclatura Descriptiva: Utilizamos nombres descriptivos para que se pueda entender cual es su función dentro de la página.
+   + Estado y Props: Hacemos uso de los estados y props para pasar datos entre componentes y tener una página reactiva.
+
+**Tailwind CSS:**
+   + Clases Utilitarias: Usamos las clases proporcionadas por Tailwind para darle estilos a los elementos de forma eficiente.
+
+**General:**
+   + Estructura de Carpetas Organizadas: Mantenemos una estructura de carpetas organizadas para los archivos de React, facilitando así la navegación y entendimiento del proyecto. 
+
+**Git:**
+   + Ramas Descriptivas: Utilizamos  nombres de ramas descriptivas para una gestión eficiente del código y las versiones.
+   + Flujo de Trabajo Colaborativo: Hacemos uso de ramas para el desarrollo colaborativo.
+
 
 ### 5.1.4. Software Deployment Configuration.
 
