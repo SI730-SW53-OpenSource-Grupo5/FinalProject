@@ -434,8 +434,8 @@ Como empresa emergente, nuestra meta es asegurar que la interfaz de nuestra apli
 **Tipografia:** 
 | Tipografia | Fuente | Muestra |
 | ---------- | ------ | ------- |
-| Tipografia Principal | Fuente: Open Runde / Tamaño: 25 px - 55 px | ![Tipografias generales](image.jpg) |
-| Tipografia Segundario | Fuente: Arima / Tamño: 12 px - 20 px | ![Tipografias generales](image.jpg) |
+| Tipografia Principal | Fuente: Open Runde / Tamaño: 25 px - 55 px | <img src="./assets/TIpografiaOpenRunde.jpg" alt="Open Runde" style="width:25%"> |
+| Tipografia Segundario | Fuente: Arima / Tamño: 12 px - 20 px | <img src="./assets/tipografiaArima.jpg" alt="Arima" style="width:25%"> |
 
 
 
