@@ -1,4 +1,4 @@
-<hr>
+ <hr>
 
 # <center>COURSE PROJECT</center>
 
@@ -21,13 +21,14 @@
 # Team  Members:
 <center>
 
-| Member                   | Code       |
-| ------------------------ | ---------- |
-| Nombre del Compañero XXX | u202217485 |
-| Nombre del Compañero XXX | u202217485 |
-| Nombre del Compañero XXX | u202217485 |
-| Nombre del Compañero XXX | u202217485 |
-| Nombre del Compañero XXX | u202217485 |
+| Member                           | Code       |
+|----------------------------------|------------|
+| Alexander Paolo Justo Yauricasa  | u20191c054 |
+| Burga loarte Anaely Zarely       | u202118264 |
+| Djalma Santos Dioses Molina      | u201921405 |
+| Nicolas Sebastian Esteban Garcia | u202217485 |
+| Johan Príncipe Godoy             | u202014511 |
+| Torrejon Navarro Braulio Rodrigo         | u201711828 |
 </center>
 
 # Registro de Versiones del Informe
@@ -181,17 +182,27 @@
 
 ### 1.1.1. Descripción de la Startup
 
-Texto del proyecto
+Nuestra startup [nombre] tiene como objetivo conectar a personas que presentan algún tipo de bienestar emocional, tales como estrés laboral, ansiedad social y necesitan ayuda de especialistas en salud mental. Si estás estresado, ansioso o tienes otros problemas similares, nuestra aplicación se encargará de ofrecer un espacio donde puedes expresar lo que te está pasando. Los usuarios pueden participar en pequeños foros donde pueden hablar sobre sus problemas y recibir recomendaciones y/o consejos acerca de ejercicios de relajación que pueden adoptar como rutina, los cuales son ofrecidos por especialistas en salud mental y también podrán participar de talleres y eventos gratuitos ofrecidos por especialistas. Además, ofrecemos un plan de suscripción que incluye acceso a eventos exclusivos, análisis detallados de tu salud emocional y la posibilidad de reservar hasta 3 citas con nuestros especialistas, que están disponibles en la aplicación. Se contará con acceso al perfil del especialista además de ver una sección de reseñas de usuarios beneficiados con sus terapias, con el fin de que puedan adquirir sus servicios. Este proyecto busca proporcionar a los usuarios afectados un espacio seguro para expresar sus preocupaciones y recibir apoyo de especialistas y otros usuarios dispuestos a ofrecer consejos y ayuda.
 
 #### 1.1.2. Perfiles de integrantes del equipo
-
-| Miembros del equipo                             | Codigo Estudiante | Carrera                | Conocimientos / Habilidades |
-| ----------------------------------------------- | ----------------- | ---------------------- | --------------------------- |
-| Compañero 1 	![Imagen del compañero](image.jpg) | U20...            | Ingenieria de software | C++, phyton .etc            |
+<!-- poner las rutas de las imagenes de assets en src -->
+| Miembros del equipo                                                                                                                     | Codigo Estudiante | Carrera | Conocimientos / Habilidades                                                   |
+|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------|-|-------------------------------------------------------------------------------| 
+| Nicolas Sebastian Esteban Garcia  <img src="./assets/members-profile/nicolas-profile.jpg" alt="Imagen del compañero" style="width:80%"> | U202217485        |Ingenieria de software| C++, JS, HTML, CSS, Phyton. Comunicación asertiva y facil adaptación          |
+| Djalma Santos Dioses Molina <img src="" alt="Imagen del compañero" style="width:80%">                                                   | U201921405        |Ingenieria de software| HTML, CSS, JS, C++, C#, SQL, Phyton. Responsable.                             |
+| Esteban Garcia, Nicolas Sebastian <img src="" alt="Imagen del compañero" style="width:80%">                                             | U202217485        |Ingenieria de software| C++, JS, HTML, CSS, Phyton                                                    |
+| Príncipe Godoy, Johan 	<img src="./assets/members-profile/johan-profile.jpg" alt="Imagen del compañero" style="width:80%">             | U202014511        |Ingenieria de software| C++, JS, HTML, CSS, Phyton, SQL, MongoDB. Trabajo en equipo y responsabilidad |
+| Burga Loarte Anaely <br />	<img src="./assets/members-profile/1.jpg" alt="Imagen del compañero" style="width:50%; height:60%">                                                          | U202118264        |Ingenieria de software| C++, C#, JS, HTML, CSS, Phyton | 
+| Torrejon Navarro Braulio Rodrigo	<img src="./assets/members-profile/22.jpg" alt="Imagen del compañero" style="width:80%">                                                          | U201711828        |Ingenieria de software| C++, C#, JS, HTML, CSS, Phyton | 
+| Alexander Paolo Justo Yauricasa <img src="" alt="Imagen del compañero" style="width:80%">                                                | U201921405        |Ingenieria de software| Phyton, HTML, JS, C++, C#, SQL. Facil adaptación y responsable                   |
 
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
+
+Durante el año 2023, se realizó una investigación exhaustiva sobre los índices de salud mental, evidenciando una compleja interacción de factores que afectan el bienestar emocional de la población. Estudios como el llevado a cabo por Johnson et al. (2023) subrayaron la importancia de considerar no solo las diferencias de género, sino también otros aspectos como la edad, el entorno socioeconómico y la historia de trauma en la manifestación de trastornos emocionales. Se encontró que las mujeres tenían una mayor prevalencia de trastornos de ansiedad y depresión, lo que se asociaba con factores como la carga de responsabilidades familiares y sociales, así como el estrés crónico. Por otro lado, los hombres mostraban una mayor propensión hacia trastornos relacionados con la ira y la impulsividad, aunque estas tendencias podrían estar influenciadas por normas de género y roles sociales preestablecidos.
+
+Además, investigaciones como el Informe Global sobre la Salud Mental (2023) destacaron la importancia de abordar los determinantes sociales de la salud mental, como la discriminación, la marginalización y la falta de acceso a recursos básicos. Estos factores, junto con la estigmatización asociada a los trastornos emocionales, representan barreras significativas para la búsqueda de ayuda y tratamiento. En consecuencia, se requieren intervenciones integrales que no solo se centren en el diagnóstico y tratamiento clínico, sino también en la promoción de entornos sociales y comunitarios que fomenten el apoyo mutuo, la inclusión y la resiliencia emocional.
 
 Investigacion (5w, 2h tbn)
 
