@@ -427,8 +427,8 @@ Como empresa emergente, nuestra meta es asegurar que la interfaz de nuestra apli
 **Color:** 
 | Color | Descripcion | Muestra |
 | ----- | ----------- | ------- |
-| Color Primario | Celeste, usaremos este color ya que se asocia con el cielo despejado y el agua serena, ademas evoca una sensación de calma y serenidad | ![Colores generales](./assent/Color Celeste.jpg) |
-| Color Segundario | Blanco, usaremos este color ya que es un color clásico y atemporal que también puede crear entornos tranquilos y serenos. Al combinar el blanco con otros tonos suaves se puede crear un ambiente aún más relajante y acogedor. | ![Colores generales](./assent/Color Blanco.jpg) |
+| Color Primario | Celeste, usaremos este color ya que se asocia con el cielo despejado y el agua serena, ademas evoca una sensación de calma y serenidad | ![Colores generales](./assets/Color Celeste.jpg) |
+| Color Segundario | Blanco, usaremos este color ya que es un color clásico y atemporal que también puede crear entornos tranquilos y serenos. Al combinar el blanco con otros tonos suaves se puede crear un ambiente aún más relajante y acogedor. | ![Colores generales](./assets/Color Blanco.jpg) |
 
 
 **Tipografia:** 
