@@ -635,43 +635,47 @@ un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 
 ### 4.7.2. Class Dictionary.
 
-**User:**
+**User:** <br>
 La clase User representa a los usuarios regulares del sistema. Estos usuarios pueden buscar ayuda emocional, participar en eventos, interactuar en comunidades y reservar citas con especialistas. Pueden unirse a comunidades para conectarse con otros usuarios, compartir experiencias y buscar apoyo mutuo en temas relacionados con la salud mental.
 
-**Specialist:**
+**Specialist:** <br>
 La clase Specialist representa a los profesionales de la salud mental que ofrecen sus servicios en la plataforma. Estos especialistas pueden iniciar sesión en el sistema, listar los eventos que organizan, ver las citas programadas con sus pacientes y acceder a los perfiles de los pacientes. Además, pueden participar en comunidades para brindar apoyo y asesoramiento a los usuarios regulares en temas relacionados con la salud mental.
 
-**Community:**
+**Community:** <br>
 La clase Comunidad representa grupos de usuarios que se reúnen en la plataforma para discutir temas relacionados con la salud mental, compartir experiencias y brindarse apoyo mutuo. Los usuarios regulares pueden unirse a estas comunidades para conectarse con otros usuarios, buscar apoyo emocional y participar en discusiones grupales. Los especialistas también pueden participar en comunidades para ofrecer asesoramiento y orientación a los usuarios en busca de ayuda.
 
-**Event:**
+**Event:** <br>
 La clase Event representa eventos organizados en la plataforma, que pueden incluir talleres, charlas, sesiones de terapia grupales, etc. Los eventos pueden ser creados tanto por usuarios especialistas como por administradores del sistema. Pueden tener una variedad de atributos como nombre, fecha, ubicación y tipo. Los usuarios pueden asistir a estos eventos para obtener información, participar en actividades grupales y recibir apoyo de especialistas y otros participantes.
 
-**Thread:**
+**Thread:** <br>
 La clase Thread representa una conversación o tema de discusión dentro de una comunidad. Cada hilo puede contener mensajes o respuestas de usuarios y puede estar relacionado con un tema específico relacionado con la salud mental. Los usuarios pueden crear nuevos hilos, responder a hilos existentes y participar en discusiones dentro de la comunidad.
 
-**Date:**
+**Date:** <br>
 La clase Date representa fechas disponibles para citas con especialistas. Estas fechas pueden ser definidas por los especialistas como horarios disponibles para atender a sus pacientes. Los usuarios pueden seleccionar estas fechas para reservar citas.
 
-**Calendar:**
+**Calendar:** <br>
 La clase Calendar está asociada a un especialista y almacena las fechas disponibles para citas. Cada calendario puede contener múltiples fechas disponibles para citas con el especialista. Los usuarios pueden acceder al calendario del especialista para reservar citas en los horarios disponibles.
 
-**Quote:**
+**Quote:** <br>
 La clase Quote representa una cita programada entre un usuario y un especialista en una fecha específica. Al reservar una cita, se crea una instancia de esta clase que incluye la información de la fecha y hora de la cita, así como los detalles del usuario y el especialista involucrados.
 
-**Category:**
-La clase Category representa las categorías a las que pueden pertenecer eventos o comunidades en la plataforma. Cada evento o comunidad puede estar asociado a una o más categorías para facilitar la búsqueda y la organización. Las categorías pueden incluir temas como "Salud Mental", "Autoayuda", "Psicología Infantil", etc.
+**Category:** <br>
+La clase Category representa las categorías a las que pueden pertenecer eventos o comunidades en la plataforma. Cada evento o comunidad puede estar asociado a una o más categorías para facilitar la búsqueda y la organización. Las categorías pueden incluir temas como "Salud Mental", "Autoayuda", "Psicología Adulta".
 
-**Subscription:**
+**Subscription:** <br>
 La clase Subscription representa una suscripción pagada ofrecida en la plataforma. Contiene información sobre el nombre de la suscripción, una descripción de los servicios incluidos, la duración de la suscripción y el precio asociado. Los usuarios pueden adquirir suscripciones para acceder a funciones premium o contenido exclusivo.
 
-**User Subscription:**
+**User Subscription:** <br>
 La clase User Subscription representa la suscripción de un usuario a un plan de suscripción específico. Al adquirir una suscripción, se crea una instancia de esta clase que incluye información sobre el usuario que adquirió la suscripción, el tipo de suscripción, la fecha de inicio y la fecha de finalización de la suscripción.
 
-**EventType:**
-La clase EventType define los tipos de eventos que pueden ocurrir en la plataforma. Cada tipo de evento tiene un nombre descriptivo y una breve descripción que indica cómo se llevará a cabo el evento. Por ejemplo, puede haber eventos presenciales, eventos en línea (streaming), talleres virtuales, sesiones grupales, entre otros. Estos tipos de eventos ayudan a los usuarios a comprender mejor la naturaleza y el formato de cada evento ofrecido en la plataforma.
+**EventType:** <br>
+La clase EventType define los tipos de eventos que pueden ocurrir en la plataforma. Cada tipo de evento tiene un nombre descriptivo y una breve descripción que indica cómo se llevará a cabo el evento. Por ejemplo, puede haber eventos presenciales, eventos en línea (streaming), talleres virtuales, sesiones grupales, entre otros. 
 
+**Review:** <br>
+La clase Review representa un calificacion del usuario hacia el especialista, este evento se realiza cuando un usuario tiene un cita privada con un especialista.
 
+**Notification:** <br>
+La clase Notification esta ascociada a los Usarios y los Especialista, estos pueden recibir notificaciones cuando alguien ha comentado su hilo, cuando han reservado una cita con un especialista, cuando le han dado megusta a su comentario, etc.
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram.
