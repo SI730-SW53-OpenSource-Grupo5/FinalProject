@@ -669,7 +669,9 @@ Configuraciones de donde y como deployeamos el proyecto
 | CC09 | Service          | C09  | Sección Service responsive      | Desarrollo e implementación de los estilos que corresponden a la sección Service      | 2                   | Príncipe Godoy, Johan             | Done   |
 | CC10 | Prices           | C010 | Sección Prices responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Prices       | 2                   | Burga Loarte, Anaely Zarely       | Done   |
 
-   Link del trello: https://trello.com/b/xObDcpU6/sprint-1
+<img src="./assets/Sprint1_Trello.png" alt="Captura Sprint 1 en Trello" width="80%">
+   
+Link del trello: https://trello.com/b/xObDcpU6/sprint-1
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
