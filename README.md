@@ -637,17 +637,28 @@ Configuraciones de donde y como deployeamos el proyecto
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
-### 5.2.X. Sprint n
+### 5.2.1. Sprint 1
 
-#### 5.2.X.1. Sprint Planning n.
+#### 5.2.1.1. Sprint Planning 1.
 
-Explicar como vamos a plannear el sprint?
+| Sprint 1                   | Implementación de funcionalidades y diseño de la aplicación.                                                                                                                                           |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background |                                                                                                                                                                                                        |
+| Date                       | 07/04/2024                                                                                                                                                                                             |
+| Time                       | 20:00                                                                                                                                                                                                  |
+| Location                   | Reunión realizada mediante Discord                                                                                                                                                                     |
+| Prepared By                | Esteban Garcia, Nicolas Sebastian                                                                                                                                                                      |
+| Attendees                  | Justo Yauricasa, Alexander Paolo / Burga Loarte, Anaely Zarely /<br/> Dioses Molina, Djalma Santos / Esteban Garcia, Nicolas Sebastian <br/> Príncipe Godoy, Johan / Torrejon Navarro, Braulio Rodrigo |
+| Sprint Goal & User Stories |                                                                                                                                                                                                        |
+| Sprint 1 Goal              | Realizar y desplegar el Landing Page                                                                                                                                                                   |
+| Sprint 1 Velocity          | 35                                                                                                                                                                                                     |
+| Sum of Story Points        | 30                                                                                                                                                                                                     |
 
-#### 5.2.X.2. Sprint Backlog n.
+#### 5.2.1.2. Sprint Backlog n.
 
 ![SprintBacklog n](image.jpg) Nica hago la tabla
 
-#### 5.2.X.3. Development Evidence for Sprint Review.
+#### 5.2.1.3. Development Evidence for Sprint Review.
 
 ![Sprint review development Evidence](image.jpg)
 
