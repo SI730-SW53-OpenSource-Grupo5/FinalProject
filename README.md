@@ -661,15 +661,15 @@ Explicar como vamos a plannear el sprint?
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-En este primer ciclo de trabajo nos enfocamos únicamente en crear el landing page, sin necesidad de utilizar servicios extra.
+En este primer Sprint nos enfocamos únicamente en crear el landing page, sin necesidad de utilizar servicios extra.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-Para llevar a cabo la automatización del lanzamiento de nuestra Página de Aterrizaje, empleamos la plataforma GitHub Pages. Esta herramienta posibilita la creación de sitios web a partir de un repositorio público que contiene el código necesario para construir la página. A continuación, te proporcionamos el enlace de nuestra Página de Aterrizaje:
+Para llevar a cabo la automatización del lanzamiento de nuestra Landing Page, empleamos la plataforma GitHub Pages. Esta herramienta posibilita la creación de sitios web a partir de un repositorio público que contiene el código necesario para construir la página. A continuación, te proporcionamos el enlace de nuestra Página de Aterrizaje:
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
-Para llevar a cabo los registros de nuestros avances durante el primer ciclo de desarrollo, empleamos Visual Studio Code en conjunto con Git. Un miembro del equipo inició el proceso con un primer registro para establecer el repositorio. Posteriormente, hicimos una copia local del repositorio mediante Git, realizamos las modificaciones en Visual Studio Code y creamos ramas específicas para dichas modificaciones. Finalmente, completamos el proceso con un registro de los cambios, el cual será examinado en el repositorio de GitHub.
+Para llevar a cabo los registros de nuestros avances durante el primer Sprint de desarrollo, empleamos Visual Studio Code en conjunto con Git. Un miembro del equipo inició el proceso con un primer registro para establecer el repositorio. Posteriormente, hicimos una copia local del repositorio mediante Git, realizamos las modificaciones en Visual Studio Code y creamos ramas específicas para dichas modificaciones. Finalmente, completamos el proceso con un registro de los cambios, el cual será examinado en el repositorio de GitHub.
 
 ## 5.3. Validation Interviews.
 
