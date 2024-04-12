@@ -438,15 +438,15 @@ Como empresa emergente, nuestra meta es asegurar que la interfaz de nuestra apli
 **Color:** 
 | Color | Descripcion | Muestra |
 | ----- | ----------- | ------- |
-| Color Primario | Celeste, usaremos este color ya que se asocia con el cielo despejado y el agua serena, ademas evoca una sensación de calma y serenidad | ![Colores generales](image.jpg) |
-| Color Segundario | Blanco, usaremos este color ya que es un color clásico y atemporal que también puede crear entornos tranquilos y serenos. Al combinar el blanco con otros tonos suaves se puede crear un ambiente aún más relajante y acogedor. | ![Colores generales](image.jpg) |
+| Color Primario | Celeste, usaremos este color ya que se asocia con el cielo despejado y el agua serena, ademas evoca una sensación de calma y serenidad | <img src="./assets/ColorCeleste.jpg" alt="Color Celeste" style="width:50%">  |
+| Color Segundario | Blanco, usaremos este color ya que es un color clásico y atemporal que también puede crear entornos tranquilos y serenos. Al combinar el blanco con otros tonos suaves se puede crear un ambiente aún más relajante y acogedor. | <img src="./assets/ColorBlanco.jpg" alt="Color Blanco" style="width:50%">  |
 
 
 **Tipografia:** 
 | Tipografia | Fuente | Muestra |
 | ---------- | ------ | ------- |
-| Tipografia Principal | Fuente: Open Runde / Tamaño: 25 px - 55 px | ![Tipografias generales](image.jpg) |
-| Tipografia Segundario | Fuente: Arima / Tamño: 12 px - 20 px | ![Tipografias generales](image.jpg) |
+| Tipografia Principal | Fuente: Open Runde / Tamaño: 25 px - 55 px | <img src="./assets/TIpografiaOpenRunde.jpg" alt="Open Runde" style="width:25%"> |
+| Tipografia Segundario | Fuente: Arima / Tamño: 12 px - 20 px | <img src="./assets/tipografiaArima.jpg" alt="Arima" style="width:25%"> |
 
 
 
@@ -460,18 +460,8 @@ Nuestra porpuesta suerge por la falta de recursos de ayuda en la salud mental, p
 
 ### 4.1.2. Web Style Guidelines.
 
-Descripcion de los elementos que se utilizaran en el web app
+Nuestra página de inicio utiliza el Patrón minimalista en su diseño, que está pensado para orientar al usuario de manera fluida y eficiente a través de la página. En la parte superior, se presenta una barra de navegación con un tono oscuro, que transmite una sensación de seriedad y confianza. Esta barra incluye el logotipo y enlaces a secciones como "Inicio", "Servicios", "Acerca de nosotros", "Testimonios" y "Descargar". Se ha optado por una paleta de colores basada en tonos verdes, que reflejan el sector agrícola al que nos dedicamos en nuestra startup. Estos colores contrastan con el resto de la página, destacando así la invitación al usuario para descargar y probar nuestra aplicación.
 
-**Background:** (primary, secondary, terniary)  
-![Background Preview web](image.jpg)
-**Text Styles:** (H1, H2, p, a,)  
-![Text Style Preview web](image.jpg)
-**Button Styles:** (Button, dropdowns, Switches)
-![Button Preview web](image.jpg)
-**Icons:** (Fondo blanco con los iconos que vamos a usar)
-![Icons Preview web](image.jpg)
-**Misc** (Cosas como nav var o slideshows que pensemos usar)
-![Miscellaneos preview web](image.jpg)
 
 ## 4.2. Information Architecture.
 
@@ -624,6 +614,18 @@ un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 
 1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del
    aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
+
+   **Gestión del usuario Context Component Diagram:**
+
+<img src="./assets/GestionUsuario.jpg" alt="Image of Software Architecture Container Diagrams." style="width:100%">
+
+**Terapias y citas Context Component Diagram:**
+
+<img src="./assets/TerapiasCitas.jpg" alt="Image of Software Architecture Container Diagrams." style="width:100%">
+
+**Comunidad y foro Context Component Diagram:**
+
+<img src="./assets/ComunidadForo.jpg" alt="Image of Software Architecture Container Diagrams." style="width:100%">
 
 ## 4.7. Software Object-Oriented Design.
 
