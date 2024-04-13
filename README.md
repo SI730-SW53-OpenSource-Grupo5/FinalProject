@@ -374,12 +374,19 @@ Enlace de entrevista:  https://drive.google.com/file/d/11QXtqWpK_JMpYyd_M54Ko4Bw
 
 ***Entrevistado 5***
 
-Nombre: Diana Reyes Poma
+Nombre: Carlos Alejandro De La Cruz Villaverde
 
-Edad: 24 años
+Edad: 21 años
 
-Ocupación: Psicologa  
+Ocupación: Psicologo
 
+<img src="./assets/Especialista2.png" style="width:100%;">
+
+Duración: 5:44
+
+Enlace de entrevista: https://drive.google.com/file/d/1b78YRx9V69vzEWJ2y58cUu7BwLTTaCzA/view?usp=sharing 
+
+**Resumen de la entrevista:** 
 
 ### 2.2.3. Análisis de entrevistas.
 
