@@ -600,123 +600,437 @@ Texto ubiquo: Definicion de este
 
 ### 4.1.1. General Style Guidelines.
 
-Descripcion del porque estos elementos seran importantes
+Como empresa emergente, nuestra meta es asegurar que la interfaz de nuestra aplicación CalmConnection transmita un sentido de profesionalismo, facilidad de uso y precisión para nuestros usuarios. Nos esforzamos en garantizar que los usuarios puedan llevar a cabo sus proyectos de manera eficaz, por lo que empleamos recursos visuales para atraer a nuestros segmento objetivo. Optamos por colores asociados al ámbito de la salud mental y utilizamos una tipografía con diferentes tamaños que garantiza la legibilidad.
 
-**Color:** (Descripcion de los colores escogidos y porque)  
-![Colores generales](image.jpg)
+**Color:** 
+| Color | Descripcion | Muestra |
+| ----- | ----------- | ------- |
+| Color Primario | Celeste, usaremos este color ya que se asocia con el cielo despejado y el agua serena, ademas evoca una sensación de calma y serenidad | <img src="./assets/ColorCeleste.jpg" alt="Color Celeste" style="width:50%">  |
+| Color Segundario | Blanco, usaremos este color ya que es un color clásico y atemporal que también puede crear entornos tranquilos y serenos. Al combinar el blanco con otros tonos suaves se puede crear un ambiente aún más relajante y acogedor. | <img src="./assets/ColorBlanco.jpg" alt="Color Blanco" style="width:50%">  |
 
-**Tipografia:** (Descripcion de la tipografia escogida para el proyecto y porque)
-![Tipografias generales](image.jpg)
-**Branding** (Describir logotipo y porque)
-![Branding general](image.jpg)
+
+**Tipografia:** 
+| Tipografia | Fuente | Muestra |
+| ---------- | ------ | ------- |
+| Tipografia Principal | Fuente: Open Runde / Tamaño: 25 px - 55 px | <img src="./assets/TIpografiaOpenRunde.jpg" alt="Open Runde" style="width:25%"> |
+| Tipografia Segundario | Fuente: Arima / Tamño: 12 px - 20 px | <img src="./assets/tipografiaArima.jpg" alt="Arima" style="width:25%"> |
+
+
+
+**Brand Overview:** 
+
+Nuestra porpuesta suerge por la falta de recursos de ayuda en la salud mental, por lo que brindamos una solución tecnológica en la cual podrán encontrar un repertorio de ayuda psicologuica que necesiten por especialistas en el tema.   
+
 
 ### 4.1.2. Web Style Guidelines.
 
-Descripcion de los elementos que se utilizaran en el web app
+Nuestra página de inicio utiliza el Patrón minimalista en su diseño, que está pensado para orientar al usuario de manera fluida y eficiente a través de la página. En la parte superior, se presenta una barra de navegación con un tono oscuro, que transmite una sensación de seriedad y confianza. Esta barra incluye el logotipo y enlaces a secciones como "Inicio", "Servicios", "Acerca de nosotros", "Testimonios" y "Descargar". Se ha optado por una paleta de colores basada en tonos verdes, que reflejan el sector agrícola al que nos dedicamos en nuestra startup. Estos colores contrastan con el resto de la página, destacando así la invitación al usuario para descargar y probar nuestra aplicación.
 
-**Background:** (primary, secondary, terniary)  
-![Background Preview web](image.jpg)
-**Text Styles:** (H1, H2, p, a,)  
-![Text Style Preview web](image.jpg)
-**Button Styles:** (Button, dropdowns, Switches)
-![Button Preview web](image.jpg)
-**Icons:** (Fondo blanco con los iconos que vamos a usar)
-![Icons Preview web](image.jpg)
-**Misc** (Cosas como nav var o slideshows que pensemos usar)
-![Miscellaneos preview web](image.jpg)
 
 ## 4.2. Information Architecture.
 
+En el proyecto "CalmConnection", la arquitectura de la información se diseña meticulosamente para garantizar una experiencia de usuario coherente y efectiva. Esta arquitectura se fundamenta en la comprensión profunda de las necesidades emocionales de los usuarios y las soluciones propuestas para abordarlas. A continuación, se detallan y se amplían los sistemas de arquitectura de información seleccionados:
+
 ### 4.2.1. Organization Systems.
 
-Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
-"Hierarchical. This structures advices to present the content in a way to distinguish the level of importance by making
-use of physical differences, such as size, colour, contrast, alignment etc.
+En la creación del Lading Page y también de la aplicación web haremos uso del enfoque jerárquica. Esta metodología permitirá asignar la ubicación óptima a cada elemento requerido en el desarrollo y este enfoque jerárquico permite una navegación clara y fácil, lo que ayuda a los usuarios a encontrar rápidamente lo que están buscando y a comprender la estructura general de la aplicación. Para lograrlo, se tendrán en cuenta factores como etiquetas, especificaciones de pantalla y resolución. Asimismo, se diseñarán íconos utilizando una matriz, lo que facilitará la visualización de los detalles y contribuirá a mantener un proceso ordenado en todo momento.
 
-Sequential. Guide users to follow a specific path towards their goal and provide content step-by-step based on the
-current step.
+- Selección: Jerárquico: El sistema de organización jerárquica se adapta perfectamente a las necesidades de "CalmConnection". Este enfoque estructura el contenido en un formato que refleja la importancia y la relación de los elementos entre sí. Por ejemplo, la página de inicio actúa como un punto central desde el cual los usuarios pueden acceder a los servicios principales, como los foros de discusión, eventos y opciones de suscripción. Desde allí, pueden navegar hacia abajo a través de niveles de contenido secundario para encontrar información más específica o detallada sobre temas relacionados con su bienestar emocional.
 
-Matrix. You can always give the users the option to choose the type of navigation they prefer, i.e. Alphabetical,
-Chronological, by topic."
+- Matrix: Si bien el enfoque de matriz permite una flexibilidad en la navegación, podría resultar abrumador para los usuarios debido a la cantidad de opciones disponibles. La organización jerárquica proporciona una estructura más clara y fácil de entender para los usuarios, lo que mejora la usabilidad y la experiencia general. Si bien no se aplicará ampliamente, el enfoque matricial se utilizará en áreas donde los usuarios puedan beneficiarse de la flexibilidad de elegir cómo desean explorar el contenido. Por ejemplo, podríamos permitir a los usuarios ordenar las publicaciones del foro por temas, fecha o popularidad, brindándoles opciones para personalizar su experiencia de navegación según sus preferencias individuales y se incluirá para que cuando el usuario quisiera consigurar aspectos de la cuenta creada pueda realizar los cambios necesario en apartados divididos.
+  
+- Sequential: Aunque este enfoque puede ser útil para guiar a los usuarios a través de un proceso paso a paso, no se adapta bien a la naturaleza diversa y multifacética de "CalmConnection". La organización jerárquica permite una exploración más libre y personalizada de los servicios y recursos disponibles. Sin embargo, se incluirá al momento de que los usuarios realicen la creación de sus cuenta o realicen el plan de suscripción que se ofrecerá en la aplicación.
+
+- Esquemas de Categorización de Contenido:
+Por Tópicos: La categorización por temas será fundamental en áreas como los foros de discusión y la biblioteca de recursos. Los usuarios podrán explorar y participar en discusiones sobre temas específicos relacionados con su bienestar emocional, como manejo del estrés, ansiedad social, técnicas de relajación, entre otros.
+
+Según Audiencia:Se aplicará una categorización basada en secciones como el perfil del especialista y los eventos. Los usuarios podrán buscar y filtrar especialistas según sus áreas de especialización y experiencia, lo que les permitirá encontrar el apoyo más relevante para sus necesidades emocionales específicas.
+
 
 ### 4.2.2. Labeling Systems.
 
-The labeling system aims at uniting the data effectively and represent them in simple way and avoid confusing great
-amount of information. A widely adopted way to achieve this is by creating the labels which represent loads of data in
-few words.
+En "CalmConnection", hemos dedicado especial atención a seleccionar etiquetas descriptivas que guíen de manera clara y efectiva a nuestros usuarios a través de la aplicación. Cada etiqueta ha sido cuidadosamente elegida para reflejar con precisión el propósito y el contenido de las diversas secciones de nuestra plataforma, asegurando una experiencia de navegación fluida y satisfactoria.
 
-Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
+- Inicio: La etiqueta "Inicio" actúa como la puerta de entrada a nuestra aplicación, ofreciendo a los usuarios una visión general de los servicios y recursos disponibles en "CalmConnection". Desde aquí, los usuarios pueden iniciar su viaje hacia el bienestar emocional explorando las diversas opciones y funcionalidades que ofrecemos.
+
+- Servicios: Al seleccionar esta etiqueta, nuestros usuarios son conducidos a una sección que resalta los principales servicios ofrecidos por "CalmConnection". Desde foros de discusión hasta eventos especiales y opciones de suscripción, esta sección proporciona una descripción detallada de los recursos disponibles para nuestros usuarios.
+
+- Quiénes Somos: La etiqueta "Quiénes Somos" les brinda a nuestros usuarios la oportunidad de conocer más sobre la historia y el equipo detrás de "CalmConnection". Aquí, compartimos nuestra misión, visión y valores, así como también presentamos al equipo comprometido con el desarrollo y mantenimiento de nuestra aplicación.
+
+- Ayuda: En "CalmConnection", nos esforzamos por ofrecer apoyo y orientación a nuestros usuarios en cada paso del camino. La etiqueta "Ayuda" les proporciona acceso a recursos y guías diseñadas para resolver cualquier duda o problema que puedan encontrar durante su experiencia con nuestra aplicación.
+
+- Preguntas: Nuestra sección de "Preguntas" ofrece respuestas a las consultas más comunes sobre el funcionamiento y los servicios de "CalmConnection". Desde detalles sobre la reserva de citas hasta información sobre eventos futuros, esta sección sirve como una valiosa fuente de información para nuestros usuarios.
+
+- Testimonios: ¿Qué mejor manera de conocer los beneficios de "CalmConnection" que a través de las experiencias reales de nuestros usuarios? La etiqueta "Testimonios" presenta historias auténticas y reseñas de aquellos que han encontrado apoyo y soluciones a través de nuestra plataforma.
+
+- Descargar: La etiqueta "Descargar" ofrece a nuestros usuarios un acceso rápido y conveniente para obtener la aplicación "CalmConnection" en sus dispositivos preferidos. Con enlaces directos a las diferentes versiones disponibles, facilitamos que nuestros usuarios comiencen a disfrutar de los beneficios de nuestra aplicación en cualquier momento y lugar.
+
+Con estas etiquetas descriptivas, buscamos garantizar que la experiencia de navegación en "CalmConnection" sea clara, intuitiva y completamente centrada en las necesidades de nuestros usuarios.
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-**Meta & SEO (Search Engine Optimization) Tags:**  sirven para que la pagina web sea encontrada facilmente es lo que
-sale al encontrar la pagina en el buscador (se ponen en el <"head">)
+Las etiquetas de SEO y metaetiquetas desempeñan un papel crucial en la visibilidad y la accesibilidad de "CalmConnection" en los motores de búsqueda. Las etiquetas SEO consisten en términos clave pertinentes y descripciones breves, con el propósito de que los motores de búsqueda puedan indexar y clasificar eficazmente el contenido de la aplicación. Por otro lado, las metaetiquetas ofrecen detalles adicionales acerca de la página, como el título y la descripción que se visualizan en los resultados de búsqueda. Estas etiquetas son esenciales para aumentar la visibilidad y la clasificación de "CalmConnection" en los motores de búsqueda, lo que resulta en un mayor tráfico y una mayor exposición para la aplicación.
 
-* Titulo: ```<title> ___ </title> ```
-* Descripcion: ```<meta name = "description" content = "texto descipcion"/> ```
-* Palabras Clave: ```<meta name = "keyword" content = "keyword1, 2 3"/> ```
+- Landing Page:
+
+Tittle: CalmConnection.<br>
+Description: CalmConnection - CalmConnection Official Landing Page.<br>
+Keywords: emotional, connection, mental health, psychologists.<br>
+Authors: CalmConnection team.<br>
+
+- Aplicación web:
+
+Tittle: CalmConnection.<br>
+Description: CalmConnection - CalmConnection Official Web Page <br>
+Keywords: emotional, connection, mental health, psychologists.<br>
+Authors: CalmConnection team.<br>
 
 ### 4.2.4. Searching Systems.
 
-**Que se busca?:** Que buscara el usuario  
-**Que resultados se mostraran?:** Que se mostrara  
-**Interface de busqueda:** Descripcion de como ayuda a encontrar lo deseado
-![Search interface preview web](image.jpg)
+Dentro de "CalmConnection" hemos diseñado un sistema de búsqueda que permite a nuestros usuarios encontrar rápida y eficientemente información relevante para mejorar su bienestar emocional.
+
+**¿Qué se busca?**
+Nuestros usuarios tienen la posibilidad de explorar una amplia variedad de temas relacionados con su salud mental y emocional. Desde técnicas para manejar el estrés hasta estrategias para abordar la ansiedad social, nuestro sistema de búsqueda abarca una amplia gama de necesidades.
+
+**¿Qué resultados se mostrarán?**
+Al realizar una búsqueda, los usuarios encontrarán una lista diversa de resultados que cubren diferentes aspectos de su consulta. Esto incluye publicaciones significativas de nuestros foros de discusión, próximos eventos relacionados con el tema, talleres disponibles que pueden ofrecer herramientas adicionales, y perfiles detallados de especialistas en salud mental que pueden proporcionar orientación y apoyo personalizado.
+
+**Interfaz de Búsqueda:**
+La interfaz de búsqueda ha sido diseñada pensando en la facilidad de uso y la accesibilidad. Los usuarios pueden escribir sus consultas en un cuadro de búsqueda dedicado, y nuestra función de autocompletar les ofrece sugerencias relevantes para agilizar el proceso. Una vez realizada la búsqueda, los resultados se presentan de manera clara y ordenada, con opciones de filtrado y clasificación disponibles para una navegación más eficiente y personalizada.
+
+Con nuestro sistema de búsqueda, garantizamos que los usuarios de "CalmConnection" puedan acceder de manera rápida y sencilla a recursos que promuevan su bienestar emocional, brindándoles el apoyo necesario para afrontar sus desafíos emocionales con confianza y seguridad.
+
+
+![image](https://github.com/SI730-SW53-OpenSource-Grupo5/FinalProject/assets/114323722/5291b6ec-6056-4ee7-ba72-6374025b12a3)
+
 
 ### 4.2.5. Navigation Systems.
+En "CalmConnection", nos esforzamos por asegurar que la navegación dentro de nuestra aplicación de salud mental sea intuitiva y efectiva, ofreciendo a los usuarios una experiencia enriquecedora y satisfactoria mientras buscan apoyo y recursos para fortalecer su bienestar emocional.
 
-Basicamente aqui definimos como funciona la navegacion del web app
-**Hierarchical Navigation System:** Main page a destination pages.
-**Global Navigation Systems** (Complemento del Hierachical) Movimiento vertical (te mueves por la pagina)con nav(debe
-poder regresar a la principal)
-**Local Navigation Systems** (vas a otras paginas) (complemento del global nav sistem sub-site) Usas otras paginas
+- Sistema de Navegación Jerárquica:
+Hemos adoptado una estructura jerárquica en nuestra plataforma para facilitar a los usuarios el acceso a diversas áreas diseñadas para abordar sus necesidades emocionales. Desde la página de inicio, los usuarios pueden explorar los foros de discusión para conectarse con otros usuarios, acceder a eventos y talleres organizados por especialistas en salud mental, y explorar perfiles de expertos para programar citas y obtener asesoramiento personalizado. Esta jerarquía claramente definida les permite a los usuarios encontrar rápidamente los recursos y el apoyo que están buscando, guiándolos de manera lógica a través de la aplicación.
+
+- Sistema de Navegación Global:
+Nuestra aplicación cuenta con un sistema de navegación global que permite a los usuarios moverse sin problemas entre las distintas secciones y regresar a la página de inicio en cualquier momento. Esta coherencia en la navegación brinda a los usuarios una sensación de familiaridad y control mientras exploran las diferentes características y servicios disponibles en "CalmConnection". Este sistema se complementa con el movimiento vertical, permitiendo a los usuarios desplazarse por la página con facilidad utilizando la barra de navegación, lo que garantiza que siempre puedan regresar a la página principal con un solo clic.
+
+- Sistema de Navegación Local:
+Además del sistema global, ofrecemos un sistema de navegación local que permite a los usuarios acceder a páginas específicas dentro de la aplicación, como perfiles de especialistas o eventos específicos. Este sistema de navegación local actúa como un complemento al sistema global, permitiendo a los usuarios explorar contenido relacionado de manera intuitiva y acceder a información detallada según sus necesidades específicas.
+
+Con estos sistemas de navegación, proporcionamos a los usuarios de "CalmConnection" una guía clara y efectiva a través de nuestra aplicación, facilitándoles el acceso a recursos y apoyo para mejorar su bienestar emocional y promover una vida más saludable y equilibrada.
 
 ## 4.3. Landing Page UI Design.
 
 ### 4.3.1. Landing Page Wireframe.
 
-la pagina donde te registras y ves info del web app (te manda al web app)
-
-Wireframe es todo lo funcional de la pagina
-![Landing page Wireframe](image.jpg)
+<img src="./assets/landing-page/landingOpenSource-Wireframe.png" alt="Imagen del compañero" style="width:100%">
 
 ### 4.3.2. Landing Page Mock-up.
 
-Mockup es todo lo relacionado al diseño de la pagina
-![Landing page mockup](image.jpg)
+<img src="./assets/landing-page/landingOpenSource-mockup.png" alt="Imagen del compañero" style="width:100%">
 
 ## 4.4. Web Applications UX/UI Design.
 
 ### 4.4.1. Web Applications Wireframes.
 
-lo funcional de cada aspecto del wireframe
-![Web Aplication Wireframe](image.jpg)
+Inicio de sesión
+
+<img src="./assets/landing-page/wire-iniciosesion.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Crear cuenta usuario:
+
+<img src="./assets/landing-page/wire-iniciosesion3.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Crear cuenta especialista:
+
+<img src="./assets/landing-page/wire-iniciosesion4.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Vista usuario que no cuenta con suscripcion:**
+
+Home:
+
+<img src="./assets/landing-page/home-nosuscribed.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Foros:
+
+<img src="./assets/landing-page/forums-nosuscribe.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Calendario:
+
+<img src="./assets/landing-page/calendar-nosuscribed.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Eventos:
+<img src="./assets/landing-page/events-nosuscribed.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Analisis:
+<img src="./assets/landing-page/analytics-nosuscribed.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Hilos: 
+<img src="./assets/landing-page/hilo-wireframe.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+*Buttons call to action (CTA):*
+
+Crear post:
+
+<img src="./assets/landing-page/createPost-wireframe.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Specialist profile:
+
+<img src="./assets/landing-page/specialistprofile-wireframe.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Realizar una cita a especialista:
+
+<img src="./assets/landing-page/appoinmentdetails-wireframe.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Pago especialista para reserva:
+
+<img src="./assets/landing-page/payment-wireframe.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Reserva de cita exitosa:
+
+<img src="./assets/landing-page/appointmentsucess-wire.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Registro de eventos:
+
+<img src="./assets/landing-page/registerevent-wireframe.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Registro de evento exitoso:
+
+<img src="./assets/landing-page/registereventsucess-wireframe.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Vista usuarios que cuentan con suscripcion:**  
+
+Progreso y metrica de analisis emocional:
+
+<img src="./assets/landing-page/analytics-suscribed.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Eventos exclusivos gratuitos:
+
+<img src="./assets/landing-page/eventosExclusivos-wireframe.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Reserva de citas gratuita:
+
+<img src="./assets/landing-page/reserveAppointmentFree.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Vista especialistas de salud:**
+
+LinkFigma: https://www.figma.com/file/at7BldTcKVIputFtHq485B/Wireframes-AppWeb?type=design&node-id=48%3A553&mode=design&t=Qz6xmr9ECJ9kfuKH-1 
+
+Home:
+
+<img src="./assets/landing-page/home-nosuscribed.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Foros:
+
+<img src="./assets/landing-page/forums-nosuscribe.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Calendario:
+
+<img src="./assets/landing-page/calendar-nosuscribed.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Eventos:
+<img src="./assets/landing-page/eventsSpecialits.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Bandeja de entrada:
+<img src="./assets/landing-page/Specialistinboxframe.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+
+*Buttons call to action (CTA):*
+
+Crear nuevo evento:
+
+<img src="./assets/landing-page/nuevoEventoSpecialist.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Creacion de nuevo evento exitosa:
+
+<img src="./assets/landing-page/createEventSuccess.png" alt="Imagen del compañero" style="width:100%"><br/>
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
-![Web Aplication Wireflow](image.jpg)
+**User goal 1:** Inicio de sesion / registro de usuario
+
+<img src="./assets/landing-page/wire-1.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 2:** Crear post
+
+<img src="./assets/landing-page/wire-2.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 3:** Reserva de cita con especialista
+
+<img src="./assets/landing-page/wire-3.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 4:** Usuario quiere unirse a un hilo
+
+<img src="./assets/landing-page/wire-4.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 5:** Usuario se registra a un evento
+
+<img src="./assets/landing-page/wire-5.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 6:** Especialista crea un evento
+
+<img src="./assets/landing-page/wire-6.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 7:** Usuario paga para registrarse en evento
+
+<img src="./assets/landing-page/wire-7.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+Enlace miro al diagrama: https://miro.com/app/board/uXjVKUq4xVs=/?share_link_id=40081653876 
 
 ### 4.4.2. Web Applications Mock-ups.
 
-Diseño en todo aspecto
-![Web Aplication Mockup](image.jpg)
+Inicio de sesión
+
+<img src="./assets/landing-page/inicio-mockup.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Crear cuenta usuario:
+
+<img src="./assets/landing-page/login-commonuser.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Crear cuenta especialista:
+
+<img src="./assets/landing-page/loginSpecialist.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Vista usuario que no cuenta con suscripcion:**
+
+Home:
+
+<img src="./assets/landing-page/home-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Foros:
+
+<img src="./assets/landing-page/forums-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Calendario:
+
+<img src="./assets/landing-page/calendar-mocks.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Eventos:
+<img src="./assets/landing-page/events-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Analisis:
+<img src="./assets/landing-page/analytics-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Hilos: 
+<img src="./assets/landing-page/hilo-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+*Buttons call to action (CTA):*
+
+Crear post:
+
+<img src="./assets/landing-page/newPost-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Specialist profile:
+
+<img src="./assets/landing-page/peacialistProfile-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Realizar una cita a especialista:
+
+<img src="./assets/landing-page/appointmentDetailsmock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Reserva de cita exitosa:
+
+<img src="./assets/landing-page/appointmentSucesfully-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Registro de eventos:
+
+<img src="./assets/landing-page/eventRegisterrrr-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Registro de evento exitoso:
+
+<img src="./assets/landing-page/eventRegister-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Vista usuarios que cuentan con suscripcion:**  
+
+Progreso y metrica de analisis emocional:
+
+<img src="./assets/landing-page/analytics-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Eventos exclusivos gratuitos:
+
+<img src="./assets/landing-page/events-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Reserva de citas gratuita:
+
+<img src="./assets/landing-page/appointmentDetailsmock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Vista especialistas de salud:**
+
+Home:
+
+<img src="./assets/landing-page/home-specialist.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Foros:
+
+<img src="./assets/landing-page/forums-specialist.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Calendario:
+
+<img src="./assets/landing-page/calendar-specialist.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Eventos:
+<img src="./assets/landing-page/events-specialist.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Bandeja de entrada:
+<img src="./assets/landing-page/inbox-specialist.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+
+*Buttons call to action (CTA):*
+
+Crear nuevo evento:
+
+<img src="./assets/landing-page/createEvent-specialist.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Creacion de nuevo evento exitosa:
+
+<img src="./assets/landing-page/createEventSuccess-specialist.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+LinkFigma: https://www.figma.com/file/at7BldTcKVIputFtHq485B/Wireframes-AppWeb?type=design&node-id=48%3A553&mode=design&t=Qz6xmr9ECJ9kfuKH-1 
+
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
-un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
-![Web Aplication User Flow Diagram](image.jpg)
+**User goal 1:** Inicio de sesion / registro de usuario
+
+<img src="./assets/landing-page/mock-1.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 2:** Crear post
+
+<img src="./assets/landing-page/mock-2.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 3:** Reserva de cita con especialista
+
+<img src="./assets/landing-page/mock-3.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 4:** Usuario quiere unirse a un hilo
+
+<img src="./assets/landing-page/mock-4.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 5:** Usuario se registra a un evento
+
+<img src="./assets/landing-page/mock-5.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 6:** Especialista crea un evento
+
+<img src="./assets/landing-page/mock-6.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 7:** Usuario paga para registrarse en evento
+
+<img src="./assets/landing-page/wire-7.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+Link Miro: https://miro.com/app/board/uXjVKUpWmTM=/?share_link_id=579453948455 
 
 ## 4.5. Web Applications Prototyping.
 
-[URL del Prototipo (Hecho en figma)](https://www.example.com)
+<img src="./assets/landing-page/prototype-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+URL del prototipo en Figma: https://www.figma.com/proto/DIMymIVBJZalayMlZRKLTL/WebApplication-Prototyping?page-id=0%3A1&type=design&node-id=1-59&viewport=732%2C710%2C0.09&t=CsrxiKf8dLaT76ly-1&scaling=scale-down&starting-point-node-id=1%3A59&show-proto-sidebar=1&mode=design 
 
 ## 4.6. Domain-Driven Software Architecture.
 
 ### 4.6.1. Software Architecture Context Diagram.
 
-1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
-   se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
+<img src="./assets/context_diagram.png" alt="Image of Software Architecture Context Diagram." style="width:100%">
 
 2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que
    encapsula palabras clave en los procesos para poder
@@ -726,37 +1040,79 @@ un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's,
-   indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como
-   objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP)
+<img src="./assets/container_diagram.png" alt="Image of Software Architecture Container Diagrams." style="width:100%">
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
 1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del
    aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
 
+   **Gestión del usuario Context Component Diagram:**
+
+<img src="./assets/GestionUsuario.jpg" alt="Image of Software Architecture Container Diagrams." style="width:100%">
+
+**Terapias y citas Context Component Diagram:**
+
+<img src="./assets/TerapiasCitas.jpg" alt="Image of Software Architecture Container Diagrams." style="width:100%">
+
+**Comunidad y foro Context Component Diagram:**
+
+<img src="./assets/ComunidadForo.jpg" alt="Image of Software Architecture Container Diagrams." style="width:100%">
+
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
 
-Esta yaselasaben (diagrama de clases)
-Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributos(Correo, edad,nombre como valor, ID)
+<img src="./assets/class_diagram.png" alt="Image of Class Diagram" style="width:100%">
 
 ### 4.7.2. Class Dictionary.
 
-Inherit (ave(superclase) -> (subclase)canario )
-Polymorphism (Ej. funcion de persona hablar() -> Peruano hablar() , Gringo hablar() todos tienen una funcion que
-contiene persona y van cambiando sus formas)
-Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usada que uso app en la base de datos (fuera
-de vista))
-Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en
-Private y Public )
+**User:** <br>
+La clase User representa a los usuarios regulares del sistema. Estos usuarios pueden buscar ayuda emocional, participar en eventos, interactuar en comunidades y reservar citas con especialistas. Pueden unirse a comunidades para conectarse con otros usuarios, compartir experiencias y buscar apoyo mutuo en temas relacionados con la salud mental.
 
+**Specialist:** <br>
+La clase Specialist representa a los profesionales de la salud mental que ofrecen sus servicios en la plataforma. Estos especialistas pueden iniciar sesión en el sistema, listar los eventos que organizan, ver las citas programadas con sus pacientes y acceder a los perfiles de los pacientes. Además, pueden participar en comunidades para brindar apoyo y asesoramiento a los usuarios regulares en temas relacionados con la salud mental.
+
+**Community:** <br>
+La clase Comunidad representa grupos de usuarios que se reúnen en la plataforma para discutir temas relacionados con la salud mental, compartir experiencias y brindarse apoyo mutuo. Los usuarios regulares pueden unirse a estas comunidades para conectarse con otros usuarios, buscar apoyo emocional y participar en discusiones grupales. Los especialistas también pueden participar en comunidades para ofrecer asesoramiento y orientación a los usuarios en busca de ayuda.
+
+**Event:** <br>
+La clase Event representa eventos organizados en la plataforma, que pueden incluir talleres, charlas, sesiones de terapia grupales, etc. Los eventos pueden ser creados tanto por usuarios especialistas como por administradores del sistema. Pueden tener una variedad de atributos como nombre, fecha, ubicación y tipo. Los usuarios pueden asistir a estos eventos para obtener información, participar en actividades grupales y recibir apoyo de especialistas y otros participantes.
+
+**Thread:** <br>
+La clase Thread representa una conversación o tema de discusión dentro de una comunidad. Cada hilo puede contener mensajes o respuestas de usuarios y puede estar relacionado con un tema específico relacionado con la salud mental. Los usuarios pueden crear nuevos hilos, responder a hilos existentes y participar en discusiones dentro de la comunidad.
+
+**Date:** <br>
+La clase Date representa fechas disponibles para citas con especialistas. Estas fechas pueden ser definidas por los especialistas como horarios disponibles para atender a sus pacientes. Los usuarios pueden seleccionar estas fechas para reservar citas.
+
+**Calendar:** <br>
+La clase Calendar está asociada a un especialista y almacena las fechas disponibles para citas. Cada calendario puede contener múltiples fechas disponibles para citas con el especialista. Los usuarios pueden acceder al calendario del especialista para reservar citas en los horarios disponibles.
+
+**Quote:** <br>
+La clase Quote representa una cita programada entre un usuario y un especialista en una fecha específica. Al reservar una cita, se crea una instancia de esta clase que incluye la información de la fecha y hora de la cita, así como los detalles del usuario y el especialista involucrados.
+
+**Category:** <br>
+La clase Category representa las categorías a las que pueden pertenecer eventos o comunidades en la plataforma. Cada evento o comunidad puede estar asociado a una o más categorías para facilitar la búsqueda y la organización. Las categorías pueden incluir temas como "Salud Mental", "Autoayuda", "Psicología Adulta".
+
+**Subscription:** <br>
+La clase Subscription representa una suscripción pagada ofrecida en la plataforma. Contiene información sobre el nombre de la suscripción, una descripción de los servicios incluidos, la duración de la suscripción y el precio asociado. Los usuarios pueden adquirir suscripciones para acceder a funciones premium o contenido exclusivo.
+
+**User Subscription:** <br>
+La clase User Subscription representa la suscripción de un usuario a un plan de suscripción específico. Al adquirir una suscripción, se crea una instancia de esta clase que incluye información sobre el usuario que adquirió la suscripción, el tipo de suscripción, la fecha de inicio y la fecha de finalización de la suscripción.
+
+**EventType:** <br>
+La clase EventType define los tipos de eventos que pueden ocurrir en la plataforma. Cada tipo de evento tiene un nombre descriptivo y una breve descripción que indica cómo se llevará a cabo el evento. Por ejemplo, puede haber eventos presenciales, eventos en línea (streaming), talleres virtuales, sesiones grupales, entre otros. 
+
+**Review:** <br>
+La clase Review representa un calificacion del usuario hacia el especialista, este evento se realiza cuando un usuario tiene un cita privada con un especialista.
+
+**Notification:** <br>
+La clase Notification esta ascociada a los Usarios y los Especialista, estos pueden recibir notificaciones cuando alguien ha comentado su hilo, cuando han reservado una cita con un especialista, cuando le han dado megusta a su comentario, etc.
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram.
 
-Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
+<img src="./assets/database_diagram.png" alt="Image of Class Diagram" style="width:100%">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
