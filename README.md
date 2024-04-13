@@ -726,7 +726,7 @@ Para llevar a cabo la automatización del lanzamiento de nuestra Landing Page, e
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
-Para llevar a cabo los registros de nuestros avances durante el primer Sprint de desarrollo, empleamos Visual Studio Code en conjunto con Git. Un miembro del equipo inició el proceso con un primer registro para establecer el repositorio. Posteriormente, hicimos una copia local del repositorio mediante Git, realizamos las modificaciones en Visual Studio Code y creamos ramas específicas para dichas modificaciones. Finalmente, completamos el proceso con un registro de los cambios, el cual será examinado en el repositorio de GitHub.
+Para llevar a cabo los registros de nuestros avances durante el primer Sprint de desarrollo, empleamos GitHub. Un miembro del equipo inició el proceso con un primer registro para establecer el repositorio y creó muchas ramas para poder trabajar sin interrumpir el avance de otro compañero. Posteriormente, hicimos una copia local del repositorio mediante Git, realizamos las modificaciones en GitHub. Finalmente, completamos el proceso con un registro de los cambios, el cual será examinado en el repositorio de GitHub.
 
 ## 5.3. Validation Interviews.
 
