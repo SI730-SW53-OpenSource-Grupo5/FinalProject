@@ -1158,7 +1158,7 @@ En este apartado, se van a mencionar los distintos productos de software emplead
 
 ### 5.1.2. Source Code Management.
 
-El manejo y organización del trabajo se llevaron a cabo mediante una organización en Github Organización: https://github.com/OpenSourceSW53 Landing Page Repository: https://github.com/OpenSourceSW53/officetech-landing-page
+El manejo y organización del trabajo se llevaron a cabo mediante una organización en Github Organización: https://github.com/SI730-SW53-OpenSource-Grupo5 Landing Page Repository: https://github.com/SI730-SW53-OpenSource-Grupo5/LandingPage-ConnectionLink.git 
 
 Asimismo, para llevar a cabo un mejor control de cómo crear ramas y realizar cambios en el código fuente, se procedió a utilizar GitFlow.
 
