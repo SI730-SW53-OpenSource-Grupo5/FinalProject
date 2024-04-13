@@ -1158,7 +1158,21 @@ En este apartado, se van a mencionar los distintos productos de software emplead
 
 ### 5.1.2. Source Code Management.
 
-El gitjab donde tengamos el proyecto
+El manejo y organización del trabajo se llevaron a cabo mediante una organización en Github Organización: https://github.com/OpenSourceSW53 Landing Page Repository: https://github.com/OpenSourceSW53/officetech-landing-page
+
+Asimismo, para llevar a cabo un mejor control de cómo crear ramas y realizar cambios en el código fuente, se procedió a utilizar GitFlow.
+
+De este modo, se tenían 2 ramas principales: main y development.
+
+* main: En esta rama almacenaremos las versiones oficiales de nuestro repositorio que ya deben pasar a producción.
+* development: Esta rama se utilizará como rama de integración para las “feature” branches. Una vez alcance un estado estable y el equipo lo considere listo para ser lanzado, se unirá a la rama main.
+  
+**Commit Conventions:**    
+El formato de nuestros commits sigue la estructura de los “Conventional Commits” en su versión 1.0.0 (https://www.conventionalcommits.org/en/v1.0.0/) con el objetivo de proporcionar una lectura sencilla de los mismos. Por ello seguimos el siguiente formato: "< type>[optional scope]: < description>" Donde:
+
+* type: Especifica el tipo de cambio realizado, únicamente puede ser feat, fix, update, etc.
+* scope: Es el alcance que tiene nuestro commit.
+* description: Es un breve resumen de los cambios de código.
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 En el proyecto hemos hecho uso de algunas convenciones y guia de estilos para el desarrollo del Landing Page.
