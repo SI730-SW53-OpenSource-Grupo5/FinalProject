@@ -648,7 +648,13 @@ En el proyecto hemos hecho uso de algunas convenciones y guia de estilos para el
 
 ### 5.1.4. Software Deployment Configuration.
 
-Configuraciones de donde y como deployeamos el proyecto
+En esta entrega, hemos finalizado nuestra Landing Page y configurado su despliegue de la siguiente manera:
+
+Repositorio GitHub: El código de la Landing Page está alojado en un repositorio específico dentro de nuestra comunidad pública en GitHub.
+
+GitHub Pages: Utilizamos GitHub Pages para desplegar la página. Esto nos permite una visualización clara y accesible para los usuarios.
+
+Esta configuración nos brinda un método eficiente y transparente para el despliegue de nuestro proyecto, asegurando una experiencia óptima para nuestros usuarios.
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
