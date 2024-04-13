@@ -1,5 +1,3 @@
- <hr>
-
 # <center>COURSE PROJECT</center>
 
 <p align="center">
@@ -23,12 +21,11 @@
 
 | Member                           | Code       |
 |----------------------------------|------------|
-| Alexander Paolo Justo Yauricasa  | u20191c054 |
-| Burga loarte Anaely Zarely       | u202118264 |
-| Djalma Santos Dioses Molina      | u201921405 |
+| Nombre del Compañero XXX         | u202217485 |
+| Torrejon Navarro Braulio Rodrigo | u201711828 |
 | Nicolas Sebastian Esteban Garcia | u202217485 |
 | Johan Príncipe Godoy             | u202014511 |
-| Torrejon Navarro Braulio Rodrigo         | u201711828 |
+| Anaely Burga Loarte              | u202118264 |
 </center>
 
 # Registro de Versiones del Informe
@@ -189,12 +186,11 @@ Nuestra startup [nombre] tiene como objetivo conectar a personas que presentan a
 | Miembros del equipo                                                                                                                     | Codigo Estudiante | Carrera | Conocimientos / Habilidades                                                   |
 |-----------------------------------------------------------------------------------------------------------------------------------------|-------------------|-|-------------------------------------------------------------------------------| 
 | Nicolas Sebastian Esteban Garcia  <img src="./assets/members-profile/nicolas-profile.jpg" alt="Imagen del compañero" style="width:80%"> | U202217485        |Ingenieria de software| C++, JS, HTML, CSS, Phyton. Comunicación asertiva y facil adaptación          |
-| Djalma Santos Dioses Molina <img src="" alt="Imagen del compañero" style="width:80%">                                                   | U201921405        |Ingenieria de software| HTML, CSS, JS, C++, C#, SQL, Phyton. Responsable.                             |
+| Nombre del compañero <img src="" alt="Imagen del compañero" style="width:80%">                                                          | U202217485        |Ingenieria de software| C++, JS, HTML, CSS, Phyton                                                    |
 | Esteban Garcia, Nicolas Sebastian <img src="" alt="Imagen del compañero" style="width:80%">                                             | U202217485        |Ingenieria de software| C++, JS, HTML, CSS, Phyton                                                    |
 | Príncipe Godoy, Johan 	<img src="./assets/members-profile/johan-profile.jpg" alt="Imagen del compañero" style="width:80%">             | U202014511        |Ingenieria de software| C++, JS, HTML, CSS, Phyton, SQL, MongoDB. Trabajo en equipo y responsabilidad |
+| Braulio Rodrigo Torrejon Navarro	<img src="./assets/members-profile/22.jpg" alt="Imagen del compañero" style="width:80%">                                                          | U201711828       |Ingenieria de software| C++, JS, HTML, CSS, Phyton     
 | Burga Loarte Anaely <br />	<img src="./assets/members-profile/1.jpg" alt="Imagen del compañero" style="width:50%; height:60%">                                                          | U202118264        |Ingenieria de software| C++, C#, JS, HTML, CSS, Phyton | 
-| Torrejon Navarro Braulio Rodrigo	<img src="./assets/members-profile/22.jpg" alt="Imagen del compañero" style="width:80%">                                                          | U201711828        |Ingenieria de software| C++, C#, JS, HTML, CSS, Phyton | 
-| Alexander Paolo Justo Yauricasa <img src="" alt="Imagen del compañero" style="width:80%">                                                | U201921405        |Ingenieria de software| Phyton, HTML, JS, C++, C#, SQL. Facil adaptación y responsable                   |
 
 ## 1.2. Solution Profile
 
@@ -204,37 +200,76 @@ Durante el año 2023, se realizó una investigación exhaustiva sobre los índic
 
 Además, investigaciones como el Informe Global sobre la Salud Mental (2023) destacaron la importancia de abordar los determinantes sociales de la salud mental, como la discriminación, la marginalización y la falta de acceso a recursos básicos. Estos factores, junto con la estigmatización asociada a los trastornos emocionales, representan barreras significativas para la búsqueda de ayuda y tratamiento. En consecuencia, se requieren intervenciones integrales que no solo se centren en el diagnóstico y tratamiento clínico, sino también en la promoción de entornos sociales y comunitarios que fomenten el apoyo mutuo, la inclusión y la resiliencia emocional.
 
-Investigacion (5w, 2h tbn)
+* What?
+
+Se trata de aplicación web diseñada para conectar a personas que experimentan problemas de bienestar emocional, como estrés laboral y ansiedad social, con especialistas en salud mental y otros usuarios dispuestos a ofrecer apoyo y consejos.
+
+* Who?
+
+La startup se encarga de desarrollar y mantener la aplicación. Además, contará con especialistas en salud mental que ofrecen sus servicios dentro de la plataforma, así como usuarios que buscan ayuda y apoyo emocional.
+
+* When?
+  
+La aplicación estará disponible para su uso en cualquier momento, permitiendo a los usuarios acceder a recursos y apoyo cuando lo necesiten, además de poder realizar consultas en nuestros diversos foros las 24 horas.
+
+* Why?
+  
+La startup busca proporcionar un espacio seguro y accesible para que las personas puedan expresar sus preocupaciones emocionales y recibir apoyo de especialistas y otros usuarios. El objetivo es mejorar el bienestar emocional de los usuarios y ayudarles a encontrar formas efectivas de manejar el estrés y la ansiedad.
+
+* How?
+
+La aplicación ofrece diferentes características, incluyendo foros donde los usuarios pueden hablar sobre sus problemas y recibir recomendaciones y consejos de especialistas en salud mental y otros usuarios. También proporciona acceso a talleres y eventos gratuitos organizados por especialistas, así como un plan de suscripción que incluye beneficios adicionales, como análisis detallados de la salud emocional y la posibilidad de reservar citas con especialistas.
+
+* How much?
+
+La aplicación estará disponible para su descarga de forma gratuita, pero también ofrece un plan de suscripción que proporciona acceso a funciones adicionales por una tarifa. El costo del plan de suscripción y los precios de los servicios ofrecidos dentro de la aplicación pueden variar dependiendo de la estructura de precios establecida por la startup.
 
 ### 1.2.2 Lean UX Process.
 
 #### 1.2.2.1. Lean UX Problem Statements.
 
-Texto
+Para personas que experimentan problemas de bienestar emocional, como estrés laboral y ansiedad social, encontrar un espacio seguro para expresar sus preocupaciones, recibir apoyo de especialistas en salud mental y conectar con otros usuarios dispuestos a ofrecer ayuda y consejos es una tarea desafiante. A diferencia de los recursos tradicionales, como terapias cara a cara o grupos de apoyo, no existe una plataforma centralizada y accesible que proporcione una solución integral para satisfacer estas necesidades. Esto crea una brecha en la disponibilidad de apoyo emocional oportuno y eficaz, dejando a las personas afectadas sin recursos adecuados para abordar sus problemas emocionales y mejorar su bienestar general. Ante ello, nos proponemos proporcionar a nuestros usuarios un servicio de calidad y efectivo que les permita encontrar alivio y apoyo en sus momentos de necesidad. A través de nuestra plataforma, nos esforzamos por ofrecer un espacio inclusivo y accesible donde puedan conectarse con especialistas en salud mental y otros usuarios dispuestos a ofrecer consejos y apoyo. Es por este motivo que, como startup, abordaremos la resolucion de la siguiente cuestión: ¿Como podemos absolver los problemas que presentan nuestros usuarios con el fin de ofrecer un servicio de calidad y efectivo?
 
 #### 1.2.2.2. Lean UX Assumptions.
 
-| Business Assumptions | User Assumptions |
-| -------------------- | ---------------- |
-| 1. - 12.             | 1. - 6.          |
+|Business Assumptions|User Assumptions|
+|-|-|
+|Creemos que nuestros usuario de la aplicación estan interesados en mejorar su bienestar emocional y controlar sus emociones  |Los usuarios de este aplicación son personas de diferentes edades que son mayores de 18 años, las cuales tengan problemas para expresar su malestar emocional de manera abierta |
+|Se asume que la demanda de servicios de salud mental a través de nuestra aplicación web seguirá creciendo, respaldando así la viabilidad del negocio a largo plazo |Nuestra aplicacióm presentará una gran demanda de usuarios, debido a la interfaz intuitiva y  facil accesibilidad. |
+|Los usuarios usaran los foros de la comunidad para interactuar con diversas personas en el globo que presenten algun problema similiar  |La aplicación ofrecerá un facil acceso a los foros de la comunidad con el fin de que los usuarios puedan comunicarse facilmente |
+|Los usuarios tendran la posibilidad de interactuar con un persona especialista en el problema que se debate, el cual será previamente calificado como persona apta | La aplicación garantizará que los especialistas sean personas aptas para dar algun tipo de recomendación a traves de la validación de sus datos personales |
+|Los usuarios deben tener la posibilidad de interactuar con un especialista, para el cual podra reservar una cita de acuerdo a su disponibilidad |La aplicación mostrará una interfaz donde se visualice el perfil del especialista con sus datos personales y horarios disponibles para reservar una cita |
+|Los usuarios deben tener la posibilidad de inscribirse a eventos gratuitos realizados por especialistas en el área |La aplicación debe mantener un registro de los eventos proximos a realizar y mostrarlo a los usuarios para que posteriormente puedan inscribirse a traves de un formulario |
+|Los usuarios tendrán la posibilidad de pagar por una suscripcion, la cual ofrecerá una gran cantidad de nuevas funcionalidades|La aplicación implementará nuevas funcionalidades, como la inscripcion a talleres y eventos exclusivos, ademas de poder reservar una cantidad de citas durante el mes de suscripcion, entre otros  |
+|Los usuarios podran dejar una reseña o una calificacion al especialista luego de haber recibido su terapia luego de la cita brindada al usuario previamente|La aplicación te dará la posibilidad de dejar una reseña o calificacion al especialista luego de haber sido completada la cita, la cual se podrá visualizar junto a otros reseñas hechos por otros usuarios |
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-Texto
+* Creemos que los usuarios que experimentan estrés laboral y ansiedad social estarán dispuestos a utilizar una aplicación web como medio para expresar sus preocupaciones y recibir apoyo emocional de especialistas en salud mental y otros usuarios. Sabremos que hemos tenido exito, si el usuario encuentre este ambiente bastante cómodo y puede expresarse libremente poe mdio de la plataforma.
+
+* Creemos que al proporcionar una plataforma centralizada y accesible que combine características como foros de discusión, talleres y acceso a especialistas en salud mental, los usuarios encontrarán una solución integral para satisfacer sus necesidades emocionales.
+
+* Creemos que al ofrecer un plan de suscripción con beneficios adicionales, como acceso a eventos exclusivos y reservas de citas con especialistas, podremos generar ingresos sostenibles y rentables para la startup. Sabremos que hemos tenido exito si los usuarios optan por pagar una suscripcion, ya que se ofrece una gran variedad de nuevas funcionalidades.
+
+* Creemos que los usuarios estarán dispuestos a participar activamente en los foros de discusión de la aplicación, compartiendo sus experiencias y ofreciendo apoyo emocional a otros usuarios. Sabremos que hemos tenido exito si se presenta una mayor cantidad de usuarios que comparten sus opiniones en los foros creados
+
+* Creemos que al ofrecer eventos gratuitos y talleres exclusivos para usuarios suscritos, aumentaremos la retención de usuarios y fomentaremos la conversión de usuarios gratuitos a usuarios de pago. Sabremos que hemos tenido exito si se presenta una mayor demanda de usuarios que adquieren una suscripcion.
 
 #### 1.2.2.4. Lean UX Canvas.
 
-(imagen con texto)
+<img src="./assets/images-chapter1/LeanUX-canvas.jpg" alt="LeanUX_Canvas" style="width:100%">
+
+#### Enlace Miro: https://miro.com/app/board/uXjVKZJsmRs=/?share_link_id=496612858930
 
 ## 1.3. Segmentos objetivo.
 
 |                           | Segmento 1 | Segmento 2 |
 | ------------------------- | ---------- | ---------- |
-| Variables                 |            |            |
-| Geográfica                |            |            |
-| Demográfica               |            |            |
-| Psicológica               |            |            |
-| Función de comportamiento |            |            |
+| Variables                 | Usuarios que presentan problemas en su salud mental y desean recurrir a la yuda de otras personas y/o especialistas           | Especialistas que deseen ofrecer sus servicios para apoyar a los usuarios afectados           |
+| Geográfica                | En el Perú se ha contabilizado más de 1 millón 333 mil atenciones en salud mental durante el año 2023.           | En el Perú durante el primer semestre del 2023 se realizaron 6,959 mil asistencias en salud mental por especialistas.           |
+| Demográfica               | No hay distincion de género, pueden ser jóvenes adultos, adultos de mediana edad o personas mayores.           | Especialistas que se encuentren trabajando en un centro de salud certificado          |
+| Psicológica               | Los usuarios pueden tener una necesidad específica de recibir apoyo y orientación emocional y pueden experimentar niveles variables de estrés y ansiedad.           | Nivel de empatía y habilidad para comprender y responder a las necesidades emocionales de los usuarios, además del compromiso con altos estándares éticos en la práctica clínica.           |
+| Función de comportamiento | Busqueda de apoyo, en el cuál actúan buscando una plataforma donde puedan encontrar apoyo emocional y orientación, los niveles de interacción social pueden variar en línea, algunos pueden ser más propensos a participar activamente en discusiones y actividades en la plataforma que otros.            | Deben presentar disposición a colaborar con otros profesionales de la salud mental y a trabajar en equipo y actúan buscando oportunidades para ampliar su base de clientes y ofrecer sus servicios a aquellos que los necesitan.           |
 
 ---
 
