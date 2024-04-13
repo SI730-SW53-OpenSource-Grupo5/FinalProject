@@ -179,12 +179,7 @@
 
 [Anexos](#anexos)
 
-# Student Outcome
 
-| Criterio Especifico                                                                                                                                                                  | Acciones Realizadas                                                                                                                                                                  | Conclusiones           |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería    | Johan Príncipe Godoy:<br> *TB1:* Implementación del User Persona, Task Matrix, Empathy Map, Journey Map, As-Is y To-Be Map. Además, documentación de los commits en el github.       | Su texto de conclusion |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto eningeniería. | Johan Príncipe Godoy:<br> *TB1:* Encargado de realizar la sección de sprint donde se incluye el sprint backlog y sprint planning. Creación y organización del Sprint 1 en el Trello. | Su texto de conclusion |
 
 # Capítulo I: Introducción
 
