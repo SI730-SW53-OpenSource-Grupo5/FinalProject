@@ -386,7 +386,8 @@ Duración: 5:44
 
 Enlace de entrevista: https://drive.google.com/file/d/1b78YRx9V69vzEWJ2y58cUu7BwLTTaCzA/view?usp=sharing 
 
-**Resumen de la entrevista:** 
+**Resumen de la entrevista:** En esta ocasión se entrevistó a Carlos De La Cruz Villaverde especialista de la salud mental, y una practicante de la carrera de psicología. El menciona que le parece interesante la idea de una aplicación que ayude en el campo de la salud mental, ya que no es muy común encontrar con servicios digitales como este, y podría ayudar a las personas a encontrarse más cerca de la ayuda requerida. Así mismo, expresa su interés en una plataforma digital que cubra diversos aspectos del ámbito de la salud mental, con el propósito de brindar apoyo tanto a pacientes como a especialistas. Aunque, el se preocupa por la seguridad de los datos de los clientes y especialistas, ya que estos suelen albergar contenido privado ya sea en sesiones o enfermedades de la salud mental. Por último, De La Cruz expone que este tipo de innovación web no muy común podría ser muy exitoso ya que la ayuda psicológica es muy necesita hoy en día y que más personas se animan a tratarse como un especialista.
+
 
 ### 2.2.3. Análisis de entrevistas.
 
