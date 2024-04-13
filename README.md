@@ -140,15 +140,15 @@
 [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
 
 [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)  
-[5.2.X. Sprint ](#52x-sprint-n)  
-[5.2.X.1. Sprint Planning n](#52x1-sprint-planning-n)  
-[5.2.X.2. Sprint Backlog n](#52x2-sprint-backlog-n)  
-[5.2.X.3. Development Evidence for Sprint Review](#52x3-development-evidence-for-sprint-review)  
-[5.2.X.4. Testing Suite Evidence for Sprint Review](#52x4-testing-suite-evidence-for-sprint-review)  
-[5.2.X.5. Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)  
-[5.2.X.6. Services Documentation Evidence for Sprint Review](#52x6-services-documentation-evidence-for-sprint-review)  
-[5.2.X.7. Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)  
-[5.2.X.8. Team Collaboration Insights during Sprint](#52x8-team-collaboration-insights-during-sprint)
+[5.2.1. Sprint 1 ](#521-sprint-1)  
+[5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)  
+[5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)  
+[5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)  
+[5.2.1.4. Testing Suite Evidence for Sprint Review](#52x4-testing-suite-evidence-for-sprint-review)  
+[5.2.1.5. Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)  
+[5.2.1.6. Services Documentation Evidence for Sprint Review](#52x6-services-documentation-evidence-for-sprint-review)  
+[5.2.1.7. Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)  
+[5.2.1.8. Team Collaboration Insights during Sprint](#52x8-team-collaboration-insights-during-sprint)
 
 [5.3. Validation Interviews](#53-validation-interviews)  
 [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)  
@@ -1118,59 +1118,170 @@ La clase Notification esta ascociada a los Usarios y los Especialista, estos pue
 
 ## 5.1. Software Configuration Management.
 
+En la siguiente sección, detallaremos las herramientas, convenciones, referencias y configuraciones empleadas a lo largo del desarrollo del proyecto, que contribuyeron a mantener la consistencia en el trabajo realizado.
+
 ### 5.1.1. Software Development Environment Configuration.
 
-Especificaciones de donde vamos a hacer el proyecto (vscode supongo)
-extensiones tmbn? nose bn q quieren aca
+En este apartado, se van a mencionar los distintos productos de software empleados por el equipo de desarrollo, para llevar acabo las actividades relacionadas con la elaboración del proyecto.
+
+**Project Management:**
+
+1. **Discord: https://discord.com/** Aunque originalmente su uso es mas para la comunidad de gamers para comunicarse entre ellos, Discord también se puede utilizar para mejorar la experiencia del usuario a travez de diferentes lugares de comunicación, fijar mensajes, diferentes canales de texto y actividad de los integrantes del grupo.
+
+2. **WhatsApp: https://web.whatsapp.com/** WhatsApp es una aplicación de mensajería instantánea que se utiliza para la comunicación en tiempo real. Aunque no es una herramienta de gestión de proyectos, se puede utilizar para mantener en contacto con los miembros del equipo. 
+
+**Requirements Managemnts:**
+
+1. **Trello: https://trello.com/** Es un software de gestión de proyectos, que facilita asignar y organizar las tareas a realizar. 
+
+
+**Product UX/UI Design**
+
+1. **Figma: https://www.figma.com/** Figma es una herramienta de edición gráfica, en donde se puede diseñar y prototipar páginas web. Se utilizó para crear los wireframes, mock-ups del proyecto
+
+2. **UXPressia: https://uxpressia.com/** Es una herramienta en línea que permite a los equipos de trabajo identificar y comprender los problemas, necesidades y comportamiento del usuario, lo utilizamos para realizar el Empathy Map, Journey Map, Impact Map
+
+3. **Miro: https://miro.com/es/** Es una plataforma colaborativa el cual permite crear y usar pizarras digitales personalizadas en tiempo real. Lo utilizamos para la creación del As-is y To-Be scenario map.
+
+**Software Development:**
+
+1. **Landing Page:** Para la creación de la landing page, se utilizaron las tecnologias base del desarrollo web: HTML5, CSS3 y JavaScript, Tambien se usó ReactJs y el framework Tailwindcss para facilitar el desarrollo del proyecto.
+
+**Software Documentation:**
+
+1. **GitHub: https://github.com/** GitHub es una plataforma de desarrollo colaborativo que utiliza el sistema de control de versiones Git. Se utiliza para alojar, revisar y colaborar en proyectos de desarrollo de software, lo que facilita la colaboración entre desarrolladores.
+
+2. **LucidChart: https://lucid.app/** LucidChart es una plataforma que cuenta con opciones para la creación de diagramas, mapas mentales, flujos y más, con el uso de plantillas y tableros con edición en tiempo real. Fue utilizado en el desarrollo del diagrama de clases UML
+
+3. **Structurizr: https://www.structurizr.com/** Es una plataforma que permite modelado de diagramas de arquitectura de software por medio de código. Structurizr fue utilizado para crear el modelo C4 de nuestro proyecto.
+
 
 ### 5.1.2. Source Code Management.
 
 El gitjab donde tengamos el proyecto
 
 ### 5.1.3. Source Code Style Guide & Conventions.
+En el proyecto hemos hecho uso de algunas convenciones y guia de estilos para el desarrollo del Landing Page.
 
-Que usamos con css (en caso usemos software para SASS)
-supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
+**React:**
+
+   + Componentes: Se fomenta la creación de componentes para mantener un código limpio y modularizado.
+   + Nomenclatura Descriptiva: Utilizamos nombres descriptivos para que se pueda entender cual es su función dentro de la página.
+   + Estado y Props: Hacemos uso de los estados y props para pasar datos entre componentes y tener una página reactiva.
+
+**Tailwind CSS:**
+   + Clases Utilitarias: Usamos las clases proporcionadas por Tailwind para darle estilos a los elementos de forma eficiente.
+
+**General:**
+   + Estructura de Carpetas Organizadas: Mantenemos una estructura de carpetas organizadas para los archivos de React, facilitando así la navegación y entendimiento del proyecto. 
+
+**Git:**
+   + Ramas Descriptivas: Utilizamos  nombres de ramas descriptivas para una gestión eficiente del código y las versiones.
+   + Flujo de Trabajo Colaborativo: Hacemos uso de ramas para el desarrollo colaborativo.
+
 
 ### 5.1.4. Software Deployment Configuration.
 
-Configuraciones de donde y como deployeamos el proyecto
+En esta entrega, hemos finalizado nuestra Landing Page y configurado su despliegue de la siguiente manera:
+
+Repositorio GitHub: El código de la Landing Page está alojado en un repositorio específico dentro de nuestra comunidad pública en GitHub.
+
+Vercel: Utilizamos la aplicación Vercel para desplegar la página. Esto nos permite una visualización clara y accesible para los usuarios.
+
+Esta configuración nos brinda un método eficiente y transparente para el despliegue de nuestro proyecto, asegurando una experiencia óptima para nuestros usuarios.
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
-### 5.2.X. Sprint n
+### 5.2.1. Sprint 1
 
-#### 5.2.X.1. Sprint Planning n.
+#### 5.2.1.1. Sprint Planning 1.
 
-Explicar como vamos a plannear el sprint?
+| Sprint 1                   | Implementación de funcionalidades y diseño de la aplicación.                                                                                                                                           |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background |                                                                                                                                                                                                        |
+| Date                       | 07/04/2024                                                                                                                                                                                             |
+| Time                       | 20:00                                                                                                                                                                                                  |
+| Location                   | Reunión realizada mediante Discord                                                                                                                                                                     |
+| Prepared By                | Esteban Garcia, Nicolas Sebastian                                                                                                                                                                      |
+| Attendees                  | Justo Yauricasa, Alexander Paolo / Burga Loarte, Anaely Zarely /<br/> Dioses Molina, Djalma Santos / Esteban Garcia, Nicolas Sebastian <br/> Príncipe Godoy, Johan / Torrejon Navarro, Braulio Rodrigo |
+| Sprint Goal & User Stories |                                                                                                                                                                                                        |
+| Sprint 1 Goal              | Realizar y desplegar el Landing Page                                                                                                                                                                   |
+| Sprint 1 Velocity          | 35                                                                                                                                                                                                     |
+| Sum of Story Points        | 30                                                                                                                                                                                                     |
 
-#### 5.2.X.2. Sprint Backlog n.
+#### 5.2.1.2. Sprint Backlog 1.
 
-![SprintBacklog n](image.jpg) Nica hago la tabla
+| Id   | Title            | Id   | Title                           | Description                                                                           | Estimations (Hours) | Assigned To                       | Status |
+|------|------------------|------|---------------------------------|---------------------------------------------------------------------------------------|---------------------|-----------------------------------|--------|
+| CC01 | Testimonials     | C01  | Sección Testimonials responsive | Desarrollo e implementación de los estilos que corresponden a la sección Testimonials | 3                   | Dioses Molina, Djalma Santos      | Done   |
+| CC02 | Features         | C02  | Sección Features responsive     | Desarrollo e implementación de los estilos que corresponden a la sección Features     | 3                   | Dioses Molina, Djalma Santos      | Done   |
+| CC03 | Button component | C03  | Button Design responsive        | Desarrollo e implementación de los estilos que corresponden al Button                 | 2                   | Esteban Garcia, Nicolas Sebastian | Done   |
+| CC04 | Navbar component | C04  | Sección Navbar responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Navbar       | 3                   | Esteban Garcia, Nicolas Sebastian | Done   |
+| CC05 | Contact          | C05  | Sección Contact responsive      | Desarrollo e implementación de los estilos que corresponden a la sección Contact      | 3                   | Justo Yauricasa, Alexander Paolo  | Done   |
+| CC06 | Footer           | C06  | Sección Footer responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Footer       | 2                   | Justo Yauricasa, Alexander Paolo  | Done   |
+| CC07 | Hero             | C07  | Sección Hero responsive         | Desarrollo e implementación de los estilos que corresponden a la sección Hero         | 4                   | Torrejon Navarro, Braulio Rodrigo | Done   |
+| CC08 | About            | C08  | Sección About responsive        | Desarrollo e implementación de los estilos que corresponden a la sección About        | 3                   | Torrejon Navarro, Braulio Rodrigo | Done   |
+| CC09 | Service          | C09  | Sección Service responsive      | Desarrollo e implementación de los estilos que corresponden a la sección Service      | 2                   | Príncipe Godoy, Johan             | Done   |
+| CC10 | Prices           | C010 | Sección Prices responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Prices       | 2                   | Burga Loarte, Anaely Zarely       | Done   |
 
-#### 5.2.X.3. Development Evidence for Sprint Review.
+<img src="./assets/Sprint1_Trello.png" alt="Captura Sprint 1 en Trello" width="80%">
+   
+Link del trello: https://trello.com/b/xObDcpU6/sprint-1
 
-![Sprint review development Evidence](image.jpg)
+#### 5.2.1.3. Development Evidence for Sprint Review.
 
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
+| Repository                 | Branch                   | Commit ID | Commit Message                                                                      | Commit Message Body | Commited On(Date) |
+|----------------------------|--------------------------|-----------|-------------------------------------------------------------------------------------|---------------------|-------------------|
+| LandingPage-ConnectionLink | feature/footer           | b28816c   | Update Footer.jsx                                                                   | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/contact          | d429bb8   | Update Contact.jsx                                                                  | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/prices           | 9ad3e6b   | feat: add Prices.jsx                                                                | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/features-section | a624c36   | feat: add FeatureCard Component and Features Component with Tailwind                | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/testimonials     | a16c0c0   | feat: add TestimonialCard Component and Testimonials Component with Tailwind Styles | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/about            | 7e85194   | Update About.jsx                                                                    | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/hero             | 56ab21c   | Update Hero.jsx                                                                     | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/service          | c663461   | feat: Service section added                                                         | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/navbar           | 1d527f8   | feat: Navbar added                                                                  | -                   | 12/04/2024        |
 
-![Sprint review Testing suite Evidence](image.jpg)
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
-#### 5.2.X.5. Execution Evidence for Sprint Review.
+Se llevaron a cabo pruebas preliminares para verificar la correcta visualización y funcionamiento de la landing page en diferentes dispositivos y navegadores.
 
-![Sprint review Execution Evidence](image.jpg)
+#### 5.2.1.5. Execution Evidence for Sprint Review.
 
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+<img src="./assets/landingPage-wireframe.png" alt="Captura Sprint 1 en Trello" width="100%"><br/>
 
-![Sprint review Services Documentation Evidence](image.jpg)
 
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+**Enlace a la página:** https://connection-link-landing-page-open-source.vercel.app/ 
 
-![Sprint review Software Deployment Evidence](image.jpg)
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
+En este primer Sprint nos enfocamos únicamente en crear el landing page, sin necesidad de utilizar servicios extra.
 
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
+
+* Git: Se utilizó para el control de versiones del código fuente.
+* GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
+* GitHub: Se utilizó para crear el repositorio de la landing page, donde se subió el código fuente.
+* Vercel: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular directamente con el repositorio de GitHub.
+
+<br/><img src="./assets/deployVercelCongrats.jpeg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+Luego de hacer la configuracion respectiva, se desplegó la landing page sin problemas.
+
+<img src="./assets/deployVercelLandin.jpeg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+Para llevar a cabo los registros de nuestros avances durante el primer Sprint de desarrollo, empleamos GitHub. Un miembro del equipo inició el proceso con un primer registro para establecer el repositorio y creó muchas ramas para poder trabajar sin interrumpir el avance de otro compañero. Posteriormente, hicimos una copia local del repositorio mediante Git, realizamos las modificaciones en GitHub. Finalmente, completamos el proceso con un registro de los cambios, el cual será examinado en el repositorio de GitHub.
+
+<br/><img src="./assets/IssuesGithub.jpg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+<img src="./assets/networkGraph.jpg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+<img src="./assets/commitsProject.jpg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
 
 ## 5.3. Validation Interviews.
 
@@ -1238,7 +1349,13 @@ Ocupación: _____
 
 # Conclusiones y recomendaciones.
 
-{texto}
+Experiencia en integración de funcionalidades interactivas: Durante el desarrollo de la aplicación web, obtuvimos experiencia en la integración de funcionalidades interactivas, como formularios de registro personalizados.
+
+Comprensión de los principios de optimización para motores de búsqueda (SEO): Durante la creación de la landing page, adquirimos conocimientos sobre la importancia de aplicar prácticas de SEO para mejorar la visibilidad y el posicionamiento en los resultados de búsqueda. Esto involucró la optimización de contenido, el uso adecuado de palabras clave y la estructuración de la página para facilitar la indexación por parte de los motores de búsqueda.
+
+Aprendizaje en diseño centrado en el usuario: Durante el desarrollo, destacamos la importancia de adoptar un enfoque centrado en el usuario para diseñar tanto la landing page como la aplicación web. Este enfoque nos permitió entender las necesidades y expectativas de los usuarios, lo que facilitó la creación de una experiencia más intuitiva y satisfactoria.
+
+Dominio de herramientas de desarrollo web: A lo largo del proyecto, utilizamos una variedad de herramientas y tecnologías de desarrollo web, que incluyen lenguajes de marcado como HTML, CSS y JavaScript. Este conocimiento nos permitió implementar diseños atractivos y responsivos que se adaptan a distintos dispositivos y tamaños de pantalla.
 
 # Video About-the-Team.
 
