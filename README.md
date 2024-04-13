@@ -390,10 +390,40 @@ Enlace de entrevista: https://drive.google.com/file/d/1b78YRx9V69vzEWJ2y58cUu7Bw
 
 ### 2.2.3. Análisis de entrevistas.
 
-**Segmento 1:**
-{texto}
-**Segmento 2:**
-{texto}
+**Segmento 01: Personas con problemas de salud mental buscan apoyo emocional** <br>
+
+**Importancia de la privacidad y el anonimato:** <br>
+   + Todos los entrevistados resaltan la importancia del anonimato en las plataformas donde se discuten temas muy sensibles como por ejemplo la salud mental.  El anonimato proporciona seguridad a las personas, se sienten mucho más cómodas para expresar sus preocupaciones sin temor a que sean juzgadas.
+   + Camila resalta la importancia de la privacidad, preocupándose por la posibilidad de compartir sus problemas en línea y espera que haya un sistema que garantice la privacidad de los usuarios.
+
+**Necesidad de un espacio en línea para el apoyo emocional y la ayuda mutua** <br>
+   + Todos los entrevistados están de acuerdo en que exista un espacio en línea que se dedique al apoyo emocional y a discusiones de problemas de salud mental.
+   + Todos los entrevistados resaltan la importancia de que haya un lugar donde puedan contar sus problemas emocionales, donde puedan recibir ayuda y apoyo de otros usuarios que puedan haber tenido problemas similares.
+
+**Validación y veracidad de la información:** <br>
+   + Harold habla sobre la importancia de contar con información verificada y usuarios especializados en el área de salud mental o emocional que puedan brindar información real y consejos de calidad.
+   + Esta idea es también respaldada por Sebastian, este nos menciona que la información en múltiples foros o comunidades en línea puede que no sea confiable debido a la falta de verificación de los usuarios.
+
+**Moderación y ambiente seguro:** <br>
+   + Todos los entrevistados están de acuerdo en contar una moderación efectiva dentro de la plataforma para mantener un ambiente seguro y confiable.
+   + Camila nos menciona la necesidad de que exista una moderación adecuada para evitar que los usuarios perjudiquen en lugar de ayudar a otros usuarios.
+
+En resumen, todos los entrevistados están de acuerdo en la necesidad de una comunidad en línea donde las personas puedan recibir apoyo emocional, priorizando el anonimato, la privacidad, la validación de la información y una buena moderación de la plataforma para mantener un ambiente seguro y de ayuda mutua.<br><br>
+
+
+**Segmento 02:Profesionales de la salud mental que desean ayudar a mejorar la salud emocional de las personas**<br>
+
+**Importancia de la ayuda en la salud mental en cualquier modalidad:** <br>
+   + Ambos entrevistados coinciden en la importancia de brindar ayuda emocional tanto de forma presencial como virtual. Estos nos comentan que la terapia virtual puede ser beneficiosa, en especial para aquellas personas que tienen dificultades para acceder a un especialista de forma presencial debido a falta de tiempo, entre otras situaciones.
+
+**Interés en una plataforma digital de salud mental:** <br>
+   + Ambos entrevistados muestran un gran interés en la idea de una aplicación web o plataforma dedicada a la salud emocional o mental. Estos consideran que este tipo de servicio podría llegar a muchas personas.
+
+**Preocupación por la privacidad y seguridad de los datos:** <br>
+   + Ambos entrevistados muestran preocupación por la seguridad de los datos en una aplicación o plataforma web de salud emocional o mental. Estos consideran que la información compartida durante las sesiones terapéuticas es muy sensible y que se debe garantizar la privacidad y confidencialidad de los usuarios y especialistas.
+
+En resumen, ambos entrevistados están de acuerdo en brindar ayuda emocional de forma virtual o presencial, muestran interés en una aplicación o plataforma web dedicada a este fin y expresan su preocupación por la seguridad de los datos. Ambos entrevistados reconocen el potencial y el exito que podría tener esta web.
+
 
 ## 2.3. Needfinding.
 
