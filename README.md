@@ -364,11 +364,22 @@ Edad: 24 años
 
 Ocupación: Psicologa  
 
-<img src="./assets/interviews/Especialista1.png" style="width:100%;">
+<img src="./assets/Especialista1.png" style="width:100%;">
 
 Duración: 6:35
 
 Enlace de entrevista:  https://drive.google.com/file/d/11QXtqWpK_JMpYyd_M54Ko4BwubY12gX8/view?usp=sharing 
+
+**Resumen de la entrevista:** En esta ocasión entrevistó a la especialista de la salud mental Diana Reyes, la cual actualmente cursa los últimos años de la carrera de psicología. En la entrevista ella resalta la importancia de la ayuda en cualquier modalidad (virtual o presencial), si bien relata que la terapia virtual puede generar unos inconvenientes por el lado de la presencia del mismo psicólogo, no descarta esta alternativa en especial para gente que recorre largas distancias para encontrar un especialista o personas que tienen tiempos cortos para poder ir a un local de un especialista. Así mismo, Diana menciona que una aplicación de terapias virtuales podría ayudar a llegar a gente de todo tipo, tanto practicantes o especialistas de la salud mental como personas que necesitan ayuda y no saben donde encontrarla. Por último, ella dice que se encuentra interesada en una plataforma digital que abarque muchos temas del campo de la salud mental, que ayude tanto a pacientes como  a especialistas.
+
+***Entrevistado 5***
+
+Nombre: Diana Reyes Poma
+
+Edad: 24 años
+
+Ocupación: Psicologa  
+
 
 ### 2.2.3. Análisis de entrevistas.
 
