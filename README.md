@@ -11,8 +11,8 @@
 
 <center>
 
-#### Startup: **XXXXXX**
-#### Product: **XXXXXX**
+#### Startup: **HealthForAll**
+#### Product: **ConnectionLink**
 
 </center>
 
@@ -27,19 +27,31 @@
 | Nicolas Sebastian Esteban Garcia | u202217485 |
 | Johan Príncipe Godoy             | u202014511 |
 | Torrejon Navarro Braulio Rodrigo         | u201711828 |
-</center>
+</center>  
 
 # Registro de Versiones del Informe
 
-| Version | Fecha      | Autor   | Descripcion de Modificacion |
-| ------- | ---------- | ------- | --------------------------- |
-| 0.0     | 19/03/2024 | Grupo 1 | Se crea el documento        |
+| Version | Fecha | Autor | Descripcion de Modificacion |
+| ----------- | ----------- | ----------- | ----------- |
+| 0.0 | 21/03/2024 | Grupo 3 | Se crea el documento |
+| 1.0 | 22/03/2024 | Grupo 3 | Se crean las ramas correspondientes |
+| 1.1 | 24/03/2024 | Grupo 3 | Capitulo I |
+| 1.1 | 29/03/2024 | Grupo 3 | Capitulo II |
+| 1.1 | 01/04/2024 | Grupo 3 | Capitulo III |
+| 1.1 | 07/04/2024 | Grupo 3 | Capitulo IV |
 
 # Project Report Collaboration Insights
 
 [URL del repositorio](https://www.example.com)
 
 (Imagenes de los commits cada entrega)
+
+# Student Outcome 3
+
+|Criterio Especifico| Acciones Realizadas                                                                                                                                                                                |Conclusiones|
+|-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| Nicolas Esteban:<br> **TB1:** Durante el proyecto, adquirí habilidades para transmitir conceptos complejos de manera comprensible a diversos grupos, lo que aumentó notablemente la colaboración y el compromiso con nuestra labor. Este proceso subrayó la relevancia de ajustar mi comunicación según el entorno, una lección de gran valor para mi desarrollo profesional futuro. <br><br>Anaely Zarely:<br>**TB1**: Durante la ejecución del proyecto, conseguí transmitir de manera eficiente tanto los resultados como el proceso seguido, empleando Lean UX como enfoque principal. Además, compartí los descubrimientos fundamentales derivados de nuestra investigación en experiencia de usuario (UX).<br><br>Djalma Santos:<br>**TB1**: Cumplí eficazmente con las responsabilidades asignadas, respetando los horarios, normativas y plazos acordados por el equipo. <br><br>Alexander Paolo:<br>**TB1**: Durante la realización del proyecto, logré expresar de manera clara todas mis ideas durante las reuniones de equipo. Además, llevé a cabo una entrevista con un usuario potencial, donde expliqué el propósito de la misma y la información que necesitaba recopilar.<br><br>Johan Principe:<br>**TB1**: A lo largo del proyecto, progresé satisfactoriamente en las responsabilidades asignadas y fortalecí habilidades interpersonales como la comunicación dentro del equipo. Además, obtuve una comprensión más sólida del proceso a seguir, lo que permitió su enfoque desde diversas perspectivas para una mejor posicionamiento.<br><br>Braulio Torrejon:<br>**TB1:** Organizamos múltiples reuniones en grupo con el fin de intercambiar propuestas para el desarrollo óptimo de nuestro proyecto. Además, llevamos a cabo entrevistas que nos proporcionaron información valiosa para la creación de nuestra aplicación web. |Gracias a la eficiencia y la organización que mantuvimos, respaldadas por un sólido marco de trabajo establecido dentro del grupo, alcanzamos nuestro objetivo de desarrollar el primer entregable de manera precisa y oportuna. La colaboración efectiva, la comunicación clara y el compromiso compartido con los plazos establecidos fueron pilares clave en nuestro éxito|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería..| Nicolas Esteban:<br> **TB1:** En mi participación en el proyecto, me dediqué a comunicar mis ideas y los resultados obtenidos de manera clara y objetiva. Desde la elaboración de informes hasta la realización de presentaciones, mi objetivo fue hacer que la información fuera accesible y comprensible para todos los involucrados.  <br><br> Anaely Zarely:<br>**TB1:** A lo largo de este proyecto, me encargué de documentar de manera adecuada el emprendimiento, utilizando las herramientas pertinentes y siguiendo las convenciones de idioma, estructura de nombres y prácticas de programación establecidas en los aspectos de la solución. Además, realicé y documenté minuciosamente los procesos de Lean UX, diseño, prototipado, entre otros, con el objetivo de lograr una comunicación efectiva con una amplia gama de audiencias.<br><br>Djalma Santos:<br>**TB1**: Utilizando herramientas colaborativas en línea, pude mejorar mi capacidad de comunicación y colaboración en equipo de manera significativa. Estas plataformas facilitaron la interacción y el intercambio de ideas entre los miembros del equipo, lo que contribuyó a un ambiente de trabajo más eficiente y productivo.<br><br>Alexander Paolo:<br>**TB1**: En esta fase del proyecto, me dediqué a elaborar el análisis de requisitos de manera detallada, lo que sentó las bases para el desarrollo posterior. Luego, me enfoqué en la creación de la base de datos del sistema y en la construcción del diagrama de clases, asegurándome de que ambos elementos estuvieran alineados con los requerimientos identificados y contribuyeran a la solidez y funcionalidad del proyecto en su conjunto. <br><br>Johan Principe:<br>**TB1**: Desarrollé mis propuestas para el proyecto siguiendo meticulosamente el marco de la ingeniería de software. Esta metodología me permitió aplicar principios y prácticas establecidas, garantizando así la calidad y la coherencia en el desarrollo del proyecto. <br><br>Braulio Torrejon:<br>**TB1:** La investigación realizada para este proyecto fue exhaustivamente documentada y resultó fundamental para el modelado de nuestra solución. En esta fase, mi responsabilidad fue investigar sobre posibles competidores, lo que nos proporcionó información valiosa para aprender de sus errores y aciertos, ayudándonos así a mejorar nuestra estrategia y diseño.                                                                                                                                                                                                       |Gracias a las herramientas colaborativas brindadas y las aplicaciones de comunicación logramos establecer fechas y límites para nuestros trabajos y de esta manera mantenernos informados sobre el progreso de los demas miembros del equipo.|
 
 # Contenido
 
