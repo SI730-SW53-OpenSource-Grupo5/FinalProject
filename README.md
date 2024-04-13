@@ -690,7 +690,17 @@ Link del trello: https://trello.com/b/xObDcpU6/sprint-1
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
-![Sprint review development Evidence](image.jpg)
+| Repository                 | Branch                   | Commit ID | Commit Message                                                                      | Commit Message Body | Commited On(Date) |
+|----------------------------|--------------------------|-----------|-------------------------------------------------------------------------------------|---------------------|-------------------|
+| LandingPage-ConnectionLink | feature/footer           | b28816c   | Update Footer.jsx                                                                   | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/contact          | d429bb8   | Update Contact.jsx                                                                  | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/prices           | 9ad3e6b   | feat: add Prices.jsx                                                                | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/features-section | a624c36   | feat: add FeatureCard Component and Features Component with Tailwind                | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/testimonials     | a16c0c0   | feat: add TestimonialCard Component and Testimonials Component with Tailwind Styles | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/about            | 7e85194   | Update About.jsx                                                                    | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/hero             | 56ab21c   | Update Hero.jsx                                                                     | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/service          | c663461   | feat: Service section added                                                         | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/navbar           | 1d527f8   | feat: Navbar added                                                                  | -                   | 12/04/2024        |
 
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review.
 
