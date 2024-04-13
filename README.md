@@ -652,7 +652,7 @@ En esta entrega, hemos finalizado nuestra Landing Page y configurado su desplieg
 
 Repositorio GitHub: El código de la Landing Page está alojado en un repositorio específico dentro de nuestra comunidad pública en GitHub.
 
-GitHub Pages: Utilizamos GitHub Pages para desplegar la página. Esto nos permite una visualización clara y accesible para los usuarios.
+Vercel: Utilizamos la aplicación Vercel para desplegar la página. Esto nos permite una visualización clara y accesible para los usuarios.
 
 Esta configuración nos brinda un método eficiente y transparente para el despliegue de nuestro proyecto, asegurando una experiencia óptima para nuestros usuarios.
 
@@ -708,13 +708,16 @@ Link del trello: https://trello.com/b/xObDcpU6/sprint-1
 | LandingPage-ConnectionLink | feature/service          | c663461   | feat: Service section added                                                         | -                   | 12/04/2024        |
 | LandingPage-ConnectionLink | feature/navbar           | 1d527f8   | feat: Navbar added                                                                  | -                   | 12/04/2024        |
 
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
 Se llevaron a cabo pruebas preliminares para verificar la correcta visualización y funcionamiento de la landing page en diferentes dispositivos y navegadores.
 
-#### 5.2.X.5. Execution Evidence for Sprint Review.
+#### 5.2.1.5. Execution Evidence for Sprint Review.
 
-![Sprint review Execution Evidence](image.jpg)
+<img src="./assets/landingPage-wireframe.png" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+
+**Enlace a la página:** https://connection-link-landing-page-open-source.vercel.app/ 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -722,11 +725,29 @@ En este primer Sprint nos enfocamos únicamente en crear el landing page, sin ne
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-Para llevar a cabo la automatización del lanzamiento de nuestra Landing Page, empleamos la plataforma GitHub Pages. Esta herramienta posibilita la creación de sitios web a partir de un repositorio público que contiene el código necesario para construir la página. A continuación, te proporcionamos el enlace de nuestra Página de Aterrizaje:
+Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
+
+* Git: Se utilizó para el control de versiones del código fuente.
+* GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
+* GitHub: Se utilizó para crear el repositorio de la landing page, donde se subió el código fuente.
+* Vercel: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular directamente con el repositorio de GitHub.
+
+<br/><img src="./assets/deployVercelCongrats.jpeg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+Luego de hacer la configuracion respectiva, se desplegó la landing page sin problemas.
+
+<img src="./assets/deployVercelLandin.jpeg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 Para llevar a cabo los registros de nuestros avances durante el primer Sprint de desarrollo, empleamos GitHub. Un miembro del equipo inició el proceso con un primer registro para establecer el repositorio y creó muchas ramas para poder trabajar sin interrumpir el avance de otro compañero. Posteriormente, hicimos una copia local del repositorio mediante Git, realizamos las modificaciones en GitHub. Finalmente, completamos el proceso con un registro de los cambios, el cual será examinado en el repositorio de GitHub.
+
+<br/><img src="./assets/IssuesGithub.jpg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+<img src="./assets/networkGraph.jpg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+<img src="./assets/commitsProject.jpg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
 
 ## 5.3. Validation Interviews.
 
