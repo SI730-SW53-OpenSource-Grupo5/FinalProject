@@ -700,7 +700,7 @@ Link del trello: https://trello.com/b/xObDcpU6/sprint-1
 
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review.
 
-![Sprint review Testing suite Evidence](image.jpg)
+Se llevaron a cabo pruebas preliminares para verificar la correcta visualización y funcionamiento de la landing page en diferentes dispositivos y navegadores.
 
 #### 5.2.X.5. Execution Evidence for Sprint Review.
 
