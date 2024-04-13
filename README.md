@@ -1270,7 +1270,16 @@ Link del trello: https://trello.com/b/xObDcpU6/sprint-1
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
-Se llevaron a cabo pruebas preliminares para verificar la correcta visualización y funcionamiento de la landing page en diferentes dispositivos y navegadores.
+En este sprint realizamos las pruebas de aceptación en la herramienta de Gherkin. El link adjunto es del repositorio de las prubas de aceptación https://github.com/SI730-SW53-OpenSource-Grupo5/Acceptance-Tests/tree/main
+
+| Repository          | Branch | Commit ID                                | Commit Message                     | Commit Message (Body) | Committed on (Date) |
+|---------------------|--------|------------------------------------------|------------------------------------|-----------------------|---------------------|
+| Acceptance-Test     | main   | 91507dffacabf6415efaa4e663c85756521a9f04 | Initial commit                     | -                     | 13/04/2024          |
+| Acceptance-Test     | main   | 822c79119c080f39585630ce640ab7ee1c3c692f | feat: Added us-01 acceptance test  | -                     | 13/04/2024          |
+| Acceptance-Test     | main   | a24f512b364b04682994f111d1d4a9a05fa79f74 | feat: Added us-04 acceptance test  | -                     | 13/04/2024          |
+| Acceptance-Test     | main   | 00f760dedabd22b97928d7bf36dccf7ebe51cf67 | feat: Added us-05 acceptance test  | -                     | 13/04/2024          |
+| Acceptance-Test     | main   | 134caed2aea32dee6a049d956466d8580e0b1ab8 | feat: Added us-06 acceptance test  | -                     | 13/04/2024          |
+| Acceptance-Test     | main   | cd8cc231ff1973cbffd9adec1839191a5d98ea62 | feat: Added us-09 acceptance test  | -                     | 13/04/2024          |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
