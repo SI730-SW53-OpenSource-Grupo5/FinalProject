@@ -33,12 +33,12 @@
 
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 21/03/2024 | Grupo 3 | Se crea el documento |
-| 1.0 | 22/03/2024 | Grupo 3 | Se crean las ramas correspondientes |
-| 1.1 | 24/03/2024 | Grupo 3 | Capitulo I |
-| 1.1 | 29/03/2024 | Grupo 3 | Capitulo II |
-| 1.1 | 01/04/2024 | Grupo 3 | Capitulo III |
-| 1.1 | 07/04/2024 | Grupo 3 | Capitulo IV |
+| 0.0 | 21/03/2024 | Grupo 4 | Se crea el documento |
+| 1.0 | 22/03/2024 | Grupo 4 | Se crean las ramas correspondientes |
+| 1.1 | 24/03/2024 | Grupo 4 | Capitulo I |
+| 1.1 | 29/03/2024 | Grupo 4 | Capitulo II |
+| 1.1 | 01/04/2024 | Grupo 4 | Capitulo III |
+| 1.1 | 07/04/2024 | Grupo 4 | Capitulo IV |
 
 # Project Report Collaboration Insights
 
