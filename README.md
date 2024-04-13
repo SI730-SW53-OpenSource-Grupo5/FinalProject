@@ -181,10 +181,10 @@
 
 # Student Outcome
 
-| Criterio Especifico                                                                                                                                  | Acciones Realizadas                                     | Conclusiones           |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ---------------------- |
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Compañero1:<br> *TB1:*  Su texto *TB2:* texto etc..     | Su texto de conclusion |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                             | Compañero1:<br> *TB1:*  Su texto<br> *TB2:* texto etc.. | Su texto de conclusion |
+| Criterio Especifico                                                                                                                                                                  | Acciones Realizadas                                                                                                                                                                  | Conclusiones           |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería    | Johan Príncipe Godoy:<br> *TB1:* Implementación del User Persona, Task Matrix, Empathy Map, Journey Map, As-Is y To-Be Map. Además, documentación de los commits en el github.       | Su texto de conclusion |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto eningeniería. | Johan Príncipe Godoy:<br> *TB1:* Encargado de realizar la sección de sprint donde se incluye el sprint backlog y sprint planning. Creación y organización del Sprint 1 en el Trello. | Su texto de conclusion |
 
 # Capítulo I: Introducción
 
@@ -196,15 +196,15 @@ Nuestra startup [nombre] tiene como objetivo conectar a personas que presentan a
 
 #### 1.1.2. Perfiles de integrantes del equipo
 <!-- poner las rutas de las imagenes de assets en src -->
-| Miembros del equipo                                                                                                                     | Codigo Estudiante | Carrera | Conocimientos / Habilidades                                                   |
-|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------|-|-------------------------------------------------------------------------------| 
-| Nicolas Sebastian Esteban Garcia  <img src="./assets/members-profile/nicolas-profile.jpg" alt="Imagen del compañero" style="width:80%"> | U202217485        |Ingenieria de software| C++, JS, HTML, CSS, Phyton. Comunicación asertiva y facil adaptación          |
-| Djalma Santos Dioses Molina <img src="" alt="Imagen del compañero" style="width:80%">                                                   | U201921405        |Ingenieria de software| HTML, CSS, JS, C++, C#, SQL, Phyton. Responsable.                             |
-| Esteban Garcia, Nicolas Sebastian <img src="" alt="Imagen del compañero" style="width:80%">                                             | U202217485        |Ingenieria de software| C++, JS, HTML, CSS, Phyton                                                    |
-| Príncipe Godoy, Johan 	<img src="./assets/members-profile/johan-profile.jpg" alt="Imagen del compañero" style="width:80%">             | U202014511        |Ingenieria de software| C++, JS, HTML, CSS, Phyton, SQL, MongoDB. Trabajo en equipo y responsabilidad |
-| Burga Loarte Anaely <br />	<img src="./assets/members-profile/1.jpg" alt="Imagen del compañero" style="width:50%; height:60%">                                                          | U202118264        |Ingenieria de software| C++, C#, JS, HTML, CSS, Phyton | 
-| Torrejon Navarro Braulio Rodrigo	<img src="./assets/members-profile/22.jpg" alt="Imagen del compañero" style="width:80%">                                                          | U201711828        |Ingenieria de software| C++, C#, JS, HTML, CSS, Phyton | 
-| Alexander Paolo Justo Yauricasa <img src="" alt="Imagen del compañero" style="width:80%">                                                | U201921405        |Ingenieria de software| Phyton, HTML, JS, C++, C#, SQL. Facil adaptación y responsable                   |
+| Miembros del equipo                                                                                                                     | Codigo Estudiante | Carrera                | Conocimientos / Habilidades                                                   |
+|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------|------------------------|-------------------------------------------------------------------------------| 
+| Nicolas Sebastian Esteban Garcia  <img src="./assets/members-profile/nicolas-profile.jpg" alt="Imagen del compañero" style="width:80%"> | U202217485        | Ingenieria de software | C++, JS, HTML, CSS, Phyton. Comunicación asertiva y facil adaptación          |
+| Djalma Santos Dioses Molina <img src="" alt="Imagen del compañero" style="width:80%">                                                   | U201921405        | Ingenieria de software | HTML, CSS, JS, C++, C#, SQL, Phyton. Responsable.                             |
+| Esteban Garcia, Nicolas Sebastian <img src="" alt="Imagen del compañero" style="width:80%">                                             | U202217485        | Ingenieria de software | C++, JS, HTML, CSS, Phyton                                                    |
+| Príncipe Godoy, Johan 	<img src="./assets/members-profile/johan-profile.jpg" alt="Imagen del compañero" style="width:80%">              | U202014511        | Ingenieria de software | C++, JS, HTML, CSS, Phyton, SQL, MongoDB. Trabajo en equipo y responsabilidad |
+| Burga Loarte Anaely <br />	<img src="./assets/members-profile/1.jpg" alt="Imagen del compañero" style="width:50%; height:60%">          | U202118264        | Ingenieria de software | C++, C#, JS, HTML, CSS, Phyton                                                | 
+| Torrejon Navarro Braulio Rodrigo	<img src="./assets/members-profile/22.jpg" alt="Imagen del compañero" style="width:80%">               | U201711828        | Ingenieria de software | C++, C#, JS, HTML, CSS, Phyton                                                | 
+| Alexander Paolo Justo Yauricasa <img src="" alt="Imagen del compañero" style="width:80%">                                               | U201921405        | Ingenieria de software | Phyton, HTML, JS, C++, C#, SQL. Facil adaptación y responsable                |
 
 ## 1.2. Solution Profile
 
