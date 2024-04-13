@@ -355,10 +355,20 @@ Enlace de entrevista:  https://youtu.be/bM89i00o3_8
 **Resumen de la entrevista:** Nuestra entrevistada fue Camila Dias, estudiante de diseño grafico, el cual ha tenido psicologos anteriormente, en la entrevista nos comentó que la idea de buscar ayuda empocional a travez de una aplicación web es una buena idea ya que siempre hay personas afuera en busca de ayuda y apoyo. Pero se sentiria un poco avergonzada de publicar sus problemas y preocupaciones en linea, asi que espera que haya un sistema de privacidad en ese aspecto. Un aspecto importante que es respetar la privacidad del otro, no intentar buscarlo y hacer algo con esa información. Sobre la posibilidad de recibir ayuda en linea, le parece una buena idea ya que hay gente que en linea conoce mucha gente y no sale mucho de casa, donde es mas facil compartir tus problemas con esas personas. Sus expectativas seria un lugar donde puedas descargarte emocionalmente allí. Le gustaria una buena moderación, ya que puede haber usuarios que fomenten o enves de querer ayudarte, quieren perjudicarte. Y en un tipo de interacción, le gustaria un lugar armonioso donde todos se ayuden entre ellos.
 
 **Segmento 02: Profesionales de la salud mental que desean ayudar a mejorar la salud emocional de las personas**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
+
+***Entrevistado 4***
+
+Nombre: Diana Reyes Poma
+
+Edad: 24 años
+
+Ocupación: Psicologa  
+
+<img src="./assets/interviews/Especialista1.png" style="width:100%;">
+
+Duración: 6:35
+
+Enlace de entrevista:  https://drive.google.com/file/d/11QXtqWpK_JMpYyd_M54Ko4BwubY12gX8/view?usp=sharing 
 
 ### 2.2.3. Análisis de entrevistas.
 
