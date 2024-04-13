@@ -21,11 +21,12 @@
 
 | Member                           | Code       |
 |----------------------------------|------------|
-| Nombre del Compañero XXX         | u202217485 |
-| Torrejon Navarro Braulio Rodrigo | u201711828 |
+| Alexander Paolo Justo Yauricasa  | u20191c054 |
+| Burga loarte Anaely Zarely       | u202118264 |
+| Djalma Santos Dioses Molina      | u201921405 |
 | Nicolas Sebastian Esteban Garcia | u202217485 |
 | Johan Príncipe Godoy             | u202014511 |
-| Anaely Burga Loarte              | u202118264 |
+| Torrejon Navarro Braulio Rodrigo         | u201711828 |
 </center>
 
 # Registro de Versiones del Informe
@@ -186,7 +187,7 @@ Nuestra startup [nombre] tiene como objetivo conectar a personas que presentan a
 | Miembros del equipo                                                                                                                     | Codigo Estudiante | Carrera | Conocimientos / Habilidades                                                   |
 |-----------------------------------------------------------------------------------------------------------------------------------------|-------------------|-|-------------------------------------------------------------------------------| 
 | Nicolas Sebastian Esteban Garcia  <img src="./assets/members-profile/nicolas-profile.jpg" alt="Imagen del compañero" style="width:80%"> | U202217485        |Ingenieria de software| C++, JS, HTML, CSS, Phyton. Comunicación asertiva y facil adaptación          |
-| Nombre del compañero <img src="" alt="Imagen del compañero" style="width:80%">                                                          | U202217485        |Ingenieria de software| C++, JS, HTML, CSS, Phyton                                                    |
+| Djalma Santos Dioses Molina <img src="" alt="Imagen del compañero" style="width:80%">                                                   | U201921405        |Ingenieria de software| HTML, CSS, JS, C++, C#, SQL, Phyton. Responsable.                             |
 | Esteban Garcia, Nicolas Sebastian <img src="" alt="Imagen del compañero" style="width:80%">                                             | U202217485        |Ingenieria de software| C++, JS, HTML, CSS, Phyton                                                    |
 | Príncipe Godoy, Johan 	<img src="./assets/members-profile/johan-profile.jpg" alt="Imagen del compañero" style="width:80%">             | U202014511        |Ingenieria de software| C++, JS, HTML, CSS, Phyton, SQL, MongoDB. Trabajo en equipo y responsabilidad |
 | Burga Loarte Anaely <br />	<img src="./assets/members-profile/1.jpg" alt="Imagen del compañero" style="width:50%; height:60%">                                                          | U202118264        |Ingenieria de software| C++, C#, JS, HTML, CSS, Phyton | 
