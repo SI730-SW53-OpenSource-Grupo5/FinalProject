@@ -678,9 +678,33 @@ Creacion de nuevo evento exitosa:
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-Wireflow es como se va a navegar por la pagina 
+**User goal 1:** Inicio de sesion / registro de usuario
 
-<img src="./assets/landing-page/webApp-wireflow-digrams.jpg" alt="Imagen del compañero" style="width:100%"><br/>
+<img src="./assets/landing-page/wire-1.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 2:** Crear post
+
+<img src="./assets/landing-page/wire-2.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 3:** Reserva de cita con especialista
+
+<img src="./assets/landing-page/wire-3.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 4:** Usuario quiere unirse a un hilo
+
+<img src="./assets/landing-page/wire-4.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 5:** Usuario se registra a un evento
+
+<img src="./assets/landing-page/wire-5.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 6:** Especialista crea un evento
+
+<img src="./assets/landing-page/wire-6.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 7:** Usuario paga para registrarse en evento
+
+<img src="./assets/landing-page/wire-7.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
 
 Enlace miro al diagrama: https://miro.com/app/board/uXjVKUq4xVs=/?share_link_id=40081653876 
 
@@ -794,8 +818,33 @@ Creacion de nuevo evento exitosa:
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
-un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
-![Web Aplication User Flow Diagram](image.jpg)
+**User goal 1:** Inicio de sesion / registro de usuario
+
+<img src="./assets/landing-page/mock-1.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 2:** Crear post
+
+<img src="./assets/landing-page/mock-2.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 3:** Reserva de cita con especialista
+
+<img src="./assets/landing-page/mock-3.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 4:** Usuario quiere unirse a un hilo
+
+<img src="./assets/landing-page/mock-4.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 5:** Usuario se registra a un evento
+
+<img src="./assets/landing-page/mock-5.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 6:** Especialista crea un evento
+
+<img src="./assets/landing-page/mock-6.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**User goal 7:** Usuario paga para registrarse en evento
+
+<img src="./assets/landing-page/wire-7.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
 
 ## 4.5. Web Applications Prototyping.
 
