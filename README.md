@@ -555,32 +555,242 @@ Con estos sistemas de navegación, proporcionamos a los usuarios de "CalmConnect
 
 ### 4.3.1. Landing Page Wireframe.
 
-la pagina donde te registras y ves info del web app (te manda al web app)
-
-Wireframe es todo lo funcional de la pagina
-![Landing page Wireframe](image.jpg)
+<img src="./assets/landing-page/landingOpenSource-Wireframe.png" alt="Imagen del compañero" style="width:100%">
 
 ### 4.3.2. Landing Page Mock-up.
 
-Mockup es todo lo relacionado al diseño de la pagina
-![Landing page mockup](image.jpg)
+<img src="./assets/landing-page/landingOpenSource-mockup.png" alt="Imagen del compañero" style="width:100%">
 
 ## 4.4. Web Applications UX/UI Design.
 
 ### 4.4.1. Web Applications Wireframes.
 
-lo funcional de cada aspecto del wireframe
-![Web Aplication Wireframe](image.jpg)
+Inicio de sesión
+
+<img src="./assets/landing-page/wire-iniciosesion.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Crear cuenta usuario:
+
+<img src="./assets/landing-page/wire-iniciosesion3.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Crear cuenta especialista:
+
+<img src="./assets/landing-page/wire-iniciosesion4.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Vista usuario que no cuenta con suscripcion:**
+
+Home:
+
+<img src="./assets/landing-page/home-nosuscribed.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Foros:
+
+<img src="./assets/landing-page/forums-nosuscribe.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Calendario:
+
+<img src="./assets/landing-page/calendar-nosuscribed.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Eventos:
+<img src="./assets/landing-page/events-nosuscribed.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Analisis:
+<img src="./assets/landing-page/analytics-nosuscribed.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Hilos: 
+<img src="./assets/landing-page/hilo-wireframe.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+*Buttons call to action (CTA):*
+
+Crear post:
+
+<img src="./assets/landing-page/createPost-wireframe.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Specialist profile:
+
+<img src="./assets/landing-page/specialistprofile-wireframe.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Realizar una cita a especialista:
+
+<img src="./assets/landing-page/appoinmentdetails-wireframe.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Pago especialista para reserva:
+
+<img src="./assets/landing-page/payment-wireframe.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Reserva de cita exitosa:
+
+<img src="./assets/landing-page/appointmentsucess-wire.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Registro de eventos:
+
+<img src="./assets/landing-page/registerevent-wireframe.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Registro de evento exitoso:
+
+<img src="./assets/landing-page/registereventsucess-wireframe.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Vista usuarios que cuentan con suscripcion:**  
+
+Progreso y metrica de analisis emocional:
+
+<img src="./assets/landing-page/analytics-suscribed.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Eventos exclusivos gratuitos:
+
+<img src="./assets/landing-page/eventosExclusivos-wireframe.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Reserva de citas gratuita:
+
+<img src="./assets/landing-page/reserveAppointmentFree.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Vista especialistas de salud:**
+
+Home:
+
+<img src="./assets/landing-page/home-nosuscribed.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Foros:
+
+<img src="./assets/landing-page/forums-nosuscribe.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Calendario:
+
+<img src="./assets/landing-page/calendar-nosuscribed.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Eventos:
+<img src="./assets/landing-page/eventsSpecialits.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Bandeja de entrada:
+<img src="./assets/landing-page/Specialistinboxframe.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+
+*Buttons call to action (CTA):*
+
+Crear nuevo evento:
+
+<img src="./assets/landing-page/nuevoEventoSpecialist.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Creacion de nuevo evento exitosa:
+
+<img src="./assets/landing-page/createEventSuccess.png" alt="Imagen del compañero" style="width:100%"><br/>
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
-![Web Aplication Wireflow](image.jpg)
+Wireflow es como se va a navegar por la pagina 
+
+<img src="./assets/landing-page/webApp-wireflow-digrams.jpg" alt="Imagen del compañero" style="width:100%"><br/>
+
+Enlace miro al diagrama: https://miro.com/app/board/uXjVKUq4xVs=/?share_link_id=40081653876 
 
 ### 4.4.2. Web Applications Mock-ups.
 
-Diseño en todo aspecto
-![Web Aplication Mockup](image.jpg)
+Inicio de sesión
+
+<img src="./assets/landing-page/inicio-mockup.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Crear cuenta usuario:
+
+<img src="./assets/landing-page/login-commonuser.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Crear cuenta especialista:
+
+<img src="./assets/landing-page/loginSpecialist.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Vista usuario que no cuenta con suscripcion:**
+
+Home:
+
+<img src="./assets/landing-page/home-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Foros:
+
+<img src="./assets/landing-page/forums-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Calendario:
+
+<img src="./assets/landing-page/calendar-mocks.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Eventos:
+<img src="./assets/landing-page/events-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Analisis:
+<img src="./assets/landing-page/analytics-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Hilos: 
+<img src="./assets/landing-page/hilo-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+*Buttons call to action (CTA):*
+
+Crear post:
+
+<img src="./assets/landing-page/newPost-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Specialist profile:
+
+<img src="./assets/landing-page/peacialistProfile-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Realizar una cita a especialista:
+
+<img src="./assets/landing-page/appointmentDetailsmock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Reserva de cita exitosa:
+
+<img src="./assets/landing-page/appointmentSucesfully-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Registro de eventos:
+
+<img src="./assets/landing-page/eventRegisterrrr-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Registro de evento exitoso:
+
+<img src="./assets/landing-page/eventRegister-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Vista usuarios que cuentan con suscripcion:**  
+
+Progreso y metrica de analisis emocional:
+
+<img src="./assets/landing-page/analytics-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Eventos exclusivos gratuitos:
+
+<img src="./assets/landing-page/events-mock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Reserva de citas gratuita:
+
+<img src="./assets/landing-page/appointmentDetailsmock.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Vista especialistas de salud:**
+
+Home:
+
+<img src="./assets/landing-page/home-specialist.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Foros:
+
+<img src="./assets/landing-page/forums-specialist.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Calendario:
+
+<img src="./assets/landing-page/calendar-specialist.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Eventos:
+<img src="./assets/landing-page/events-specialist.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Bandeja de entrada:
+<img src="./assets/landing-page/inbox-specialist.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+
+*Buttons call to action (CTA):*
+
+Crear nuevo evento:
+
+<img src="./assets/landing-page/createEvent-specialist.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+Creacion de nuevo evento exitosa:
+
+<img src="./assets/landing-page/createEventSuccess-specialist.png" alt="Imagen del compañero" style="width:100%"><br/>
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
