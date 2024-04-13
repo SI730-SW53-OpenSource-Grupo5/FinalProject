@@ -199,7 +199,7 @@ Nuestra startup [nombre] tiene como objetivo conectar a personas que presentan a
 | Príncipe Godoy, Johan 	<img src="./assets/members-profile/johan-profile.jpg" alt="Imagen del compañero" style="width:80%">             | U202014511        |Ingenieria de software| C++, JS, HTML, CSS, Phyton, SQL, MongoDB. Trabajo en equipo y responsabilidad |
 | Burga Loarte Anaely ![image](https://github.com/SI730-SW53-OpenSource-Grupo5/FinalProject/assets/114323722/dac7eba0-74fe-4691-b136-5dbc632c3294)| U202118264        |Ingenieria de software| C++, C#, JS, HTML, CSS, Phyton | 
 | Torrejon Navarro Braulio Rodrigo	<img src="./assets/members-profile/223.png" alt="Imagen del compañero" style="width:80%">                                                          | U201711828        |Ingenieria de software| C++, C#, JS, HTML, CSS, Phyton | 
-| Alexander Paolo Justo Yauricasa <img src="" alt="Imagen del compañero" style="width:80%">                                                | U201921405        |Ingenieria de software| Phyton, HTML, JS, C++, C#, SQL. Facil adaptación y responsable                   |
+| Alexander Paolo Justo Yauricasa <img src="./assets/AlexanderJusto.jpg" alt="Imagen del compañero" style="width:70%">                                                | U201921405        |Ingenieria de software| Phyton, HTML, JS, C++, C#, SQL. Facil adaptación y responsable                   |
 
 ## 1.2. Solution Profile
 
