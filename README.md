@@ -646,6 +646,8 @@ Reserva de citas gratuita:
 
 **Vista especialistas de salud:**
 
+LinkFigma: https://www.figma.com/file/at7BldTcKVIputFtHq485B/Wireframes-AppWeb?type=design&node-id=48%3A553&mode=design&t=Qz6xmr9ECJ9kfuKH-1 
+
 Home:
 
 <img src="./assets/landing-page/home-nosuscribed.png" alt="Imagen del compañero" style="width:100%"><br/>
@@ -816,6 +818,9 @@ Creacion de nuevo evento exitosa:
 
 <img src="./assets/landing-page/createEventSuccess-specialist.png" alt="Imagen del compañero" style="width:100%"><br/>
 
+LinkFigma: https://www.figma.com/file/at7BldTcKVIputFtHq485B/Wireframes-AppWeb?type=design&node-id=48%3A553&mode=design&t=Qz6xmr9ECJ9kfuKH-1 
+
+
 ### 4.4.3. Web Applications User Flow Diagrams.
 
 **User goal 1:** Inicio de sesion / registro de usuario
@@ -846,9 +851,13 @@ Creacion de nuevo evento exitosa:
 
 <img src="./assets/landing-page/wire-7.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
 
+Link Miro: https://miro.com/app/board/uXjVKUpWmTM=/?share_link_id=579453948455 
+
 ## 4.5. Web Applications Prototyping.
 
-[URL del Prototipo (Hecho en figma)](https://www.example.com)
+<img src="./assets/landing-page/prototype-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+URL del prototipo en Figma: https://www.figma.com/proto/DIMymIVBJZalayMlZRKLTL/WebApplication-Prototyping?page-id=0%3A1&type=design&node-id=1-59&viewport=732%2C710%2C0.09&t=CsrxiKf8dLaT76ly-1&scaling=scale-down&starting-point-node-id=1%3A59&show-proto-sidebar=1&mode=design 
 
 ## 4.6. Domain-Driven Software Architecture.
 
