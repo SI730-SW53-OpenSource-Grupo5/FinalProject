@@ -40,11 +40,6 @@
 | 1.1 | 01/04/2024 | Grupo 4 | Capitulo III |
 | 1.1 | 07/04/2024 | Grupo 4 | Capitulo IV |
 
-# Project Report Collaboration Insights
-
-[URL del repositorio](https://www.example.com)
-
-(Imagenes de los commits cada entrega)
 
 # Student Outcome 3
 
@@ -187,7 +182,7 @@
 
 ### 1.1.1. Descripción de la Startup
 
-Nuestra startup [nombre] tiene como objetivo conectar a personas que presentan algún tipo de bienestar emocional, tales como estrés laboral, ansiedad social y necesitan ayuda de especialistas en salud mental. Si estás estresado, ansioso o tienes otros problemas similares, nuestra aplicación se encargará de ofrecer un espacio donde puedes expresar lo que te está pasando. Los usuarios pueden participar en pequeños foros donde pueden hablar sobre sus problemas y recibir recomendaciones y/o consejos acerca de ejercicios de relajación que pueden adoptar como rutina, los cuales son ofrecidos por especialistas en salud mental y también podrán participar de talleres y eventos gratuitos ofrecidos por especialistas. Además, ofrecemos un plan de suscripción que incluye acceso a eventos exclusivos, análisis detallados de tu salud emocional y la posibilidad de reservar hasta 3 citas con nuestros especialistas, que están disponibles en la aplicación. Se contará con acceso al perfil del especialista además de ver una sección de reseñas de usuarios beneficiados con sus terapias, con el fin de que puedan adquirir sus servicios. Este proyecto busca proporcionar a los usuarios afectados un espacio seguro para expresar sus preocupaciones y recibir apoyo de especialistas y otros usuarios dispuestos a ofrecer consejos y ayuda.
+Nuestra startup HealthForAll tiene como objetivo conectar a personas que presentan algún tipo de bienestar emocional, tales como estrés laboral, ansiedad social y necesitan ayuda de especialistas en salud mental. Si estás estresado, ansioso o tienes otros problemas similares, nuestra aplicación se encargará de ofrecer un espacio donde puedes expresar lo que te está pasando. Los usuarios pueden participar en pequeños foros donde pueden hablar sobre sus problemas y recibir recomendaciones y/o consejos acerca de ejercicios de relajación que pueden adoptar como rutina, los cuales son ofrecidos por especialistas en salud mental y también podrán participar de talleres y eventos gratuitos ofrecidos por especialistas. Además, ofrecemos un plan de suscripción que incluye acceso a eventos exclusivos, análisis detallados de tu salud emocional y la posibilidad de reservar hasta 3 citas con nuestros especialistas, que están disponibles en la aplicación. Se contará con acceso al perfil del especialista además de ver una sección de reseñas de usuarios beneficiados con sus terapias, con el fin de que puedan adquirir sus servicios. Este proyecto busca proporcionar a los usuarios afectados un espacio seguro para expresar sus preocupaciones y recibir apoyo de especialistas y otros usuarios dispuestos a ofrecer consejos y ayuda.
 
 #### 1.1.2. Perfiles de integrantes del equipo
 <!-- poner las rutas de las imagenes de assets en src -->
@@ -195,7 +190,7 @@ Nuestra startup [nombre] tiene como objetivo conectar a personas que presentan a
 |-----------------------------------------------------------------------------------------------------------------------------------------|-------------------|-|-------------------------------------------------------------------------------| 
 | Nicolas Sebastian Esteban Garcia  <img src="./assets/members-profile/nicolas-profile.jpg" alt="Imagen del compañero" style="width:80%"> | U202217485        |Ingenieria de software| C++, JS, HTML, CSS, Phyton. Comunicación asertiva y facil adaptación          |
 | Djalma Santos Dioses Molina <img src="./assets/members-profile/djalma-profile.png" alt="Imagen del compañero" style="width:80%">                                                   | U201921405        |Ingenieria de software| HTML, CSS, JS, C++, C#, SQL, Phyton. Responsable.                             |
-| Esteban Garcia, Nicolas Sebastian <img src="" alt="Imagen del compañero" style="width:80%">                                             | U202217485        |Ingenieria de software| C++, JS, HTML, CSS, Phyton                                                    |
+
 | Príncipe Godoy, Johan 	<img src="./assets/members-profile/johan-profile.jpg" alt="Imagen del compañero" style="width:80%">             | U202014511        |Ingenieria de software| C++, JS, HTML, CSS, Phyton, SQL, MongoDB. Trabajo en equipo y responsabilidad |
 | Burga Loarte Anaely ![image](https://github.com/SI730-SW53-OpenSource-Grupo5/FinalProject/assets/114323722/dac7eba0-74fe-4691-b136-5dbc632c3294)| U202118264        |Ingenieria de software| C++, C#, JS, HTML, CSS, Phyton | 
 | Torrejon Navarro Braulio Rodrigo	<img src="./assets/members-profile/223.png" alt="Imagen del compañero" style="width:80%">                                                          | U201711828        |Ingenieria de software| C++, C#, JS, HTML, CSS, Phyton | 
@@ -1305,70 +1300,6 @@ Para llevar a cabo los registros de nuestros avances durante el primer Sprint de
 
 <img src="./assets/commitsProject.jpg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
 
-
-## 5.3. Validation Interviews.
-
-### 5.3.1. Diseño de Entrevistas.
-
-**Preguntas generales:**
-
-1. ¿Cuál es su nombre?
-2. ¿Qué edad tiene?
-3. ¿A qué se dedica?
-4. ¿[Opinion de idea de propuesta]?
-
-**Entrevistas usuario segmento 2**
-
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?
-
-**Entrevistas usuario segmento 2**
-
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?
-
-### 5.3.2. Registro de Entrevistas.
-
-**Segmento 1**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
-
-**Segmento 2**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
-
-### 5.3.3. Evaluaciones según heurísticas.
-
-| HEURÍSTICA                                    | EVALUACIÓN ✅❌ | NOTA    |
-| --------------------------------------------- | ------------- | ------- |
-| Visibilidad del estado del sistema            |               | {texto} |
-| Coincidencia entre el sistema y el mundo real |               | {texto} |
-| Control y libertad del usuario                |               | {texto} |
-| Consistencia y estándares                     |               | {texto} |
-| Prevención de errores                         |               | {texto} |
-| Mostrar antes que recordar                    |               | {texto} |
-| Flexibilidad y eficiencia de uso              |               | {texto} |
-| Diseño estético y minimalista                 |               | {texto} |
-| Comunicar errores con facilidad               |               | {texto} |
-| Ayuda y documentación                         |               | {texto} |
-
-## 5.4. Video About-the-Product.
-
-[URL del video about the product](https://www.example.com)
-
-# Conclusiones
-
-{texto}
 
 # Conclusiones y recomendaciones.
 
