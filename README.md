@@ -784,7 +784,13 @@ Ocupación: _____
 
 # Conclusiones y recomendaciones.
 
-{texto}
+Experiencia en integración de funcionalidades interactivas: Durante el desarrollo de la aplicación web, obtuvimos experiencia en la integración de funcionalidades interactivas, como formularios de registro personalizados.
+
+Comprensión de los principios de optimización para motores de búsqueda (SEO): Durante la creación de la landing page, adquirimos conocimientos sobre la importancia de aplicar prácticas de SEO para mejorar la visibilidad y el posicionamiento en los resultados de búsqueda. Esto involucró la optimización de contenido, el uso adecuado de palabras clave y la estructuración de la página para facilitar la indexación por parte de los motores de búsqueda.
+
+Aprendizaje en diseño centrado en el usuario: Durante el desarrollo, destacamos la importancia de adoptar un enfoque centrado en el usuario para diseñar tanto la landing page como la aplicación web. Este enfoque nos permitió entender las necesidades y expectativas de los usuarios, lo que facilitó la creación de una experiencia más intuitiva y satisfactoria.
+
+Dominio de herramientas de desarrollo web: A lo largo del proyecto, utilizamos una variedad de herramientas y tecnologías de desarrollo web, que incluyen lenguajes de marcado como HTML, CSS y JavaScript. Este conocimiento nos permitió implementar diseños atractivos y responsivos que se adaptan a distintos dispositivos y tamaños de pantalla.
 
 # Video About-the-Team.
 
