@@ -189,8 +189,9 @@ Nuestra startup [nombre] tiene como objetivo conectar a personas que presentan a
 | Nombre del compañero <img src="" alt="Imagen del compañero" style="width:80%">                                                          | U202217485        |Ingenieria de software| C++, JS, HTML, CSS, Phyton                                                    |
 | Esteban Garcia, Nicolas Sebastian <img src="" alt="Imagen del compañero" style="width:80%">                                             | U202217485        |Ingenieria de software| C++, JS, HTML, CSS, Phyton                                                    |
 | Príncipe Godoy, Johan 	<img src="./assets/members-profile/johan-profile.jpg" alt="Imagen del compañero" style="width:80%">             | U202014511        |Ingenieria de software| C++, JS, HTML, CSS, Phyton, SQL, MongoDB. Trabajo en equipo y responsabilidad |
-| Braulio Rodrigo Torrejon Navarro	<img src="./assets/members-profile/22.jpg" alt="Imagen del compañero" style="width:80%">                                                          | U201711828       |Ingenieria de software| C++, JS, HTML, CSS, Phyton     
 | Burga Loarte Anaely <br />	<img src="./assets/members-profile/1.jpg" alt="Imagen del compañero" style="width:50%; height:60%">                                                          | U202118264        |Ingenieria de software| C++, C#, JS, HTML, CSS, Phyton | 
+| Torrejon Navarro Braulio Rodrigo	<img src="./assets/members-profile/22.jpg" alt="Imagen del compañero" style="width:80%">                                                          | U201711828        |Ingenieria de software| C++, C#, JS, HTML, CSS, Phyton | 
+| Alexander Paolo Justo Yauricasa <img src="" alt="Imagen del compañero" style="width:80%">                                                | U201921405        |Ingenieria de software| Phyton, HTML, JS, C++, C#, SQL. Facil adaptación y responsable                   |
 
 ## 1.2. Solution Profile
 
@@ -276,31 +277,34 @@ Para personas que experimentan problemas de bienestar emocional, como estrés la
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores.
+Esta sección estará dividia en 2 segmentos. La primera parte se realizará el análisis de los competidores más conocidos en el área en el que se desarrolla nuestro proyecto. En la segunda parte vamos a analizar los métodos y estrategias para poder hacerles frente y lograr destacar entre ellas.
 
 ### 2.1.1. Análisis competitivo.
+En este apartado se realizará el análisis de 3 competidores, directos o indirectos, con un modelo de negocio similar o con ofertas parcialmente similares.
 
 | Competitive Analysis Landscape        |     |
 | ------------------------------------- | --- |
-| ¿Por qué llevar a cabo este análisis? | --  |
+| ¿Por qué llevar a cabo este análisis? | Llevamos a cabo el análisis de los competidores directos e indirectos de nuestro producto, con el fin de poder indentificar sus debilidades , fortalezas, misión, visión, su público objetivo, entre otros aspectos. Esto nos va a servir para desarrollar ventajas competitivas y mejorar nuestro producto.  |
 
-|                     |                                                       | (Nosotros)                                                                                                                     | Competidor                                                                  | Comptdor                                             |
+|                     |                                                       | (Nosotros)                                                                                                                     | Buenoco                                                                     | Kalma Peru                                           |
 | ------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- | ---------------------------------------------------- |
-| PERFIL              | Overview                                              | lorem                                                                                                                          | ipsum                                                                       | lorem                                                |
-|                     | Ventaja competitiva ¿Qué valor ofrece a los clientes? | ipsu                                                                                                                           | impuz                                                                       |
-|                     | Mercado Objetivo                                      | Jeda                                                                                                                           | asa                                                                         | asa2                                                 |
-| Perfil de marketing | Estrategia de Marketing                               | Redes Sociales                                                                                                                 | Redes Sociales                                                              | Televisión, Redes Sociales                           |
-| Perfil del producto | Productos y servicios                                 | Elementos Gráficos Interactivos Enseñanza de Matemáticas Lúdica y Autodidacta Educación matemática interactiva Ámbito Freemium | Educación matemática interactiva Mas de 100 cursos en 28 idiomas diferentes | Educación general interactiva Contratos con Movistar |
-|                     | Precios y costos                                      | Freemium (Cuenta Premium permite personalizar los juegos) Gratis                                                               | Gratuito                                                                    | Gratuito                                             |
-|                     | Canales de distribución (Web y/o Móvil)               | Web y Móvil Web                                                                                                                | Móvil Web                                                                   | Web y móvil Web                                      |
+| PERFIL              | Overview                                              | Nuestra aplicación web ofrece un espacio seguro y accesible para que las personas encuentren apoyo emocional y consejos sobre bienestar mental. | plataforma innovadora que ofrece terapia psicológica online a través de un sistema de matching único.  | Organización especializada en el Perú, orientada en tratar problemas clínicos y preventivos en Salud Mental   |
+|                     | Ventaja competitiva ¿Qué valor ofrece a los clientes? | Enfoque en la comunidad, ofreciendo un espacio seguro donde los usuarios pueden interactuar, compartir experiencias y recibir apoyo emocional   | Test gratuito, seguimiento, selección rigurosa del especialista.  |  Bajo un staff de especialistas, con experiencia en todos los casos señalados                                         |                                                                       
+|                     | Mercado Objetivo                                      | Personas que experimentan problemas de bienestar emocional, como estrés laboral y ansiedad social  | Personas que buscan ayuda psicológica online | Personas con problemas en la salud mental                                                     |
+| Perfil de marketing | Estrategia de Marketing                               | Publicidad en redes sociales. Acceso a todas las funcionalidades por un determinado tiempo, incluyendo las de pago. Descuentos o cupones para los nuevos usuarios registrados.   | Publicidad en google, programa de referidos  | Publicidad en google, sus colaboradores.                                            | 
+| Redes Sociales                                                              | Televisión, Redes Sociales                           | Facebook, Instagram, Twitter                                                             |  Facebook, Instagram, Linkein   |   Facebook, Instagram, Youtube                                                                         |
+| Perfil del producto | Productos y servicios                                 | Foros de comunidades en linea, talleres, plan de susbcripción, consultas individuales. | Algoritmo de matching avanzado, sistema de reserva de cita, analisis de tallados. | Diferentes tipos de temas de salud mental con psicologos especializados. |
+|                     | Precios y costos                                      | Los precios de los servicios varían de acuerdo con los especialistas en salud mental y los costos del servicio premium varían de acuerdo con el tiempo de suscripción.  | Los precios de las sesiones de terapia psicológica online varían dependiendo del tipo de sesión. La primera consulta cognoscitiva es gratuita   | En la pagina web no tiene precio, pero dependiendo del tipo de sesión.    |
+|                     | Canales de distribución (Web y/o Móvil)               | Play Store, Apple Store, iOS, Android, correo electrónico y página web.  | página web y correo electrónico.                    |                                      Whatsapp y meet                                     |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
-| Competidores -> |               | Nosotros | Competidor2 | Competidor3 |
+| Competidores -> |               | Nosotros | Buenoco | KalmaPeru |
 | --------------- | ------------- | -------- | ----------- | ----------- |
-| Análisis SWOT   | Fortalezas    | lorem    | Lorem       | lorem       |
-|                 | Debilidades   | lorem    | lorem       | lorem       | lorem |
-|                 | Oportunidades | lorem    | lorem       | lorem       | lorem |
-|                 | Amenazas      | lorem    | lorem       | lorem       | lorem |
+| Análisis SWOT   | Fortalezas    | Variedad de servicio, foro de la comunidad, comunidad fuerte   | Selección rigurosa de psicologos  | Socios involucrados, ser el primero en el Perú |
+|                 | Debilidades   | Requiere conexión a internet, enfocado solo en peru,    | Aceptación de terapias en linea, dependencia a la tecnologia     | no colocar su precio en la pagina principal, no aplicativo.       | lorem |
+|                 | Oportunidades | Demanda creciente, expansión global, colaboraciones con organizaciones, accesiblidad    | Crecimiento de mercado, personalización, expansión internacional  | Funciona mejor para gente de edad mas avanzada.     | lorem |
+|                 | Amenazas      | Competencia, que los psicologos se unan, seguridad, tencnologia   | Competencia, regulaciones, percepción publica.      | Competencia, falta de adaptación a la tecnologia      | lorem |
 
 ## 2.2. Entrevistas.
 
@@ -308,117 +312,217 @@ Para personas que experimentan problemas de bienestar emocional, como estrés la
 
 **Preguntas generales:**
 
-1. ¿Cuál es su nombre?
+1. ¿Podrías proporcionarnos tu nombre completo? 
 2. ¿Qué edad tiene?
-3. ¿A qué se dedica?
-4. ¿[Opinion de idea de propuesta]?
+3. ¿Cuál es tu ocupación actual o solo estudios? 
+4. ¿Podrías decirnos brevemente sobre tus intereses personales o profesionales? 
+   
+**Entrevistas usuario segmento 1: usuarios que buscan ayuda emocional por medio de una plataforma**
+
+1. ¿Qué piensas de la idea de buscar ayuda emocional a través de una aplicación web? 
+2. ¿Cómo te sentirías al compartir tus preocupaciones emocionales en una plataforma en línea? 
+3. ¿Qué aspectos considerarías importantes al decidir utilizar una aplicación web para mejorar tu bienestar emocional? 
+4. ¿Qué opinas sobre la posibilidad de recibir apoyo emocional de una comunidad en línea?	
+5. ¿Cuáles serían tus expectativas al participar en una plataforma que ofrece recursos y consejos para el bienestar emocional?
+6. ¿Qué características te gustaría ver en una aplicación web que ofrece apoyo emocional?
+7. ¿Qué tipo de interacción esperarías tener con otros usuarios en una plataforma de ayuda emocional en línea?
 
 **Entrevistas usuario segmento 2**
 
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?
-
-**Entrevistas usuario segmento 2**
-
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?
+1. ¿Qué piensas de la idea de ofrecer tus servicios profesionales en una aplicación web? 
+2. ¿Cómo crees que el uso de una plataforma digital puede influir en la forma en que proporcionas tratamiento o terapia? 
+3. ¿Qué aspectos considerarías importantes al decidir unirte a una plataforma en línea para ofrecer tus servicios? 
+4. ¿Qué desafíos anticipas al brindar servicios de salud mental a través de una aplicación web?
+5. ¿Cómo crees que la tecnología puede mejorar tu capacidad para llegar a más personas que buscan ayuda emocional?
+6. ¿Qué oportunidades crees que ofrece una plataforma digital para expandir tu práctica profesional en el campo de la salud mental?
+7. ¿Qué crees que podría diferenciar a una aplicación web exitosa para profesionales de la salud mental de otras plataformas disponibles en línea?
 
 ### 2.2.2. Registro de entrevistas.
 
-**Segmento 1**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
+***Enlace Entrevistas:*** https://drive.google.com/drive/folders/11k8Bvr1FZljtDV1J2fFZM1UawkEcSi-B?usp=sharing
 
-**Segmento 2**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
+**Segmento 01: Personas con problemas de salud mental buscan apoyo emocional*** 
+
+***Entrevistado 1***
+
+Nombre: Sebastian Ramirez Hoffman  
+
+Edad: 19 años   
+
+Ocupación: Estudiante de Ingenieria de Software
+
+<img src="./assets/interviews/entrevistado01_segmento01.png" style="width:100%;">
+
+Duración: 11:08
+
+Enlace de entrevista: https://drive.google.com/file/d/1jh8pLWQNGsjuUY4qjBZL0ngEASCMfV5r/view?usp=sharing
+
+**Resumen de la entrevista:** Nuestro entrevistado fue Sebastian Ramirez, estudiante de la carrera de Ingeniería de software, el cual cuenta con cierta experiencia en el uso de plataformas de debate o donde multiples usuarios pueden dar una opinión respecto a un tema en concreto. En base a ello, nos comentó como era el ambiente y que cualidades destacables tenian los foros en linea y como las personas pueden dar una opinión libre respecto al tema que se debate. Además, que la función mas relevante era el anonimato, ya que muchos de estos usuarios se expresan a traves de una cuenta, en la cual no se tiene conocimiento o no se garantiza de donde proviene el usuario que comenta. Luego de explicarle nuestra idea de negocio, nos comentó que seria una alternativa viable, ya que muchos foros en linea debaten diversos temas que no necesariamente guardan una relacion entre sí, sin embargo, el hecho de dar prioridad al tema de bienestar y cuidado emocional, donde se pueda contar con usuarios especialistas u otros usuarios que hayan pasado por dicho problema puedan ser libres de dar algun consejo.  
+
+***Entrevistado 2***
+
+Nombre: Harold Mayta Lopez  
+
+Edad: 21 años   
+
+Ocupación: Estudiante de Ingenieria de Software
+
+<img src="./assets/interviews/entrevistado02-segmento01.png" style="width:100%;">
+
+Duración: 9:30
+
+Enlace de entrevista: https://drive.google.com/file/d/1lSAuVtGM5KNiw88R8gcFNf6SD611oyKP/view?usp=sharing
+
+**Resumen de la entrevista:** Nuestro entrevistado fue Sebastian Ramirez, estudiante de la carrera de Ingeniería de software, el cual cuenta con experiencia en la participación de foros en linea como Reddit. Respecto a ello, nos comento que existen diversos temas que se debaten dia a dia, con cientos de usuarios dispuestos a dar una opnión respecto a un tema especifico. Sin embargo, no mucha de esta información es confiable, o no se garantiza información veridica del usuario que comenta. Luego, resalto la suma importancia del anonimato en este tipo de comunidades en línea, ya que protegia la integridad de un usuario. Luego de comentarle nuestra idea de negocio, nos comentó que seria de gran ayuda contar con un foro en linea que se centre especificamente a todo lo relacionado a la salud mental, ya que es un tema que no se le da mucha relevancia, resalto que el hecho de contar con usuarios verificados como especialistas en el área, pueden dar un mejor aporte a los hilos o debates creados con los usuarios, además que esto ayudarpia a que la información proporcionada tenga mayor validez.
+
+***Entrevistado 3***
+
+Nombre: Camila Dias MigueldelPriego 
+
+Edad: 23 años   
+
+Ocupación: Estudiante de Diseño grafico
+
+<img src="./assets/interviews/entrevistado03_segmento01.PNG" style="width:100%;">
+
+Duración: 4:56
+
+Enlace de entrevista:  https://youtu.be/bM89i00o3_8
+**Resumen de la entrevista:** Nuestra entrevistada fue Camila Dias, estudiante de diseño grafico, el cual ha tenido psicologos anteriormente, en la entrevista nos comentó que la idea de buscar ayuda empocional a travez de una aplicación web es una buena idea ya que siempre hay personas afuera en busca de ayuda y apoyo. Pero se sentiria un poco avergonzada de publicar sus problemas y preocupaciones en linea, asi que espera que haya un sistema de privacidad en ese aspecto. Un aspecto importante que es respetar la privacidad del otro, no intentar buscarlo y hacer algo con esa información. Sobre la posibilidad de recibir ayuda en linea, le parece una buena idea ya que hay gente que en linea conoce mucha gente y no sale mucho de casa, donde es mas facil compartir tus problemas con esas personas. Sus expectativas seria un lugar donde puedas descargarte emocionalmente allí. Le gustaria una buena moderación, ya que puede haber usuarios que fomenten o enves de querer ayudarte, quieren perjudicarte. Y en un tipo de interacción, le gustaria un lugar armonioso donde todos se ayuden entre ellos.
+
+**Segmento 02: Profesionales de la salud mental que desean ayudar a mejorar la salud emocional de las personas**  
+
+***Entrevistado 4***
+
+Nombre: Diana Reyes Poma
+
+Edad: 24 años
+
+Ocupación: Psicologa  
+
+<img src="./assets/Especialista1.png" style="width:100%;">
+
+Duración: 6:35
+
+Enlace de entrevista:  https://drive.google.com/file/d/11QXtqWpK_JMpYyd_M54Ko4BwubY12gX8/view?usp=sharing 
+
+**Resumen de la entrevista:** En esta ocasión entrevistó a la especialista de la salud mental Diana Reyes, la cual actualmente cursa los últimos años de la carrera de psicología. En la entrevista ella resalta la importancia de la ayuda en cualquier modalidad (virtual o presencial), si bien relata que la terapia virtual puede generar unos inconvenientes por el lado de la presencia del mismo psicólogo, no descarta esta alternativa en especial para gente que recorre largas distancias para encontrar un especialista o personas que tienen tiempos cortos para poder ir a un local de un especialista. Así mismo, Diana menciona que una aplicación de terapias virtuales podría ayudar a llegar a gente de todo tipo, tanto practicantes o especialistas de la salud mental como personas que necesitan ayuda y no saben donde encontrarla. Por último, ella dice que se encuentra interesada en una plataforma digital que abarque muchos temas del campo de la salud mental, que ayude tanto a pacientes como  a especialistas.
+
+***Entrevistado 5***
+
+Nombre: Carlos Alejandro De La Cruz Villaverde
+
+Edad: 21 años
+
+Ocupación: Psicologo
+
+<img src="./assets/Especialista2.png" style="width:100%;">
+
+Duración: 5:44
+
+Enlace de entrevista: https://drive.google.com/file/d/1b78YRx9V69vzEWJ2y58cUu7BwLTTaCzA/view?usp=sharing 
+
+**Resumen de la entrevista:** En esta ocasión se entrevistó a Carlos De La Cruz Villaverde especialista de la salud mental, y una practicante de la carrera de psicología. El menciona que le parece interesante la idea de una aplicación que ayude en el campo de la salud mental, ya que no es muy común encontrar con servicios digitales como este, y podría ayudar a las personas a encontrarse más cerca de la ayuda requerida. Así mismo, expresa su interés en una plataforma digital que cubra diversos aspectos del ámbito de la salud mental, con el propósito de brindar apoyo tanto a pacientes como a especialistas. Aunque, el se preocupa por la seguridad de los datos de los clientes y especialistas, ya que estos suelen albergar contenido privado ya sea en sesiones o enfermedades de la salud mental. Por último, De La Cruz expone que este tipo de innovación web no muy común podría ser muy exitoso ya que la ayuda psicológica es muy necesita hoy en día y que más personas se animan a tratarse como un especialista.
+
 
 ### 2.2.3. Análisis de entrevistas.
 
-**Segmento 1:**
-{texto}
-**Segmento 2:**
-{texto}
+**Segmento 01: Personas con problemas de salud mental buscan apoyo emocional** <br>
+
+**Importancia de la privacidad y el anonimato:** <br>
+   + Todos los entrevistados resaltan la importancia del anonimato en las plataformas donde se discuten temas muy sensibles como por ejemplo la salud mental.  El anonimato proporciona seguridad a las personas, se sienten mucho más cómodas para expresar sus preocupaciones sin temor a que sean juzgadas.
+   + Camila resalta la importancia de la privacidad, preocupándose por la posibilidad de compartir sus problemas en línea y espera que haya un sistema que garantice la privacidad de los usuarios.
+
+**Necesidad de un espacio en línea para el apoyo emocional y la ayuda mutua** <br>
+   + Todos los entrevistados están de acuerdo en que exista un espacio en línea que se dedique al apoyo emocional y a discusiones de problemas de salud mental.
+   + Todos los entrevistados resaltan la importancia de que haya un lugar donde puedan contar sus problemas emocionales, donde puedan recibir ayuda y apoyo de otros usuarios que puedan haber tenido problemas similares.
+
+**Validación y veracidad de la información:** <br>
+   + Harold habla sobre la importancia de contar con información verificada y usuarios especializados en el área de salud mental o emocional que puedan brindar información real y consejos de calidad.
+   + Esta idea es también respaldada por Sebastian, este nos menciona que la información en múltiples foros o comunidades en línea puede que no sea confiable debido a la falta de verificación de los usuarios.
+
+**Moderación y ambiente seguro:** <br>
+   + Todos los entrevistados están de acuerdo en contar una moderación efectiva dentro de la plataforma para mantener un ambiente seguro y confiable.
+   + Camila nos menciona la necesidad de que exista una moderación adecuada para evitar que los usuarios perjudiquen en lugar de ayudar a otros usuarios.
+
+En resumen, todos los entrevistados están de acuerdo en la necesidad de una comunidad en línea donde las personas puedan recibir apoyo emocional, priorizando el anonimato, la privacidad, la validación de la información y una buena moderación de la plataforma para mantener un ambiente seguro y de ayuda mutua.<br><br>
+
+
+**Segmento 02:Profesionales de la salud mental que desean ayudar a mejorar la salud emocional de las personas**<br>
+
+**Importancia de la ayuda en la salud mental en cualquier modalidad:** <br>
+   + Ambos entrevistados coinciden en la importancia de brindar ayuda emocional tanto de forma presencial como virtual. Estos nos comentan que la terapia virtual puede ser beneficiosa, en especial para aquellas personas que tienen dificultades para acceder a un especialista de forma presencial debido a falta de tiempo, entre otras situaciones.
+
+**Interés en una plataforma digital de salud mental:** <br>
+   + Ambos entrevistados muestran un gran interés en la idea de una aplicación web o plataforma dedicada a la salud emocional o mental. Estos consideran que este tipo de servicio podría llegar a muchas personas.
+
+**Preocupación por la privacidad y seguridad de los datos:** <br>
+   + Ambos entrevistados muestran preocupación por la seguridad de los datos en una aplicación o plataforma web de salud emocional o mental. Estos consideran que la información compartida durante las sesiones terapéuticas es muy sensible y que se debe garantizar la privacidad y confidencialidad de los usuarios y especialistas.
+
+En resumen, ambos entrevistados están de acuerdo en brindar ayuda emocional de forma virtual o presencial, muestran interés en una aplicación o plataforma web dedicada a este fin y expresan su preocupación por la seguridad de los datos. Ambos entrevistados reconocen el potencial y el exito que podría tener esta web.
+
 
 ## 2.3. Needfinding.
 
 ### 2.3.1. User Personas.
 
-**Segmento 1:**  
-![Imagen User Persona 1](image.jpg)
+**Segmento 1: Usuarios que presentan problemas en su salud mental y desean recurrir a la yuda de otras personas y/o especialistas**  
+<img src="./assets/Ana_Garcia.png" alt="Imagen del User Persona 1" style="width:80%">
 
-**Segmento 2:**
-![Imagen User Persona 1](image.jpg)
+**Segmento 2: Especialistas que deseen ofrecer sus servicios para apoyar a los usuarios afectados**
+<img src="./assets/Javier_Sanchez.png" alt="Imagen del User Persona 1" style="width:80%">
 
 ### 2.3.2. User Task Matrix.
 
-| ---  | ------  | Segmento 1  | ------/----- | Segmento 2  | ---------- |
-| ---- | ------- | ----------- | ------------ | ----------- | ---------- |
-| ID   | Titulo  | Importancia | Frecuencia   | Importancia | Frecuencia |
-| U01X | {Texto} | Alta        | Alta         | Media       | Baja       |
+**Segmento 1: Usuarios que presentan problemas en su salud mental y desean recurrir a la yuda de otras personas y/o especialistas**
+
+| Tarea                                    | Frecuencia | Severidad |
+|------------------------------------------|------------|-----------|
+| Buscar recursos de apoyo emocional       | Alta       | Alta      |
+| Programar una cita con un consejero      | Media      | Alta      |   
+| Practicar técnicas de relajación         | Alta       | Media     |
+| Compartir experiencias con otros         | Baja       | Alta      |
+| Encontrar información sobre salud mental | Alta       | Alta      |
+| Practicar técnicas de relajación         | Media      | Alta      |
+| Establecer metas de autocuidado          | Baja       | Alta      |
+| Realizar actividades recreativas         | Baja       | Alta      |
+| Mantener un diario de emociones          | Media      | Media     |
+
+**Segmento 2: Especialistas que deseen ofrecer sus servicios para apoyar a los usuarios afectados**
+
+| Tarea                                                             | Frecuencia | Severidad |
+|-------------------------------------------------------------------|------------|-----------|
+| Evaluar las necesidades del cliente                               | Alta       | Alta      |
+| Diseñar un plan de tratamiento personalizado                      | Alta       | Alta      |   
+| Brindar terapia individual o grupal                               | Alta       | Alta      |
+| Seguir el progreso del cliente                                    | Alta       | Alta      |
+| Proporcionar recursos y herramientas de autoayuda                 | Media      | Alta      |
+| Colaborar con otros profesionales de la salud                     | Media      | Media     |
+| Mantenerse actualizado en las últimas investigaciones y prácticas | Alta       | Alta      |
 
 ### 2.3.3. User Journey Mapping.
 
-**Registration:**
-Why would they trust us?
+**Segmento 1: Usuarios que presentan problemas en su salud mental y desean recurrir a la yuda de otras personas y/o especialistas**  
+<img src="./assets/Journey_Map_UP1.png" alt="Imagen Journey Map del User Persona 1" style="width:80%">
 
-- s
-- s
-- s
-
-**Onboarding and first use:**
-How can they feel successful?
-
-- s
-- s
-- s
-
-**Sharing:**
-Why would they invite others?
-
-- s
-- s
-- s
+**Segmento 2: Especialistas que deseen ofrecer sus servicios para apoyar a los usuarios afectados**
+<img src="./assets/Journey_Map_UP2.png" alt="Imagen Journey Map del User Persona 2" style="width:80%">
 
 ### 2.3.4. Empathy Mapping.
 
-**Segmento 1:**
-![Empathy Map Segmento1](image.jpg)
+**Segmento 1: Usuarios que presentan problemas en su salud mental y desean recurrir a la yuda de otras personas y/o especialistas**  
+<img src="./assets/Empathy_map_UP1.png" alt="Imagen Empathy Map del User Persona 1" style="width:80%">
 
-**Segmento 2:**
-![Empathy Map Segmento1](image.jpg)
+**Segmento 2: Especialistas que deseen ofrecer sus servicios para apoyar a los usuarios afectados**
+<img src="./assets/Empathy_map_UP2.png" alt="Imagen Empathy Map del User Persona 2" style="width:80%">
 
 ### 2.3.5. As-is Scenario Mapping.
 
-**Segmento 1**  
-Escenario: {escenario}
+**Segmento 1: Usuarios que presentan problemas en su salud mental y desean recurrir a la yuda de otras personas y/o especialistas**  
+<img src="./assets/As-is_scenariomap_UP1.png" alt="Imagen As-is Scenario Map del User Persona 1" style="width:80%">
 
-As Is:
-| Fases    | Fase 1 | Fase 2 | Fase 3 | Fase 4 |
-| -------- | ------ | ------ | ------ | ------ |
-| Doing    | texto  | texto  | texto  | texto  |
-| Thinking | texto  | texto  | texto  | texto  |
-| Feeling  | texto  | texto  | texto  | texto  |
-
-**Segmento 2**  
-Escenario: Dificultad para entender Matemáticas
-
-As Is:
-| Fases    | Fase 1 | Fase 2 | Fase 3 | Fase 4 |
-| -------- | ------ | ------ | ------ | ------ |
-| Doing    | texto  | texto  | texto  | texto  |
-| Thinking | texto  | texto  | texto  | texto  |
-| Feeling  | texto  | texto  | texto  | texto  |
+**Segmento 2: Especialistas que deseen ofrecer sus servicios para apoyar a los usuarios afectados**
+<img src="./assets/As-is_scenariomap_UP2.png" alt="Imagen As-is Scenario Map del User Persona 2" style="width:80%">
 
 ## 2.4. Ubiquitous Language.
 
