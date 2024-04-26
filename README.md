@@ -241,9 +241,61 @@ La aplicación estará disponible para su descarga de forma gratuita, pero tambi
 
 #### 1.2.2.1. Lean UX Problem Statements.
 
-Para personas que experimentan problemas de bienestar emocional, como estrés laboral y ansiedad social, encontrar un espacio seguro para expresar sus preocupaciones, recibir apoyo de especialistas en salud mental y conectar con otros usuarios dispuestos a ofrecer ayuda y consejos es una tarea desafiante. A diferencia de los recursos tradicionales, como terapias cara a cara o grupos de apoyo, no existe una plataforma centralizada y accesible que proporcione una solución integral para satisfacer estas necesidades. Esto crea una brecha en la disponibilidad de apoyo emocional oportuno y eficaz, dejando a las personas afectadas sin recursos adecuados para abordar sus problemas emocionales y mejorar su bienestar general. Ante ello, nos proponemos proporcionar a nuestros usuarios un servicio de calidad y efectivo que les permita encontrar alivio y apoyo en sus momentos de necesidad. A través de nuestra plataforma, nos esforzamos por ofrecer un espacio inclusivo y accesible donde puedan conectarse con especialistas en salud mental y otros usuarios dispuestos a ofrecer consejos y apoyo. Es por este motivo que, como startup, abordaremos la resolucion de la siguiente cuestión: ¿Como podemos absolver los problemas que presentan nuestros usuarios con el fin de ofrecer un servicio de calidad y efectivo?
+- Para personas que experimentan problemas de bienestar emocional, como estrés laboral y ansiedad social, encontrar un espacio seguro para expresar sus preocupaciones, recibir apoyo de especialistas en salud mental y conectar con otros usuarios dispuestos a ofrecer ayuda y consejos es una tarea desafiante.
+- No existe una plataforma centralizada y accesible que proporcione una solución integral para satisfacer estas necesidades, creando una brecha en la disponibilidad de apoyo emocional oportuno y eficaz.
+- Esto deja a las personas afectadas sin recursos adecuados para abordar sus problemas emocionales y mejorar su bienestar general.
+- Nos proponemos proporcionar a nuestros usuarios un servicio de calidad y efectivo que les permita encontrar alivio y apoyo en sus momentos de necesidad.
+- A través de nuestra plataforma, nos esforzamos por ofrecer un espacio inclusivo y accesible donde puedan conectarse con especialistas en salud mental y otros usuarios dispuestos a ofrecer consejos y apoyo.
 
 #### 1.2.2.2. Lean UX Assumptions.
+
+###### Features
+- Foros de la comunidad: Espacio donde los usuarios pueden interactuar con otros usuarios que enfrentan problemas similares, compartir experiencias y ofrecer apoyo emocional.
+- Acceso a especialistas en salud mental: Los usuarios pueden interactuar con especialistas previamente calificados para recibir orientación y apoyo emocional.
+- Reserva de citas con especialistas: Funcionalidad que permite a los usuarios reservar citas con especialistas de acuerdo con su disponibilidad.
+- Eventos gratuitos y talleres exclusivos: Los usuarios tienen la posibilidad de inscribirse en eventos y talleres realizados por especialistas en el área.
+- Suscripción con beneficios adicionales: Plan de suscripción que ofrece acceso a funcionalidades exclusivas, como eventos y reservas de citas
+- Reseñas y calificaciones: Los usuarios pueden dejar reseñas y calificaciones a los especialistas luego de recibir su terapia.
+
+
+###### Business Outcomes
+
+- Mayor retención de usuarios a través de eventos exclusivos y talleres.
+- Generación de ingresos sostenibles y rentables a través de la suscripción.
+- Aumento de la demanda de servicios de salud mental a través de la aplicación.
+- Aumentar nuestra base de usuarios diariamente, incluyendo psicologos y público en general.
+
+###### User Outcomes
+
+- Acceso a un espacio seguro para expresar preocupaciones y recibir apoyo emocional.
+- Conexión con especialistas y otros usuarios dispuestos a ofrecer consejos y apoyo.
+- Mejora en el bienestar emocional y control de las emociones.
+- Mejorar la salud mental en todo el país.
+
+
+###### User
+
+**¿Quién es el usuario?**
+
+Personas de diferentes edades que enfrentan problemas de bienestar emocional, como estrés laboral y ansiedad social, y desean mejorar su bienestar emocional y controlar sus emociones.
+
+  **¿Dónde nuestro producto puede ayudarlos?**
+  
+  Nuestra aplicación puede ayudar a los usuarios a encontrar un espacio seguro para expresar sus preocupaciones, recibir apoyo emocional de especialistas y otros usuarios, y mejorar su bienestar emocional en general.
+  
+  **¿Principales problemas del producto?**
+- Garantizar la calificación y validación de los especialistas para asegurar que brinden un apoyo adecuado.
+- Mantener una comunidad activa y participativa en los foros de discusión.
+- Ofrecer una experiencia intuitiva y fácil de usar para los usuarios.
+  
+**¿Cómo es usado el producto?**
+
+Los usuarios pueden acceder a la plataforma para interactuar con la comunidad, reservar citas con especialistas, inscribirse en eventos y talleres, y dejar reseñas y calificaciones.
+
+**Características y cómo debe ser su funcionalidad**
+
+La plataforma ofrecerá foros de la comunidad fáciles de usar, acceso a especialistas validados y claros para programar citas, eventos y talleres accesibles, una suscripción con beneficios claros y gestión de cuenta fácil, y la opción de dejar reseñas y calificaciones seguras.
+  
 
 |Business Assumptions|User Assumptions|
 |-|-|
@@ -258,15 +310,18 @@ Para personas que experimentan problemas de bienestar emocional, como estrés la
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-* Creemos que los usuarios que experimentan estrés laboral y ansiedad social estarán dispuestos a utilizar una aplicación web como medio para expresar sus preocupaciones y recibir apoyo emocional de especialistas en salud mental y otros usuarios. Sabremos que hemos tenido exito, si el usuario encuentre este ambiente bastante cómodo y puede expresarse libremente poe mdio de la plataforma.
+* **Creemos que** los usuarios que experimentan estrés laboral y ansiedad social estarán dispuestos a utilizar una aplicación web como medio para expresar sus preocupaciones y recibir apoyo emocional de especialistas en salud mental y otros usuarios. 
+**Sabremos que** hemos tenido exito, si el usuario encuentre este ambiente bastante cómodo y puede expresarse libremente poe mdio de la plataforma.
 
-* Creemos que al proporcionar una plataforma centralizada y accesible que combine características como foros de discusión, talleres y acceso a especialistas en salud mental, los usuarios encontrarán una solución integral para satisfacer sus necesidades emocionales.
+* **Creemos que** al proporcionar una plataforma centralizada y accesible que combine características como foros de discusión, talleres y acceso a especialistas en salud mental, los usuarios encontrarán una solución integral para satisfacer sus necesidades emocionales. **Sabremos que** hemos tenido éxito si los usuarios utilizan activamente todas las características de la plataforma
 
-* Creemos que al ofrecer un plan de suscripción con beneficios adicionales, como acceso a eventos exclusivos y reservas de citas con especialistas, podremos generar ingresos sostenibles y rentables para la startup. Sabremos que hemos tenido exito si los usuarios optan por pagar una suscripcion, ya que se ofrece una gran variedad de nuevas funcionalidades.
+* **Creemos que al ofrecer** un plan de suscripción con beneficios adicionales, como acceso a eventos exclusivos y reservas de citas con especialistas, podremos generar ingresos sostenibles y rentables para la startup. **Sabremos que** hemos tenido exito si los usuarios optan por pagar una suscripcion, ya que se ofrece una gran variedad de nuevas funcionalidades.
 
-* Creemos que los usuarios estarán dispuestos a participar activamente en los foros de discusión de la aplicación, compartiendo sus experiencias y ofreciendo apoyo emocional a otros usuarios. Sabremos que hemos tenido exito si se presenta una mayor cantidad de usuarios que comparten sus opiniones en los foros creados
+* **Creemos que** los usuarios estarán dispuestos a participar activamente en los foros de discusión de la aplicación, compartiendo sus experiencias y ofreciendo apoyo emocional a otros usuarios. **Sabremos que** hemos tenido exito si se presenta una mayor cantidad de usuarios que comparten sus opiniones en los foros creados
 
-* Creemos que al ofrecer eventos gratuitos y talleres exclusivos para usuarios suscritos, aumentaremos la retención de usuarios y fomentaremos la conversión de usuarios gratuitos a usuarios de pago. Sabremos que hemos tenido exito si se presenta una mayor demanda de usuarios que adquieren una suscripcion.
+* **Creemos que** al ofrecer eventos gratuitos y talleres exclusivos para usuarios suscritos, aumentaremos la retención de usuarios y fomentaremos la conversión de usuarios gratuitos a usuarios de pago. **Sabremos que** hemos tenido exito si se presenta una mayor demanda de usuarios que adquieren una suscripcion.
+
+* **Creemos que** al facilitar la interacción entre usuarios que comparten problemas similares, ofreciendo un espacio de apoyo y comprensión mutua, lograremos que los usuarios se sientan más cómodos. **Sabremos que** hemos tenido éxito si los usuarios encuentran en nuestra plataforma un ambiente acogedor y seguro donde puedan expresarse libremente.
 
 #### 1.2.2.4. Lean UX Canvas.
 
