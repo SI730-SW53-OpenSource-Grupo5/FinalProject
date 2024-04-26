@@ -865,12 +865,6 @@ URL del prototipo en Figma: https://www.figma.com/proto/DIMymIVBJZalayMlZRKLTL/W
 
 <img src="./assets/context_diagram.png" alt="Image of Software Architecture Context Diagram." style="width:100%">
 
-2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que
-   encapsula palabras clave en los procesos para poder
-   diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock(gestion) y otro enfocado en los proveedores (suministros)])
-   Se hace como un brainstorm y se ve en que pueden conectarse o
-   comunicarse [se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis)]
-
 ### 4.6.2. Software Architecture Container Diagrams.
 
 <img src="./assets/container_diagram.png" alt="Image of Software Architecture Container Diagrams." style="width:100%">
@@ -882,7 +876,7 @@ URL del prototipo en Figma: https://www.figma.com/proto/DIMymIVBJZalayMlZRKLTL/W
 
    **Gestión del usuario Context Component Diagram:**
 
-<img src="./assets/GestionUsuario.jpg" alt="Image of Software Architecture Container Diagrams." style="width:100%">
+<img src="./assets/GestionUsuario.png" alt="Image of Software Architecture Container Diagrams." style="width:100%">
 
 **Terapias y citas Context Component Diagram:**
 
