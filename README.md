@@ -1047,11 +1047,15 @@ URL del prototipo en Figma: https://www.figma.com/proto/DIMymIVBJZalayMlZRKLTL/W
 
 **Terapias y citas Context Component Diagram:**
 
-<img src="./assets/TerapiasCitas.jpg" alt="Image of Software Architecture Container Diagrams." style="width:100%">
+![image](https://github.com/SI730-SW53-OpenSource-Grupo5/FinalProject/assets/114323722/62f806b8-19fc-43f0-829d-0ca2fad7cc34)
 
 **Comunidad y foro Context Component Diagram:**
 
-<img src="./assets/ComunidadForo.jpg" alt="Image of Software Architecture Container Diagrams." style="width:100%">
+![image](https://github.com/SI730-SW53-OpenSource-Grupo5/FinalProject/assets/114323722/e26ba51b-027e-43fa-8c7d-b161a2b458e2)
+
+**Comunidad y Subceiption Context Component Diagram:**
+
+![image](https://github.com/SI730-SW53-OpenSource-Grupo5/FinalProject/assets/114323722/4699731c-f75d-4e31-ab72-c179e5ea01d2)
 
 ## 4.7. Software Object-Oriented Design.
 
