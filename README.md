@@ -1442,6 +1442,22 @@ Para llevar a cabo los registros de nuestros avances durante el primer Sprint de
 | ConnectionLink-Frontend     | main   | da0b54f59174e42b67263d5972ac6cc7c6442d1b | Merge branch 'feature/login'          | -                     | 01/05/2024          |
 | ConnectionLink-Frontend     | main   | cf72c8bb9b9386617dd670e6051ba65973a4ceb6 | Merge branch 'feature/paymoent'       | -                     | 01/05/2024          |
 
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+- En el mundo de la programación y el desarrollo web, los endpoints juegan un papel crucial en la comunicación entre el cliente y el servidor. Imagina un endpoint como un punto de entrada específico en una aplicación o servicio web, similar a una puerta de acceso en un edificio con múltiples habitaciones. Cada endpoint está asociado con una ruta única, que generalmente se expresa como una URL. Cuando un cliente, como un navegador web o una aplicación móvil, envía una solicitud a un servidor, especifica el endpoint al que desea acceder. El servidor, a su vez, procesa esa solicitud y responde con la información o la acción correspondiente. Los endpoints actúan como controladores de tráfico, dirigiendo y gestionando las solicitudes de los usuarios hacia las partes relevantes de la aplicación. Cada endpoint puede ofrecer diferentes funcionalidades, desde mostrar información estática hasta realizar operaciones complejas en la base de datos. Al definir y documentar endpoints, los desarrolladores proporcionan una guía clara sobre cómo interactuar con su aplicación. Esto facilita a otros desarrolladores entender cómo integrar su aplicación en la suya, así como a los usuarios comprender qué acciones pueden realizar y cómo hacerlo.
+  
+| Endpoint   | Detalles                                                                                          |
+|------------|--------------------------------------------------------------------------------------------------|
+| /home      | En esta ruta se muestra la primera vista del servicio.                                            |
+| /forums    | En esta ruta se muestran los foros donde los usuarios pueden discutir diversos temas.             |
+| /calendar  | En esta ruta se muestra el calendario con eventos y actividades programadas.                        |
+| /event     | En esta ruta se muestran detalles específicos sobre un evento en particular.                        |
+| /analytics | En esta ruta se proporciona acceso a análisis y estadísticas relacionadas con la plataforma.       |
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
