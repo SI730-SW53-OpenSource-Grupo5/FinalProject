@@ -1522,7 +1522,15 @@ Pagina de los mensajes
 | /event     | En esta ruta se muestran detalles específicos sobre un evento en particular.                 |
 | /analytics | En esta ruta se proporciona acceso a análisis y estadísticas relacionadas con la plataforma. |
 
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+- Para llevar a cabo los commits durante nuestro segundo Sprint, empleamos Visual Studio Code junto con Git. Inicialmente, un miembro del equipo realizó el primer commit para establecer el repositorio. Luego, clonamos este repositorio utilizando Git y procedimos a efectuar modificaciones en Visual Studio Code. Para organizar y gestionar estos cambios, creamos ramas específicas y realizamos los commits correspondientes. Posteriormente, estos commits fueron sometidos a revisión en el repositorio de Github. Finalmente, el líder del equipo aprobó los pull requests generados para fusionar los cambios con el repositorio principal.
+Registro de commits en el github
 
+![image](https://github.com/SI730-SW53-OpenSource-Grupo5/FinalProject/assets/114323722/7f2ec05d-4585-454d-9fe2-ad4e8d8b44c8)
+![image](https://github.com/SI730-SW53-OpenSource-Grupo5/FinalProject/assets/114323722/21c31538-73c3-4f29-8a4a-c62ac76bab3d)
+Contribuidores:    
+![image](https://github.com/SI730-SW53-OpenSource-Grupo5/FinalProject/assets/114323722/625e358b-16d1-43cf-b255-85fce0f0ead2)
+![image](https://github.com/SI730-SW53-OpenSource-Grupo5/FinalProject/assets/114323722/13e86bd7-3a9b-4803-9af6-e113adb47129)
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
