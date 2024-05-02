@@ -1362,12 +1362,14 @@ Para llevar a cabo los registros de nuestros avances durante el primer Sprint de
 
 | Repository          | Branch | Commit ID                                | Commit Message                     | Commit Message (Body) | Committed on (Date) |
 |---------------------|--------|------------------------------------------|------------------------------------|-----------------------|---------------------|
-| ConnectionLink-Frontend     | main   | 91507dffacabf6415efaa4e663c85756521a9f04 | Initial commit                     | -                     | 01/05/2024          |
-| ConnectionLink-Frontend     | main   | 822c79119c080f39585630ce640ab7ee1c3c692f | feat: Added us-01 acceptance test  | -                     | 01/05/2024          |
-| ConnectionLink-Frontend     | main   | a24f512b364b04682994f111d1d4a9a05fa79f74 | feat: Added us-04 acceptance test  | -                     | 01/05/2024          |
-| ConnectionLink-Frontend     | main   | 00f760dedabd22b97928d7bf36dccf7ebe51cf67 | feat: Added us-05 acceptance test  | -                     | 01/05/2024          |
-| ConnectionLink-Frontend     | main   | 134caed2aea32dee6a049d956466d8580e0b1ab8 | feat: Added us-06 acceptance test  | -                     | 01/05/2024          |
-| ConnectionLink-Frontend     | main   | cd8cc231ff1973cbffd9adec1839191a5d98ea62 | feat: Added us-09 acceptance test  | -                     | 01/05/2024          |
+| ConnectionLink-Frontend     | main   | cea366a8a164c5b2d6287557f9d5f200964ecec6 | Merge branch 'feature/analytics'      | -                     | 01/05/2024          |
+| ConnectionLink-Frontend     | main   | 248bb48d7c8c19e571d55f148c034946dc0ac73f | Merge branch 'feature/calendar'       | -                     | 01/05/2024          |
+| ConnectionLink-Frontend     | main   | 1bba0a40e4dd13f03a7be786469e044d1ae7db38 | Merge branch 'feature/events'         | -                     | 01/05/2024          |
+| ConnectionLink-Frontend     | main   | 2bc1061c7c71414bb81301f22dcd06b7ee396f77 | Merge branch 'feature/forums-thread'  | -                     | 01/05/2024          |
+| ConnectionLink-Frontend     | main   | ed14e1e6f2bfb7b129f58b8c8c4ca2b7d026c4fa | Merge branch 'feature/forums'         | -                     | 01/05/2024          |
+| ConnectionLink-Frontend     | main   | e6a92ee9f26442a2d2b36855fc8b627bb64afc16 | Merge branch 'feature/home'           | -                     | 01/05/2024          |
+| ConnectionLink-Frontend     | main   | da0b54f59174e42b67263d5972ac6cc7c6442d1b | Merge branch 'feature/login'          | -                     | 01/05/2024          |
+| ConnectionLink-Frontend     | main   | cf72c8bb9b9386617dd670e6051ba65973a4ceb6 | Merge branch 'feature/paymoent'       | -                     | 01/05/2024          |
 
 # Conclusiones y recomendaciones.
 
