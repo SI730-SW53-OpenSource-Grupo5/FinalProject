@@ -804,7 +804,30 @@ Se llevaron a cabo pruebas preliminares para verificar la correcta visualizació
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
-<img src="./assets/landingPage-wireframe.png" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+Pagina de Home
+
+<img src="./assets/1.PNG" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+Pagina del Foro
+
+<img src="./assets/2.PNG" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+Pagina del Calendario
+
+<img src="./assets/3.PNG" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+Pagina de los eventos
+
+<img src="./assets/4.PNG" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+Pagina de las analiticas
+
+<img src="./assets/5.PNG" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+Pagina de los mensajes
+
+<img src="./assets/6.PNG" alt="Captura Sprint 1 en Trello" width="100%"><br/>
 
 
 **Enlace a la página:** https://connection-link-landing-page-open-source.vercel.app/
