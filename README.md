@@ -1443,6 +1443,36 @@ Para llevar a cabo los registros de nuestros avances durante el primer Sprint de
 | ConnectionLink-Frontend     | main   | cf72c8bb9b9386617dd670e6051ba65973a4ceb6 | Merge branch 'feature/paymoent'       | -                     | 01/05/2024          |
 
 
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+
+Pagina de Home
+
+<img src="./assets/1.PNG" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+Pagina del Foro
+
+<img src="./assets/2.PNG" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+Pagina del Calendario
+
+<img src="./assets/3.PNG" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+Pagina de los eventos
+
+<img src="./assets/4.PNG" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+Pagina de las analiticas
+
+<img src="./assets/5.PNG" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+Pagina de los mensajes
+
+<img src="./assets/6.PNG" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+
+**Enlace a la página:** https://connection-link-landing-page-open-source.vercel.app/
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 - En el mundo de la programación y el desarrollo web, los endpoints juegan un papel crucial en la comunicación entre el cliente y el servidor. Imagina un endpoint como un punto de entrada específico en una aplicación o servicio web, similar a una puerta de acceso en un edificio con múltiples habitaciones. Cada endpoint está asociado con una ruta única, que generalmente se expresa como una URL. Cuando un cliente, como un navegador web o una aplicación móvil, envía una solicitud a un servidor, especifica el endpoint al que desea acceder. El servidor, a su vez, procesa esa solicitud y responde con la información o la acción correspondiente. Los endpoints actúan como controladores de tráfico, dirigiendo y gestionando las solicitudes de los usuarios hacia las partes relevantes de la aplicación. Cada endpoint puede ofrecer diferentes funcionalidades, desde mostrar información estática hasta realizar operaciones complejas en la base de datos. Al definir y documentar endpoints, los desarrolladores proporcionan una guía clara sobre cómo interactuar con su aplicación. Esto facilita a otros desarrolladores entender cómo integrar su aplicación en la suya, así como a los usuarios comprender qué acciones pueden realizar y cómo hacerlo.
