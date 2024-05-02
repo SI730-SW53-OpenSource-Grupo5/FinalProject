@@ -929,8 +929,6 @@ Reserva de citas gratuita:
 
 **Vista especialistas de salud:**
 
-LinkFigma: https://www.figma.com/file/at7BldTcKVIputFtHq485B/Wireframes-AppWeb?type=design&node-id=48%3A553&mode=design&t=Qz6xmr9ECJ9kfuKH-1 
-
 Home:
 
 <img src="./assets/landing-page/home-nosuscribed.png" alt="Imagen del compañero" style="width:100%"><br/>
@@ -959,6 +957,18 @@ Crear nuevo evento:
 Creacion de nuevo evento exitosa:
 
 <img src="./assets/landing-page/createEventSuccess.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Wireframe Application Web - Mobile view**
+
+</br><img src="./assets/aplicacion-web/userlogin-wireframe-mobile.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+</br><img src="./assets/aplicacion-web/usersuscribed-wireframe-mobile.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+</br><img src="./assets/aplicacion-web/usersuscribed-wireframe-mobile.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+</br><img src="./assets/aplicacion-web/specialist-wireframe-mobile.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+LinkFigma: https://www.figma.com/file/at7BldTcKVIputFtHq485B/Wireframes-AppWeb?type=design&node-id=48%3A553&mode=design&t=Qz6xmr9ECJ9kfuKH-1 
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
@@ -1100,6 +1110,16 @@ Crear nuevo evento:
 Creacion de nuevo evento exitosa:
 
 <img src="./assets/landing-page/createEventSuccess-specialist.png" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Wireframe Application Web - Mobile view**
+
+</br><img src="./assets/aplicacion-web/userlogin-mockup-mobile.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+</br><img src="./assets/aplicacion-web/usersuscribed-mockup-mobile.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+</br><img src="./assets/aplicacion-web/usernotsuscribed-mockup-mobile.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+</br><img src="./assets/aplicacion-web/specialist-mockup-mobile.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
 
 LinkFigma: https://www.figma.com/file/at7BldTcKVIputFtHq485B/Wireframes-AppWeb?type=design&node-id=48%3A553&mode=design&t=Qz6xmr9ECJ9kfuKH-1 
 
@@ -1522,15 +1542,6 @@ Pagina de los mensajes
 | /event     | En esta ruta se muestran detalles específicos sobre un evento en particular.                 |
 | /analytics | En esta ruta se proporciona acceso a análisis y estadísticas relacionadas con la plataforma. |
 
-#### 5.2.2.8. Team Collaboration Insights during Sprint
-- Para llevar a cabo los commits durante nuestro segundo Sprint, empleamos Visual Studio Code junto con Git. Inicialmente, un miembro del equipo realizó el primer commit para establecer el repositorio. Luego, clonamos este repositorio utilizando Git y procedimos a efectuar modificaciones en Visual Studio Code. Para organizar y gestionar estos cambios, creamos ramas específicas y realizamos los commits correspondientes. Posteriormente, estos commits fueron sometidos a revisión en el repositorio de Github. Finalmente, el líder del equipo aprobó los pull requests generados para fusionar los cambios con el repositorio principal.
-Registro de commits en el github
-
-![image](https://github.com/SI730-SW53-OpenSource-Grupo5/FinalProject/assets/114323722/7f2ec05d-4585-454d-9fe2-ad4e8d8b44c8)
-![image](https://github.com/SI730-SW53-OpenSource-Grupo5/FinalProject/assets/114323722/21c31538-73c3-4f29-8a4a-c62ac76bab3d)
-Contribuidores:    
-![image](https://github.com/SI730-SW53-OpenSource-Grupo5/FinalProject/assets/114323722/625e358b-16d1-43cf-b255-85fce0f0ead2)
-![image](https://github.com/SI730-SW53-OpenSource-Grupo5/FinalProject/assets/114323722/13e86bd7-3a9b-4803-9af6-e113adb47129)
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
@@ -1566,7 +1577,6 @@ Para el sprint presentado de la landing page se optó por varias herramientas pa
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 Para llevar a cabo los registros de nuestros avances durante el primer Sprint de desarrollo, empleamos GitHub. Un miembro del equipo inició el proceso con un primer registro para establecer el repositorio y creó muchas ramas para poder trabajar sin interrumpir el avance de otro compañero. Posteriormente, hicimos una copia local del repositorio mediante Git, realizamos las modificaciones en GitHub. Finalmente, completamos el proceso con un registro de los cambios, el cual será examinado en el repositorio de GitHub.
-
 
 * A través de GitHub es donde se registran problemas. La sección de "Issues" en GitHub sirve como un tablero virtual donde los colaboradores registran problemas, errores o mejoras que necesitan ser abordados en un proyecto web. Estas entradas proporcionan una manera estructurada de organizar y priorizar el trabajo, facilitando la comunicación entre los miembros del equipo. 
 
