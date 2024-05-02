@@ -786,17 +786,16 @@ Link del trello: https://trello.com/b/xObDcpU6/sprint-1
 
 #### 5.2.2.3. Development Evidence for Sprint Review.
 
-| Repository              | Branch                   | Commit ID | Commit Message                                                                      | Commit Message Body | Commited On(Date) |
-|-------------------------|--------------------------|-----------|-------------------------------------------------------------------------------------|---------------------|-------------------|
-| ConnectionLink-Frontend | feature/footer           | b28816c   | Update Footer.jsx                                                                   | -                   | 12/04/2024        |
-| ConnectionLink-Frontend | feature/contact          | d429bb8   | Update Contact.jsx                                                                  | -                   | 12/04/2024        |
-| ConnectionLink-Frontend | feature/prices           | 9ad3e6b   | feat: add Prices.jsx                                                                | -                   | 12/04/2024        |
-| ConnectionLink-Frontend | feature/features-section | a624c36   | feat: add FeatureCard Component and Features Component with Tailwind                | -                   | 12/04/2024        |
-| ConnectionLink-Frontend | feature/testimonials     | a16c0c0   | feat: add TestimonialCard Component and Testimonials Component with Tailwind Styles | -                   | 12/04/2024        |
-| ConnectionLink-Frontend | feature/about            | 7e85194   | Update About.jsx                                                                    | -                   | 12/04/2024        |
-| ConnectionLink-Frontend | feature/hero             | 56ab21c   | Update Hero.jsx                                                                     | -                   | 12/04/2024        |
-| ConnectionLink-Frontend | feature/service          | c663461   | feat: Service section added                                                         | -                   | 12/04/2024        |
-| ConnectionLink-Frontend | feature/navbar           | 1d527f8   | feat: Navbar added                                                                  | -                   | 12/04/2024        |
+| Repository              | Branch                     | Commit ID | Commit Message                                                 | Commit Message Body | Commited On(Date) |
+|-------------------------|----------------------------|-----------|----------------------------------------------------------------|---------------------|-------------------|
+| ConnectionLink-Frontend | feature/calendar           | 9f3f1e1   | feat: calendar component added                                 | -                   | 01/05/2024        |
+| ConnectionLink-Frontend | feature/events             | 1bba0a4   | update: responsive event component                             | -                   | 01/05/2024        |
+| ConnectionLink-Frontend | feature/payment            | cf72c8b   | Add files via upload                                           | -                   | 01/05/2024        |
+| ConnectionLink-Frontend | feature/analytics          | cea366a   | feat: analytics component added without data                   | -                   | 01/05/2024        |
+| ConnectionLink-Frontend | feature/specialist-profile | 6160b9e   | feat: add extra configurations                                 | -                   | 01/05/2024        |
+| ConnectionLink-Frontend | feature/home               | 50e024c   | Update home                                                    | -                   | 01/05/2024        |
+| ConnectionLink-Frontend | feature/forums             | 7add9b1   | feat: refresh button clean inputs and add styles to containers | -                   | 01/05/2024        |
+| ConnectionLink-Frontend | feature/specialist-inbox   | ed2da55   | feature(inbox)                                                 | -                   | 01/05/2024        |
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 
