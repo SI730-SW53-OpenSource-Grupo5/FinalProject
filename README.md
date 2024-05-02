@@ -748,6 +748,96 @@ Para llevar a cabo los registros de nuestros avances durante el primer Sprint de
 
 <img src="./assets/commitsProject.jpg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
 
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2.
+
+| Sprint 2                   | Correción de errores de la landing page e implementación  del frontend y fake API de la web application                                                                                                |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background |                                                                                                                                                                                                        |
+| Date                       | 28/04/2024                                                                                                                                                                                             |
+| Time                       | 20:00                                                                                                                                                                                                  |
+| Location                   | Reunión realizada mediante Discord                                                                                                                                                                     |
+| Prepared By                | Esteban Garcia, Nicolas Sebastian                                                                                                                                                                      |
+| Attendees                  | Justo Yauricasa, Alexander Paolo / Burga Loarte, Anaely Zarely /<br/> Dioses Molina, Djalma Santos / Esteban Garcia, Nicolas Sebastian <br/> Príncipe Godoy, Johan / Torrejon Navarro, Braulio Rodrigo |
+| Sprint Goal & User Stories |                                                                                                                                                                                                        |
+| Sprint 2 Goal              | Implementación de frontend y fake api                                                                                                                                                                  |
+| Sprint 2 Velocity          | 45                                                                                                                                                                                                     |
+| Sum of Story Points        | 41                                                                                                                                                                                                     |
+
+#### 5.2.2.2. Sprint Backlog 2.
+
+| Id   | Title            | Id   | Title                           | Description                                                                           | Estimations (Hours) | Assigned To                       | Status |
+|------|------------------|------|---------------------------------|---------------------------------------------------------------------------------------|---------------------|-----------------------------------|--------|
+| CC01 | Testimonials     | C01  | Sección Testimonials responsive | Desarrollo e implementación de los estilos que corresponden a la sección Testimonials | 3                   | Dioses Molina, Djalma Santos      | Done   |
+| CC02 | Features         | C02  | Sección Features responsive     | Desarrollo e implementación de los estilos que corresponden a la sección Features     | 3                   | Dioses Molina, Djalma Santos      | Done   |
+| CC03 | Button component | C03  | Button Design responsive        | Desarrollo e implementación de los estilos que corresponden al Button                 | 2                   | Esteban Garcia, Nicolas Sebastian | Done   |
+| CC04 | Navbar component | C04  | Sección Navbar responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Navbar       | 3                   | Esteban Garcia, Nicolas Sebastian | Done   |
+| CC05 | Contact          | C05  | Sección Contact responsive      | Desarrollo e implementación de los estilos que corresponden a la sección Contact      | 3                   | Justo Yauricasa, Alexander Paolo  | Done   |
+| CC06 | Footer           | C06  | Sección Footer responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Footer       | 2                   | Justo Yauricasa, Alexander Paolo  | Done   |
+| CC07 | Hero             | C07  | Sección Hero responsive         | Desarrollo e implementación de los estilos que corresponden a la sección Hero         | 4                   | Torrejon Navarro, Braulio Rodrigo | Done   |
+| CC08 | About            | C08  | Sección About responsive        | Desarrollo e implementación de los estilos que corresponden a la sección About        | 3                   | Torrejon Navarro, Braulio Rodrigo | Done   |
+| CC09 | Service          | C09  | Sección Service responsive      | Desarrollo e implementación de los estilos que corresponden a la sección Service      | 2                   | Príncipe Godoy, Johan             | Done   |
+| CC10 | Prices           | C010 | Sección Prices responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Prices       | 2                   | Burga Loarte, Anaely Zarely       | Done   |
+
+<img src="./assets/Sprint1_Trello.png" alt="Captura Sprint 1 en Trello" width="80%">
+
+Link del trello: https://trello.com/b/xObDcpU6/sprint-1
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+| Repository                 | Branch                   | Commit ID | Commit Message                                                                      | Commit Message Body | Commited On(Date) |
+|----------------------------|--------------------------|-----------|-------------------------------------------------------------------------------------|---------------------|-------------------|
+| LandingPage-ConnectionLink | feature/footer           | b28816c   | Update Footer.jsx                                                                   | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/contact          | d429bb8   | Update Contact.jsx                                                                  | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/prices           | 9ad3e6b   | feat: add Prices.jsx                                                                | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/features-section | a624c36   | feat: add FeatureCard Component and Features Component with Tailwind                | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/testimonials     | a16c0c0   | feat: add TestimonialCard Component and Testimonials Component with Tailwind Styles | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/about            | 7e85194   | Update About.jsx                                                                    | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/hero             | 56ab21c   | Update Hero.jsx                                                                     | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/service          | c663461   | feat: Service section added                                                         | -                   | 12/04/2024        |
+| LandingPage-ConnectionLink | feature/navbar           | 1d527f8   | feat: Navbar added                                                                  | -                   | 12/04/2024        |
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+Se llevaron a cabo pruebas preliminares para verificar la correcta visualización y funcionamiento de la landing page en diferentes dispositivos y navegadores.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+<img src="./assets/landingPage-wireframe.png" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+
+**Enlace a la página:** https://connection-link-landing-page-open-source.vercel.app/
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+En este primer Sprint nos enfocamos únicamente en crear el landing page, sin necesidad de utilizar servicios extra.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
+
+* Git: Se utilizó para el control de versiones del código fuente.
+* GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
+* GitHub: Se utilizó para crear el repositorio de la landing page, donde se subió el código fuente.
+* Vercel: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular directamente con el repositorio de GitHub.
+
+<br/><img src="./assets/deployVercelCongrats.jpeg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+Luego de hacer la configuracion respectiva, se desplegó la landing page sin problemas.
+
+<img src="./assets/deployVercelLandin.jpeg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+Para llevar a cabo los registros de nuestros avances durante el primer Sprint de desarrollo, empleamos GitHub. Un miembro del equipo inició el proceso con un primer registro para establecer el repositorio y creó muchas ramas para poder trabajar sin interrumpir el avance de otro compañero. Posteriormente, hicimos una copia local del repositorio mediante Git, realizamos las modificaciones en GitHub. Finalmente, completamos el proceso con un registro de los cambios, el cual será examinado en el repositorio de GitHub.
+
+<br/><img src="./assets/IssuesGithub.jpg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+<img src="./assets/networkGraph.jpg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+<img src="./assets/commitsProject.jpg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
 
 ## 5.3. Validation Interviews.
 
