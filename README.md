@@ -151,11 +151,20 @@
 [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)  
 [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)  
 [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)  
-[5.2.1.4. Testing Suite Evidence for Sprint Review](#52x4-testing-suite-evidence-for-sprint-review)  
-[5.2.1.5. Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)  
-[5.2.1.6. Services Documentation Evidence for Sprint Review](#52x6-services-documentation-evidence-for-sprint-review)  
-[5.2.1.7. Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)  
-[5.2.1.8. Team Collaboration Insights during Sprint](#52x8-team-collaboration-insights-during-sprint)
+[5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)  
+[5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)  
+[5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)  
+[5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)  
+[5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+[5.2.2. Sprint 2 ](#522-sprint-2)  
+[5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)  
+[5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)  
+[5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)  
+[5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)  
+[5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)  
+[5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)  
+[5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)  
+[5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
 [5.3. Validation Interviews](#53-validation-interviews)  
 [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)  
@@ -1411,7 +1420,22 @@ Para llevar a cabo los registros de nuestros avances durante el primer Sprint de
 
 
 ### 5.2.2. Sprint 2
-#### 5.2.2.1 Sprint Backlog
+#### 5.2.2.1. Sprint Planning 2
+
+| Sprint 2                   | Correción de errores de la landing page e implementación  del frontend y fake API de la web application                                                                                                |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background |                                                                                                                                                                                                        |
+| Date                       | 28/04/2024                                                                                                                                                                                             |
+| Time                       | 20:00                                                                                                                                                                                                  |
+| Location                   | Reunión realizada mediante Discord                                                                                                                                                                     |
+| Prepared By                | Esteban Garcia, Nicolas Sebastian                                                                                                                                                                      |
+| Attendees                  | Justo Yauricasa, Alexander Paolo / Burga Loarte, Anaely Zarely /<br/> Dioses Molina, Djalma Santos / Esteban Garcia, Nicolas Sebastian <br/> Príncipe Godoy, Johan / Torrejon Navarro, Braulio Rodrigo |
+| Sprint Goal & User Stories |                                                                                                                                                                                                        |
+| Sprint 2 Goal              | Implementación de frontend y fake api                                                                                                                                                                  |
+| Sprint 2 Velocity          | 45                                                                                                                                                                                                     |
+| Sum of Story Points        | 41                                                                                                                                                                                                     |
+
+#### 5.2.2.2 Sprint Backlog 2
 
 | User Story |  | Work-Item/Task |  |  |  |  |
 |------------|----------------|-------------|--------------------------------|-----------|------------------|--------|
@@ -1428,6 +1452,18 @@ Para llevar a cabo los registros de nuestros avances durante el primer Sprint de
 | HU36       | Filtrado de Hilos por Popularidad  	 | W210        | Crear funcionalidad de filtrado | Implementacion de funcionalidad que permite filtrar los hilos segun su popularidad en el foro. | 3 horas | Nicolas | Done   |
 | HU37       | Filtrado de Hilos por Categoría 	 | W211        | Crear funcionalidad de filtrado | Implementacion de funcionalidad que permite filtrar los hilos segun la categoria.  | 3 horas | Nicolas | Done   |
 
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+| Repository              | Branch                     | Commit ID | Commit Message                                                 | Commit Message Body | Commited On(Date) |
+|-------------------------|----------------------------|-----------|----------------------------------------------------------------|---------------------|-------------------|
+| ConnectionLink-Frontend | feature/calendar           | 9f3f1e1   | feat: calendar component added                                 | -                   | 01/05/2024        |
+| ConnectionLink-Frontend | feature/events             | 1bba0a4   | update: responsive event component                             | -                   | 01/05/2024        |
+| ConnectionLink-Frontend | feature/payment            | cf72c8b   | Add files via upload                                           | -                   | 01/05/2024        |
+| ConnectionLink-Frontend | feature/analytics          | cea366a   | feat: analytics component added without data                   | -                   | 01/05/2024        |
+| ConnectionLink-Frontend | feature/specialist-profile | 6160b9e   | feat: add extra configurations                                 | -                   | 01/05/2024        |
+| ConnectionLink-Frontend | feature/home               | 50e024c   | Update home                                                    | -                   | 01/05/2024        |
+| ConnectionLink-Frontend | feature/forums             | 7add9b1   | feat: refresh button clean inputs and add styles to containers | -                   | 01/05/2024        |
+| ConnectionLink-Frontend | feature/specialist-inbox   | ed2da55   | feature(inbox)                                                 | -                   | 01/05/2024        |
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 
@@ -1477,15 +1513,13 @@ Pagina de los mensajes
 
 - En el mundo de la programación y el desarrollo web, los endpoints juegan un papel crucial en la comunicación entre el cliente y el servidor. Imagina un endpoint como un punto de entrada específico en una aplicación o servicio web, similar a una puerta de acceso en un edificio con múltiples habitaciones. Cada endpoint está asociado con una ruta única, que generalmente se expresa como una URL. Cuando un cliente, como un navegador web o una aplicación móvil, envía una solicitud a un servidor, especifica el endpoint al que desea acceder. El servidor, a su vez, procesa esa solicitud y responde con la información o la acción correspondiente. Los endpoints actúan como controladores de tráfico, dirigiendo y gestionando las solicitudes de los usuarios hacia las partes relevantes de la aplicación. Cada endpoint puede ofrecer diferentes funcionalidades, desde mostrar información estática hasta realizar operaciones complejas en la base de datos. Al definir y documentar endpoints, los desarrolladores proporcionan una guía clara sobre cómo interactuar con su aplicación. Esto facilita a otros desarrolladores entender cómo integrar su aplicación en la suya, así como a los usuarios comprender qué acciones pueden realizar y cómo hacerlo.
   
-| Endpoint   | Detalles                                                                                          |
-|------------|--------------------------------------------------------------------------------------------------|
-| /home      | En esta ruta se muestra la primera vista del servicio.                                            |
-| /forums    | En esta ruta se muestran los foros donde los usuarios pueden discutir diversos temas.             |
-| /calendar  | En esta ruta se muestra el calendario con eventos y actividades programadas.                        |
-| /event     | En esta ruta se muestran detalles específicos sobre un evento en particular.                        |
-| /analytics | En esta ruta se proporciona acceso a análisis y estadísticas relacionadas con la plataforma.       |
-
-#### 5.2.2.8. Team Collaboration Insights during Sprint
+| Endpoint   | Detalles                                                                                     |
+|------------|----------------------------------------------------------------------------------------------|
+| /home      | En esta ruta se muestra la primera vista del servicio.                                       |
+| /forums    | En esta ruta se muestran los foros donde los usuarios pueden discutir diversos temas.        |
+| /calendar  | En esta ruta se muestra el calendario con eventos y actividades programadas.                 |
+| /event     | En esta ruta se muestran detalles específicos sobre un evento en particular.                 |
+| /analytics | En esta ruta se proporciona acceso a análisis y estadísticas relacionadas con la plataforma. |
 
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
