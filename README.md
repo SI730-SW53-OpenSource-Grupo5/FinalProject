@@ -1454,10 +1454,43 @@ Para el sprint presentado de la landing page se optó por varias herramientas pa
 * Angular: Es un framework para aplicaciones web basado en Typesrcipt, de codigo abierto, actualmente mantenido por Google, que se utiliza para crear aplicaciones web se una sola pagina como enfoque principal (SPA), para este caso utilizamos la version Angular 17, la ultima version, la cual trabaja con standalones. https://angular.io/
 * Webstorm: Es un entorno de desarrollo que nos permitirá trabajar con Javascript / Typescript y desarrollar la aplicacion web. https://www.jetbrains.com/es-es/webstorm/learn/
 
-Despliegue del proyecto a nivel Frontend
-* Creacion de cuenta en vercel con el nombre de la organizacion correspondiente
+<h4>Despliegue del proyecto a nivel Frontend</h4>
 
-<img src="./assets/aplicacion-web/evidencia-1.jpeg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+* Creacion de cuenta en vercel con el nombre de la organizacion correspondiente  
+
+<br/><img src="./assets/aplicacion-web/evidencia-1.jpeg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+* Importacion de nuestro proyecto de Angular de Github y configuración del despliegue
+  
+<br/><img src="./assets/aplicacion-web/evidencia-2.jpeg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+* Luego de realizado la acción, Vercel comenzara automaticamente el proceso de construccion y despliegue de la aplicacion web.
+
+<br/><img src="./assets/aplicacion-web/evidencia-4.jpeg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+* Una vez finalizado la configuracion y creado nuestro equipo de trabajo con el nombre de nuestra Startup tenemos una vista donde podemos administrar los deployments realizados por Vercel
+
+<br/><img src="./assets/aplicacion-web/evidencia-3.jpeg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+**URL DEL PROYECTO DESPLEGADO:** connection-link-frontend.vercel.app
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+Para llevar a cabo los registros de nuestros avances durante el primer Sprint de desarrollo, empleamos GitHub. Un miembro del equipo inició el proceso con un primer registro para establecer el repositorio y creó muchas ramas para poder trabajar sin interrumpir el avance de otro compañero. Posteriormente, hicimos una copia local del repositorio mediante Git, realizamos las modificaciones en GitHub. Finalmente, completamos el proceso con un registro de los cambios, el cual será examinado en el repositorio de GitHub.
+
+
+* A través de GitHub es donde se registran problemas. La sección de "Issues" en GitHub sirve como un tablero virtual donde los colaboradores registran problemas, errores o mejoras que necesitan ser abordados en un proyecto web. Estas entradas proporcionan una manera estructurada de organizar y priorizar el trabajo, facilitando la comunicación entre los miembros del equipo. 
+
+<br/><img src="./assets/aplicacion-web/issues-appweb.jpeg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+*  Este gráfico proporciona una visión general de la historia del desarrollo del proyecto, permitiendo a los colaboradores rastrear la evolución del código y facilitando la identificación de posibles conflictos o áreas de colaboración.
+
+<br/><img src="./assets/aplicacion-web/networkgraph-appweb.jpeg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+* La zona de "Contributors" en GitHub ofrece una visión general de las personas que han contribuido al proyecto. Enumera a los colaboradores principales y muestra la cantidad de contribuciones que han realizado, como commits y líneas de código agregadas o eliminadas.
+
+<br/><img src="./assets/aplicacion-web/contributors-appweb.jpeg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
 
 # Conclusiones y recomendaciones.
 
