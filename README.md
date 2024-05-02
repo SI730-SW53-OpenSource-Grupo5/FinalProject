@@ -1442,6 +1442,23 @@ Para llevar a cabo los registros de nuestros avances durante el primer Sprint de
 | ConnectionLink-Frontend     | main   | da0b54f59174e42b67263d5972ac6cc7c6442d1b | Merge branch 'feature/login'          | -                     | 01/05/2024          |
 | ConnectionLink-Frontend     | main   | cf72c8bb9b9386617dd670e6051ba65973a4ceb6 | Merge branch 'feature/paymoent'       | -                     | 01/05/2024          |
 
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
+
+* Git: Se utilizó para el control de versiones del código fuente.
+* GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
+* GitHub: Se utilizó para crear el repositorio de la landing page, donde se subió el código fuente.
+* Vercel: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular directamente con el repositorio de GitHub.
+* Angular Material: Libreria de Angular que funciona como una cpaa frontend para desarrollar aplicaciones de una manera rapida, flexible y de fácil implementación. Contiene una gran variedad de componentes de interfaz de usuario lo que ayuda a diseñar una aplicación mas estructurada https://material.angular.io/
+* Angular: Es un framework para aplicaciones web basado en Typesrcipt, de codigo abierto, actualmente mantenido por Google, que se utiliza para crear aplicaciones web se una sola pagina como enfoque principal (SPA), para este caso utilizamos la version Angular 17, la ultima version, la cual trabaja con standalones. https://angular.io/
+* Webstorm: Es un entorno de desarrollo que nos permitirá trabajar con Javascript / Typescript y desarrollar la aplicacion web. https://www.jetbrains.com/es-es/webstorm/learn/
+
+Despliegue del proyecto a nivel Frontend
+* Creacion de cuenta en vercel con el nombre de la organizacion correspondiente
+
+<img src="./assets/aplicacion-web/evidencia-1.jpeg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
 # Conclusiones y recomendaciones.
 
 Experiencia en integración de funcionalidades interactivas: Durante el desarrollo de la aplicación web, obtuvimos experiencia en la integración de funcionalidades interactivas, como formularios de registro personalizados.
