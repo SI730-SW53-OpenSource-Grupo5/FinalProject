@@ -1358,6 +1358,16 @@ Para llevar a cabo los registros de nuestros avances durante el primer Sprint de
 
 <img src="./assets/commitsProject.jpg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
 
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+| Repository          | Branch | Commit ID                                | Commit Message                     | Commit Message (Body) | Committed on (Date) |
+|---------------------|--------|------------------------------------------|------------------------------------|-----------------------|---------------------|
+| ConnectionLink-Frontend     | main   | 91507dffacabf6415efaa4e663c85756521a9f04 | Initial commit                     | -                     | 01/05/2024          |
+| ConnectionLink-Frontend     | main   | 822c79119c080f39585630ce640ab7ee1c3c692f | feat: Added us-01 acceptance test  | -                     | 01/05/2024          |
+| ConnectionLink-Frontend     | main   | a24f512b364b04682994f111d1d4a9a05fa79f74 | feat: Added us-04 acceptance test  | -                     | 01/05/2024          |
+| ConnectionLink-Frontend     | main   | 00f760dedabd22b97928d7bf36dccf7ebe51cf67 | feat: Added us-05 acceptance test  | -                     | 01/05/2024          |
+| ConnectionLink-Frontend     | main   | 134caed2aea32dee6a049d956466d8580e0b1ab8 | feat: Added us-06 acceptance test  | -                     | 01/05/2024          |
+| ConnectionLink-Frontend     | main   | cd8cc231ff1973cbffd9adec1839191a5d98ea62 | feat: Added us-09 acceptance test  | -                     | 01/05/2024          |
 
 # Conclusiones y recomendaciones.
 
