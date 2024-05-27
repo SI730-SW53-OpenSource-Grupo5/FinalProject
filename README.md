@@ -1590,6 +1590,67 @@ Para llevar a cabo los registros de nuestros avances durante el primer Sprint de
 
 <br/><img src="./assets/aplicacion-web/contributors-appweb.jpeg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+| Sprint # | Sprint 3     |
+|--------------------------|------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**  |                                                                                                 |
+| Date                     | 2024-01-24                                                                                     |
+| Time                     | 06:00 PM                                                                                    |
+| Location                 | REUNION VIRTUAL MEDIANTE DISCORD                                                                    |
+| Prepared By              | Jara Benites Quique Vladimir / Herrera Aguirre Fabia Alejandra / Rodriguez Vargas Arian Martin / Ramirez Ramirez Marcelo Sebastian / Ramirez Conteras Zaid Valentino / Rubio Calixto Adrian Gustavo                                                                   |
+| Attendees (to planning meeting) | Jara Benites Quique Vladimir / Herrera Aguirre Fabia Alejandra / Rodriguez Vargas Arian Martin / Ramirez Ramirez Marcelo Sebastian / Ramirez Conteras Zaid Valentino / Rubio Calixto Adrian Gustavo                       |
+| **Pre-Sprint Review Summary**      | Durante esta fase de preparación, hemos identificado las opearciones que se realizarán en el backend mediante la RESTful api, hemos definido las herramientas para el desarrollo y hemos establecido un protocolo de comunicación interna. También hemos realizado varias reuniones de planificación para determinar las prioridades del producto, crear un backlog y distribuir roles dentro del equipo. |
+| **Initial Sprint  Retrospective Summary** | En este tercer sprint se ha reflexionado acerca de las correcciones hechas en el sprint anterior por lo que se mejorará algunos de esos aspectos para mantener la mejora continua, además de planificar la RESTful api y el comportamiento del backend con la vista. |
+| **Sprint Goal & User Stories** |    |
+| Sprint 3 Goal             | El objetivo del sprint 3 es enfocarse en desarrollar el backend de nuestra aplicación web para que el front pueda realizar las transacciones de datos de nuestra base de datos con la vista y el usuario y este pueda interactuar con ello. |
+| Sprint 3 Velocity         | Basado en la capacidad del equipo y el rendimiento, la velocidad estimada para el tercer Sprint se establece en __ Story Points. Esto se calcula tomando en cuenta las horas de trabajo disponibles del equipo, así como la complejidad y el esfuerzo estimado de las User Stories seleccionadas para este Sprint. |
+| Sum of Story Points       |  |
+
+#### 5.2.3.2. Sprint Backlog 3
+#### 5.2.3.3. Development Evidence for Sprint Review
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+#### 5.2.3.5. Execution Evidence for Sprint Review
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+## 5.3. Validation Interviews
+### 5.3.1. Diseño de Entrevistas
+Una vez terminada la parte visual de nuestra aplicación (FrontEnd) y conectada a los servicios web desplegados (BackEnd), se considera una segunda parte de entrevistas, en la cual se busca validar la experiencia de usuario y la funcionalidad de la aplicación. Para ello, se plantean las siguientes preguntas:
+
+**Preguntas a empresas que necesitan soporte técnico:**
+1.	¿Qué opinion tiene con respecto al diseño?
+2.	¿Se le realiza de manera intituiva y fácil la aplicación?
+3.	¿Cómo se siente en la parte de navegación, le es fácil ir de una vista a otra?
+4.	¿Las vistas abarcan todo lo deseado para manejar sus servicios contratados?
+5.	¿Cuál cree que es el punto fuerte de la aplicación?
+6.	¿Cómo crees que te puede beneficiar la plataforma?
+7.	¿La aplicación contiene toda la información que se consulta a través de los diferentes botones?
+8.	¿Estaría dispuesto a suscribirse al plan de OfficeTech?
+
+   
+**Preguntas a profesionales en tecnología:**
+1.	¿Qué opinion tiene con respecto al diseño?
+2.	¿Se le realiza de manera intituiva y fácil la aplicación?
+3.	¿Cómo se siente en la parte de navegación, le es fácil ir de una vista a otra?
+4.	¿Las vistas abarcan todo lo deseado para manejar sus servicios disponibles para que las empresas lo puedan contratar?
+5.	¿Qué opinión tiene con respecto a subir uno de sus servicios en nuestra plataforma?
+6.	¿Cree que se hará fácil conseguir trabajo gracias a nuestra plataforma?
+7.	¿Qué opinión tiene con respecto a la sección de foro?
+8.	¿Estaría dispuesto a registrarse a OfficeTech?
+
+### 5.3.2. Registro de Entrevistas
+### 5.3.3. Evaluaciones según heurísticas
+Con base a las diversas opiniones en las entrevistas realizadas, tanto clientes de empresas como técnicos afiliados se obtiene que:
+- La aplicación es intuitiva y fácil de usar.
+- La navegación es sencilla y permite ir de una vista a otra sin problemas.
+- Las vistas contienen toda la información necesaria para manejar los servicios contratados.
+- La aplicación es beneficiosa para las empresas y los técnicos, ya que facilita la contratación y prestación de servicios.
+- La sección de foro es un punto fuerte de la aplicación, ya que permite la interacción y resolución de dudas entre los usuarios.
+- La información contenida en la aplicación es clara y completa.
+- La mayoría de los entrevistados estarían dispuestos a suscribirse o registrarse en OfficeTech.
+## 5.4. Video About-the-Product
 
 # Conclusiones y recomendaciones.
 
