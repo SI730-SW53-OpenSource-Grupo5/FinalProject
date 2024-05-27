@@ -1598,8 +1598,8 @@ Para llevar a cabo los registros de nuestros avances durante el primer Sprint de
 | Date                     | 2024-01-24                                                                                     |
 | Time                     | 06:00 PM                                                                                    |
 | Location                 | REUNION VIRTUAL MEDIANTE DISCORD                                                                    |
-| Prepared By              | Jara Benites Quique Vladimir / Herrera Aguirre Fabia Alejandra / Rodriguez Vargas Arian Martin / Ramirez Ramirez Marcelo Sebastian / Ramirez Conteras Zaid Valentino / Rubio Calixto Adrian Gustavo                                                                   |
-| Attendees (to planning meeting) | Jara Benites Quique Vladimir / Herrera Aguirre Fabia Alejandra / Rodriguez Vargas Arian Martin / Ramirez Ramirez Marcelo Sebastian / Ramirez Conteras Zaid Valentino / Rubio Calixto Adrian Gustavo                       |
+| Prepared By              | Nicolas Sebastian Esteban Garcia
+| Attendees (to planning meeting) | Alexander Paolo Justo Yauricasa / Burga loarte Anaely Zarely / Djalma Santos Dioses Molina / Nicolas Sebastian Esteban Garcia / Johan Príncipe Godoy / Torrejon Navarro Braulio Rodrigo             |
 | **Pre-Sprint Review Summary**      | Durante esta fase de preparación, hemos identificado las opearciones que se realizarán en el backend mediante la RESTful api, hemos definido las herramientas para el desarrollo y hemos establecido un protocolo de comunicación interna. También hemos realizado varias reuniones de planificación para determinar las prioridades del producto, crear un backlog y distribuir roles dentro del equipo. |
 | **Initial Sprint  Retrospective Summary** | En este tercer sprint se ha reflexionado acerca de las correcciones hechas en el sprint anterior por lo que se mejorará algunos de esos aspectos para mantener la mejora continua, además de planificar la RESTful api y el comportamiento del backend con la vista. |
 | **Sprint Goal & User Stories** |    |
