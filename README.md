@@ -1608,6 +1608,22 @@ Para llevar a cabo los registros de nuestros avances durante el primer Sprint de
 | Sum of Story Points       |  |
 
 #### 5.2.3.2. Sprint Backlog 3
+
+| User Story |  | Work-Item/Task |  |  |  |  |
+|------------|----------------|-------------|--------------------------------|-----------|------------------|--------|
+| ID         | Title          | ID          | Title                          | Description                     | Estimation | Assigned To      | Status |
+| HU07       | Interacción con Hilos 	 | W201       | Crear el componente de hilo  | Creación del componente que permita visualizar informacion mas especifica de cada hilo e implementacion del service y model. | 3 horas | Nicolas | Done   |
+| HU13       | Calendario de Eventos 	 | W202     | Crear el componente de calendario  | Creación de componentes que permiten visualizar el calendario con los eventos a los que asistira un usuario o specialista e implementacion del service y model. | 3 horas | Johan | Done   |
+| HU15       | Reserva de Citas Privadas 	 | W203     | Crear el componente de cita | Creación del componente que permite agendar una cita privada en el perfil del especialista, e implementacion del service y model. | 3 horas | Djalma | Done   |
+| HU19       | Suscripción a Planes de Pago 	 | W204        | Crear el componente de suscripcion | Creacion del componente que permite a los usuarios pagar una suscripcion. | 3 horas | Alexander | Done   |
+| HU21      | Mensajería entre Usuarios y Especialistas 	 | W205        | Crear el componente de mensajeria | Creacion del componente que permite visualizar todas las conversaciones de un usuario o un especialista, implementacion de model y service.| 3 horas | Braulio | Done   |
+| HU32       | Visualización de Todos los Hilos 	 | W206       | Crear el componente de listado de hilos | Creacion del componente para visualizar hilos en el foro e implementacion de model y service. | 3 horas | Nicolas y Anaely | Done   |
+| HU33       | Visualización de Perfil de Especialista	 | W207        | Crear el componente de perfil de especialista | Creacion del componente que permite visualizar el perfil de un especialista e implementación de model y service. | 3 horas | Djalma | Done   |
+| HU34       | Visualización de Todos los Eventos 	 | W208       | Crear el componente de evento | Creación del componente que permite visualizar los eventos disponibles en la plataforma | 3 horas | Nicolas | Done   |
+| HU35       | Filtrado de Eventos por Tipo (Premium/Free) 	 | W209        | Crear funcionalidad de filtrado | Implementacion de funcionalidad que permite filtrar los eventos segun el tipo de evento. | 3 horas | Nicolas | Done   |
+| HU36       | Filtrado de Hilos por Popularidad  	 | W210        | Crear funcionalidad de filtrado | Implementacion de funcionalidad que permite filtrar los hilos segun su popularidad en el foro. | 3 horas | Nicolas | Done   |
+| HU37       | Filtrado de Hilos por Categoría 	 | W211        | Crear funcionalidad de filtrado | Implementacion de funcionalidad que permite filtrar los hilos segun la categoria.  | 3 horas | Nicolas | Done   |
+
 #### 5.2.3.3. Development Evidence for Sprint Review
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 #### 5.2.3.5. Execution Evidence for Sprint Review
@@ -1617,7 +1633,7 @@ Para llevar a cabo los registros de nuestros avances durante el primer Sprint de
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
-Una vez terminada la parte visual de nuestra aplicación (FrontEnd) y conectada a los servicios web desplegados (BackEnd), se considera una segunda parte de entrevistas, en la cual se busca validar la experiencia de usuario y la funcionalidad de la aplicación. Para ello, se plantean las siguientes preguntas:
+Tras finalizar el desarrollo del FrontEnd y su integración con los servicios web (BackEnd) desplegados, procederemos a una segunda fase de entrevistas. El objetivo es validar la experiencia de usuario y la funcionalidad de la aplicación. Para ello, se proponen las siguientes preguntas:
 
 **Preguntas a empresas que necesitan soporte técnico:**
 1.	¿Qué opinion tiene con respecto al diseño?
@@ -1627,7 +1643,7 @@ Una vez terminada la parte visual de nuestra aplicación (FrontEnd) y conectada 
 5.	¿Cuál cree que es el punto fuerte de la aplicación?
 6.	¿Cómo crees que te puede beneficiar la plataforma?
 7.	¿La aplicación contiene toda la información que se consulta a través de los diferentes botones?
-8.	¿Estaría dispuesto a suscribirse al plan de OfficeTech?
+8.	¿Estaría dispuesto a suscribirse al plan de ConnectionLink?
 
    
 **Preguntas a profesionales en tecnología:**
@@ -1638,7 +1654,7 @@ Una vez terminada la parte visual de nuestra aplicación (FrontEnd) y conectada 
 5.	¿Qué opinión tiene con respecto a subir uno de sus servicios en nuestra plataforma?
 6.	¿Cree que se hará fácil conseguir trabajo gracias a nuestra plataforma?
 7.	¿Qué opinión tiene con respecto a la sección de foro?
-8.	¿Estaría dispuesto a registrarse a OfficeTech?
+8.	¿Estaría dispuesto a registrarse a ConnectionLink?
 
 ### 5.3.2. Registro de Entrevistas
 ### 5.3.3. Evaluaciones según heurísticas
