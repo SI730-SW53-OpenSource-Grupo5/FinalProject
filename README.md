@@ -489,11 +489,25 @@ En resumen, ambos entrevistados están de acuerdo en brindar ayuda emocional de 
 
 ## 2.4. Ubiquitous Language.
 
-```
-Texto ubiquo: Definicion de este
-```
-
----
+- Mental Health Specialist (Especialista en Salud Mental): Profesional de salud mental que ofrece servicios dentro de la plataforma.
+- User (Usuario): Persona que utiliza la aplicación para buscar ayuda y apoyo emocional.
+- Forum (Foro): Espacio dentro de la aplicación donde los usuarios pueden discutir sus problemas y recibir consejos.
+- Workshop (Taller): Evento organizado por especialistas para enseñar técnicas y ofrecer apoyo emocional.
+- Subscription Plan (Plan de Suscripción): Modelo de pago que ofrece acceso a beneficios adicionales en la aplicación.
+- Emotional Health Analysis (Análisis de Salud Emocional): Evaluación detallada del estado emocional del usuario.
+- Appointment (Cita): Sesión reservada con un especialista en salud mental.
+- Specialist Profile (Perfil del Especialista): Información sobre un especialista disponible en la aplicación.
+- User Reviews (Reseñas de Usuarios): Opiniones de los usuarios sobre los especialistas y sus servicios.
+- Community Forum (Foro de la Comunidad): Plataforma donde los usuarios interactúan con otros que tienen problemas similares.
+- Event Registration (Inscripción a Eventos): Proceso de registro para participar en talleres y eventos.
+- Free Events (Eventos Gratuitos): Talleres y actividades sin costo organizados por especialistas.
+- Exclusive Events (Eventos Exclusivos): Actividades disponibles solo para usuarios suscritos.
+- User Accessibility (Accesibilidad para Usuarios): Facilidad con la que los usuarios pueden utilizar la plataforma.
+- Intuitive Interface (Interfaz Intuitiva): Diseño de la aplicación que facilita su uso.
+- Quality Service (Servicio de Calidad): Nivel de excelencia en la atención y soporte ofrecido a los usuarios.
+- Personal Data Validation (Validación de Datos Personales): Proceso para asegurar la autenticidad de la información de los especialistas.
+- User Rating (Calificación de Usuarios): Evaluación de los especialistas basada en la experiencia de los usuarios.
+- Event Participation (Participación en Eventos): Acto de asistir y participar en talleres y actividades ofrecidas por la plataforma.
 
 # Capítulo III: Requirements Specification
 
