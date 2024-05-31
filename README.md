@@ -1206,14 +1206,14 @@ La clase User representa a los usuarios regulares del sistema. Estos usuarios pu
 **Specialist:** <br>
 La clase Specialist representa a los profesionales de la salud mental que ofrecen sus servicios en la plataforma. Estos especialistas pueden iniciar sesión en el sistema, listar los eventos que organizan, ver las citas programadas con sus pacientes y acceder a los perfiles de los pacientes. Además, pueden participar en comunidades para brindar apoyo y asesoramiento a los usuarios regulares en temas relacionados con la salud mental.
 
-**Community:** <br>
-La clase Comunidad representa grupos de usuarios que se reúnen en la plataforma para discutir temas relacionados con la salud mental, compartir experiencias y brindarse apoyo mutuo. Los usuarios regulares pueden unirse a estas comunidades para conectarse con otros usuarios, buscar apoyo emocional y participar en discusiones grupales. Los especialistas también pueden participar en comunidades para ofrecer asesoramiento y orientación a los usuarios en busca de ayuda.
+**Post:** <br>
+Un Post es una publicación realizada en el foro. Suele estar destinado a ser compartido con otros usuarios. Los posts estan ralacionados a la salud mental y emocional y pueden generar comentarios y discusiones entre los usuarios.
 
 **Event:** <br>
 La clase Event representa eventos organizados en la plataforma, que pueden incluir talleres, charlas, sesiones de terapia grupales, etc. Los eventos pueden ser creados tanto por usuarios especialistas como por administradores del sistema. Pueden tener una variedad de atributos como nombre, fecha, ubicación y tipo. Los usuarios pueden asistir a estos eventos para obtener información, participar en actividades grupales y recibir apoyo de especialistas y otros participantes.
 
-**Thread:** <br>
-La clase Thread representa una conversación o tema de discusión dentro de una comunidad. Cada hilo puede contener mensajes o respuestas de usuarios y puede estar relacionado con un tema específico relacionado con la salud mental. Los usuarios pueden crear nuevos hilos, responder a hilos existentes y participar en discusiones dentro de la comunidad.
+**Comment:** <br>
+La clase Comment representa un comentario dentro de un post. Cada comentario puede contener mensajes o respuestas de usuarios y puede estar relacionado con un tema específico relacionado con la salud mental.
 
 **Date:** <br>
 La clase Date representa fechas disponibles para citas con especialistas. Estas fechas pueden ser definidas por los especialistas como horarios disponibles para atender a sus pacientes. Los usuarios pueden seleccionar estas fechas para reservar citas.
@@ -1245,7 +1245,7 @@ La clase Notification esta ascociada a los Usarios y los Especialista, estos pue
 
 ### 4.8.1. Database Diagram.
 
-<img src="./assets/database_diagram.png" alt="Image of Class Diagram" style="width:100%">
+<img src="./assets/database_diagram.png" alt="Image of Database Diagram" style="width:100%">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
