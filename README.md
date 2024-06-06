@@ -1650,7 +1650,7 @@ Para el sprint 3 se ha presentado el back-end y se optó por varias herramientas
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-En este sprint 3 los miembros de TechConnect Solutions complementaron satisfactoriamente las tareas propuestas. El sprint 3 estuvo relacionado mayormente con el desarrollo del backend de la aplicacion. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
+En este sprint 3, los miembros de ConnectionLink lograron complementar satisfactoriamente todas las tareas propuestas. Este sprint estuvo enfocado principalmente en el desarrollo del backend de la aplicación. A lo largo del desarrollo, se realizaron múltiples correcciones a errores presentes en el código, lo que permitió mejorar la funcionalidad y estabilidad del sistema.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 #### 5.2.3.8. Team Collaboration Insights during Sprint
