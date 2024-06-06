@@ -1625,17 +1625,50 @@ Para llevar a cabo los registros de nuestros avances durante el primer Sprint de
 | HU37       | Filtrado de Hilos por Categoría 	 | W211        | Crear funcionalidad de filtrado | Implementacion de funcionalidad que permite filtrar los hilos segun la categoria.  | 3 horas | Nicolas | Done   |
 
 #### 5.2.3.3. Development Evidence for Sprint Review
+
+Para este segundo sprint se decidió trabajar en una rama distinta para cada feature y despues unirlo todo en develop. Cada miembro ha realizado un commit para posteriormente hacer merge.
+| Repository                         | Branch                     | Commit ID          | Commit Message                                                        | Committed on(date) |
+|------------------------------------|----------------------------|--------------------|-----------------------------------------------------------------------|--------------------|
+| OpenSourceSW53/officetech-frontend | feature/edit-skills-system           | 710be4e            | feat: comments components                                             | 25/04/24  |
+
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+| Repository                         | Branch                     | Commit ID          | Commit Message                                                                 | Committed on(date) |
+|------------------------------------|----------------------------|--------------------|--------------------------------------------------------------------------------|--------------------|
+| OpenSourceSW53/officetech-frontend | development                | 93683aa            | Merge remote-tracking branch 'origin/feature/payment-details' into development | 28/04/24           |
+
 #### 5.2.3.5. Execution Evidence for Sprint Review
+
+Para el sprint 3 se ha presentado el back-end y se optó por varias herramientas para su desarrollo:
+
+- *Git*: Se utilizó para el control de versiones del código fuente.
+- *GitFlow*: Se utilizó para ver el avance de los integrantes del equipo.
+- *GitHub*: Se utilizó para crear el repositorio del back-end, donde se subió el código fuente.
+- *Swagger*: Se utilizó para documentar la API RESTful.
+- *MySQL*: Se utilizó para la base de datos.
+[Colocar evidencias de la ejecución del sprint 3]
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+En este sprint 3 los miembros de TechConnect Solutions complementaron satisfactoriamente las tareas propuestas. El sprint 3 estuvo relacionado mayormente con el desarrollo del backend de la aplicacion. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+Durante el Sprint 3, se desarrollaron diversas funcionalidades clave para el backend de la aplicación. Para gestionar esto de manera eficiente, se crearon ramas específicas para cada funcionalidad, permitiendo un desarrollo aislado y organizado. Cada feature fue implementada y confirmada mediante commits individuales antes de ser fusionada con la rama de desarrollo (develop). Posteriormente, se verificó minuciosamente la ausencia de conflictos para asegurar la integridad del código. Una vez confirmada la estabilidad, se realizó la fusión final con la rama de producción (main).
+
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
+
 Tras finalizar el desarrollo del FrontEnd y su integración con los servicios web (BackEnd) desplegados, procederemos a una segunda fase de entrevistas. El objetivo es validar la experiencia de usuario y la funcionalidad de la aplicación. Para ello, se proponen las siguientes preguntas:
 
-**Preguntas a empresas que necesitan soporte técnico:**
+**Preguntas generales:**
+
+1. ¿Cuál es su nombre? 
+2. ¿Cuál es su edad? 
+3. ¿A qué se dedica actualmente? 
+
+**Preguntas a empresas que necesitan soporte y ayuda emocional:**
 1.	¿Qué opinion tiene con respecto al diseño?
 2.	¿Se le realiza de manera intituiva y fácil la aplicación?
 3.	¿Cómo se siente en la parte de navegación, le es fácil ir de una vista a otra?
@@ -1646,7 +1679,7 @@ Tras finalizar el desarrollo del FrontEnd y su integración con los servicios we
 8.	¿Estaría dispuesto a suscribirse al plan de ConnectionLink?
 
    
-**Preguntas a profesionales en tecnología:**
+**Preguntas a profesionales en el área de salud y bienestar mental:**
 1.	¿Qué opinion tiene con respecto al diseño?
 2.	¿Se le realiza de manera intituiva y fácil la aplicación?
 3.	¿Cómo se siente en la parte de navegación, le es fácil ir de una vista a otra?
@@ -1657,16 +1690,24 @@ Tras finalizar el desarrollo del FrontEnd y su integración con los servicios we
 8.	¿Estaría dispuesto a registrarse a ConnectionLink?
 
 ### 5.3.2. Registro de Entrevistas
+
+*Aqui poner todas las entrevistas realizadas*
+
 ### 5.3.3. Evaluaciones según heurísticas
-Con base a las diversas opiniones en las entrevistas realizadas, tanto clientes de empresas como técnicos afiliados se obtiene que:
+
+Con base en las diversas opiniones recogidas en las entrevistas realizadas a clientes empresariales y técnicos afiliados, se ha obtenido lo siguiente:
+
 - La aplicación es intuitiva y fácil de usar.
 - La navegación es sencilla y permite ir de una vista a otra sin problemas.
 - Las vistas contienen toda la información necesaria para manejar los servicios contratados.
 - La aplicación es beneficiosa para las empresas y los técnicos, ya que facilita la contratación y prestación de servicios.
 - La sección de foro es un punto fuerte de la aplicación, ya que permite la interacción y resolución de dudas entre los usuarios.
 - La información contenida en la aplicación es clara y completa.
-- La mayoría de los entrevistados estarían dispuestos a suscribirse o registrarse en OfficeTech.
+- La mayoría de los entrevistados estarían dispuestos a suscribirse o registrarse en ConnectionLink.
+
 ## 5.4. Video About-the-Product
+
+*Grabar y poner el video about the product*
 
 # Conclusiones y recomendaciones.
 
