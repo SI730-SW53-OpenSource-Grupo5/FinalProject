@@ -1634,15 +1634,49 @@ Para llevar a cabo los registros de nuestros avances durante el primer Sprint de
 #### 5.2.3.3. Development Evidence for Sprint Review
 
 Para este segundo sprint se decidió trabajar en una rama distinta para cada feature y despues unirlo todo en develop. Cada miembro ha realizado un commit para posteriormente hacer merge.
-| Repository                         | Branch                     | Commit ID          | Commit Message                                                        | Committed on(date) |
-|------------------------------------|----------------------------|--------------------|-----------------------------------------------------------------------|--------------------|
-| OpenSourceSW53/officetech-frontend | feature/edit-skills-system           | 710be4e            | feat: comments components                                             | 25/04/24  |
+
+| Repository                           | Branch                | Commit ID                           | Commit Message                                                          | Committed on(date) |
+|--------------------------------------|-----------------------|-------------------------------------|-------------------------------------------------------------------------|--------------------|
+| OpenSourceSW53/connectionlink-backend | calendar-events       | a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6   | feat: skills to method add ls to db                                    | 05/06/24           |
+| OpenSourceSW53/connectionlink-backend | subscription          | b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7   | update: added first & last name column                                 | 04/06/24           |
+| OpenSourceSW53/connectionlink-backend | forum-system          | c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8   | add: method to match the password                                      | 31/05/24           |
+| OpenSourceSW53/connectionlink-backend | calendar-events       | d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9   | feature: method to find by email                                       | 30/05/24           |
+| OpenSourceSW53/connectionlink-backend | subscription          | e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0   | add: setting the dates creation                                        | 30/05/24           |
+| OpenSourceSW53/connectionlink-backend | forum-system          | f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1   | fix: adding dates to table                                             | 30/05/24           |
+| OpenSourceSW53/connectionlink-backend | calendar-events       | g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2   | Merge branch 'main' into user-auth-system                              | 30/05/24           |
+| OpenSourceSW53/connectionlink-backend | subscription          | h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3   | update: new structure shared folder and swagger UI added               | 30/05/24           |
+| OpenSourceSW53/connectionlink-backend | forum-system          | i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4   | add: converting resource to entity and viceverse                       | 27/05/24           |
+| OpenSourceSW53/connectionlink-backend | calendar-events       | j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5   | feature: controller to authentication users                            | 27/05/24           |
+| OpenSourceSW53/connectionlink-backend | subscription          | k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6   | add: repository to find by id                                          | 27/05/24           |
+| OpenSourceSW53/connectionlink-backend | forum-system          | l2m3n4o5p6q7r8s9t0u1v2w3x4y5z7   | add: command service                                                   | 27/05/24           |
+| OpenSourceSW53/connectionlink-backend | calendar-events       | m3n4o5p6q7r8s9t0u1v2w3x4y5z7a8   | add: creating command and validations                                  | 27/05/24           |
+| OpenSourceSW53/connectionlink-backend | subscription          | n4o5p6q7r8s9t0u1v2w3x4y5z7a8b9   | add: command service to save new user                                  | 27/05/24           |
+| OpenSourceSW53/connectionlink-backend | forum-system          | o5p6q7r8s9t0u1v2w3x4y5z7a8b9c0   | add: aggregate user auth                                               | 27/05/24           |
+| OpenSourceSW53/connectionlink-backend | calendar-events       | p6q7r8s9t0u1v2w3x4y5z7a8b9c0d1   | first commit                                                           | 26/05/24           |
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
-| Repository                         | Branch                     | Commit ID          | Commit Message                                                                 | Committed on(date) |
-|------------------------------------|----------------------------|--------------------|--------------------------------------------------------------------------------|--------------------|
-| OpenSourceSW53/officetech-frontend | development                | 93683aa            | Merge remote-tracking branch 'origin/feature/payment-details' into development | 28/04/24           |
+| Repository                         | Branch       | Commit ID                          | Commit Message                                                        | Committed on(date) |
+|------------------------------------|--------------|------------------------------------|-----------------------------------------------------------------------|-------------------|
+| OpenSourceSW53/connectionlink-backend | development | 2a0885cda4d600de7a857b4743f879c79a55e519 | erase: config to deploy                                              | 07/06/24          |
+| OpenSourceSW53/connectionlink-backend | development | 7f51d13764d44f0be08ae862d04f8ee6f9b9aef2 | update: config to deploy                                             | 07/06/24          |
+| OpenSourceSW53/connectionlink-backend | development | 26d059428f1cdb037bb2e44990dc5e052881204f | update: minor changes                                                | 07/06/24          |
+| OpenSourceSW53/connectionlink-backend | development | a22dd7a0aad59851ae5f4ddf322071649b3d14cf | fix: connecting with the userauth entity services                    | 07/06/24          |
+| OpenSourceSW53/connectionlink-backend | development | a22dd7a0aad59851ae5f4ddf322071649b3d14cf | update: adding cors and user info response                           | 07/06/24          |
+| OpenSourceSW53/connectionlink-backend | development | 21cc9b2b98647408eba57942b7d71971b70b4250 | fix: error messages personalized                                     | 02/06/24          |
+| OpenSourceSW53/connectionlink-backend | development | a2560da8dcd0536d7f46c86c90202338b2f43ed1 | update: obtaining data user logged                                   | 06/06/24          |
+| OpenSourceSW53/connectionlink-backend | development | 7c92f92dd1d990a2dceb553015355f642758047e | Merge branch 'edit-skills-system' into development                   | 06/06/24          |
+| OpenSourceSW53/connectionlink-backend | development | 48a8f50d58077c8dacd258b6599af0029c054a89 | feat: skills to method add ls to db                                  | 06/06/24          |
+| OpenSourceSW53/connectionlink-backend | development | 4b502441612abfafcf092287a0ea5002a97d9a1c | add: minor changes                                                   | 05/06/24          |
+| OpenSourceSW53/connectionlink-backend | development | d1cde552dfcb9c2e5fc4815dd923d3e4c6d89f37 | Merge branch 'payment-system' into development                       | 05/06/24          |
+| OpenSourceSW53/connectionlink-backend | development | 41311a80212b51726396647fe86799431ecdbb84 | Merge branch 'services-system' into development                      | 04/06/24          |
+| OpenSourceSW53/connectionlink-backend | development | 9f5e6081d3d8ab2a5ea6ce1dc49a381f91c9c3a6 | Merge branch 'forum-system' into development                         | 04/06/24          |
+| OpenSourceSW53/connectionlink-backend | development | 194c8ddeb2ed2471af8803dee82544351a5bddd9 | add: postId and createdAt                                            | 04/06/24          |
+| OpenSourceSW53/connectionlink-backend | development | 4333bc1394e9cce6b6d79e163fb99428cfeb7bc4 | feature: methods post and get to answers                             | 04/06/24          |
+| OpenSourceSW53/connectionlink-backend | development | 4333bc1394e9cce6b6d79e163fb99428cfeb7bc4 | feature: method get to obtain all the posts and by id                | 04/06/24          |
+| OpenSourceSW53/connectionlink-backend | development | 845dd274d3343440dc4f87d4be879a7d3559c437 | feature: endpoint to save new post of forum                          | 04/06/24          |
+| OpenSourceSW53/connectionlink-backend | development | 99bd36487e2376e5b1f219bcacdfe75f5f109062 | feat: added method to get if the payment method expiratory date has past | 04/06/24       |
+| OpenSourceSW53/connectionlink-backend | development | 2cbdd5e28ca1228d6c6d1e0c8dae2ececc5dec03 | feat: method to add payment details to db                            | 04/06/24          |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
@@ -1707,6 +1741,10 @@ Creando un App Service para desplegar nuestro back-end Java en Azure
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
 Durante el Sprint 3, se desarrollaron diversas funcionalidades clave para el backend de la aplicación. Para gestionar esto de manera eficiente, se crearon ramas específicas para cada funcionalidad, permitiendo un desarrollo aislado y organizado. Cada feature fue implementada y confirmada mediante commits individuales antes de ser fusionada con la rama de desarrollo (develop). Posteriormente, se verificó minuciosamente la ausencia de conflictos para asegurar la integridad del código. Una vez confirmada la estabilidad, se realizó la fusión final con la rama de producción (main).
+
+<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
+<img src="./assets/images-chapter5/network-grapgh.jpg" alt="" style="width:80%;">
+</div>
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
@@ -1781,7 +1819,6 @@ Harold nos comenta que le parece muy reconfortante el diseño de la aplicación 
 
 Considera que la información contenida en la aplicación es clara y completa, lo que facilita mucho su búsqueda de apoyo y recursos para manejar su salud mental. Harold cree firmemente que esta aplicación es beneficiosa tanto para las personas que enfrentan problemas de salud mental como para los especialistas que pueden ofrecer su ayuda y experiencia.
 <br><br>
-
 
 ### 5.3.3. Evaluaciones según heurísticas
 
