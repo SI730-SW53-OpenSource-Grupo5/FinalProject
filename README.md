@@ -1609,20 +1609,27 @@ Para llevar a cabo los registros de nuestros avances durante el primer Sprint de
 
 #### 5.2.3.2. Sprint Backlog 3
 
-| User Story |  | Work-Item/Task |  |  |  |  |
-|------------|----------------|-------------|--------------------------------|-----------|------------------|--------|
-| ID         | Title          | ID          | Title                          | Description                     | Estimation | Assigned To      | Status |
-| HU07       | Interacción con Hilos 	 | W201       | Crear el componente de hilo  | Creación del componente que permita visualizar informacion mas especifica de cada hilo e implementacion del service y model. | 3 horas | Nicolas | Done   |
-| HU13       | Calendario de Eventos 	 | W202     | Crear el componente de calendario  | Creación de componentes que permiten visualizar el calendario con los eventos a los que asistira un usuario o specialista e implementacion del service y model. | 3 horas | Johan | Done   |
-| HU15       | Reserva de Citas Privadas 	 | W203     | Crear el componente de cita | Creación del componente que permite agendar una cita privada en el perfil del especialista, e implementacion del service y model. | 3 horas | Djalma | Done   |
-| HU19       | Suscripción a Planes de Pago 	 | W204        | Crear el componente de suscripcion | Creacion del componente que permite a los usuarios pagar una suscripcion. | 3 horas | Alexander | Done   |
-| HU21      | Mensajería entre Usuarios y Especialistas 	 | W205        | Crear el componente de mensajeria | Creacion del componente que permite visualizar todas las conversaciones de un usuario o un especialista, implementacion de model y service.| 3 horas | Braulio | Done   |
-| HU32       | Visualización de Todos los Hilos 	 | W206       | Crear el componente de listado de hilos | Creacion del componente para visualizar hilos en el foro e implementacion de model y service. | 3 horas | Nicolas y Anaely | Done   |
-| HU33       | Visualización de Perfil de Especialista	 | W207        | Crear el componente de perfil de especialista | Creacion del componente que permite visualizar el perfil de un especialista e implementación de model y service. | 3 horas | Djalma | Done   |
-| HU34       | Visualización de Todos los Eventos 	 | W208       | Crear el componente de evento | Creación del componente que permite visualizar los eventos disponibles en la plataforma | 3 horas | Nicolas | Done   |
-| HU35       | Filtrado de Eventos por Tipo (Premium/Free) 	 | W209        | Crear funcionalidad de filtrado | Implementacion de funcionalidad que permite filtrar los eventos segun el tipo de evento. | 3 horas | Nicolas | Done   |
-| HU36       | Filtrado de Hilos por Popularidad  	 | W210        | Crear funcionalidad de filtrado | Implementacion de funcionalidad que permite filtrar los hilos segun su popularidad en el foro. | 3 horas | Nicolas | Done   |
-| HU37       | Filtrado de Hilos por Categoría 	 | W211        | Crear funcionalidad de filtrado | Implementacion de funcionalidad que permite filtrar los hilos segun la categoria.  | 3 horas | Nicolas | Done   |
+| User Story |  | Work-Item/Task |  |  |            |                                                      |
+|------------|----------------|----------------|--------------------------------|-----------|------------|------------------------------------------------------|
+| ID         | Title          | ID             | Title                          | Description                     | Estimation | Assigned To                                          | Status |
+| ID         | Title          | ID             | Title                          | Description                     | Estimation | Assigned To               | Status |
+| HU28       | Configuración Inicial del Servidor | W213a | Preparar el entorno del servidor | Preparación del entorno del servidor con las herramientas y software necesarios. | 1 hora  | Djalma Dioses | Done   |
+| HU28       | Configuración Inicial del Servidor | W213b | Configurar parámetros del servidor | Establecimiento de parámetros de configuración del servidor para optimización del rendimiento. | 1 hora  | Djalma Dioses Santos | Done   |
+| HU28       | Configuración Inicial del Servidor | W213c | Verificar conectividad y rendimiento | Pruebas para asegurar la conectividad y rendimiento óptimos del servidor configurado. | 1 hora  | Djalma Dioses Santos | Done   |
+| HU29       | Definición de Endpoints de API Básicos | W214a | Diseñar la estructura de endpoints | Diseño de la estructura y rutas de los endpoints de la API. | 2 horas | Nicolas Esteban García | Done   |
+| HU29       | Definición de Endpoints de API Básicos | W214b | Crear funciones lógicas de endpoints | Desarrollo de las funciones lógicas que serán ejecutadas al llamar a cada endpoint. | 2 horas | Nicolas Esteban Garcia | Done   |
+| HU29       | Definición de Endpoints de API Básicos | W214c | Testear los endpoints | Realización de pruebas para asegurar el correcto funcionamiento y seguridad de los endpoints. | 1 hora  | Nicolas Esteban Garcia | Done   |
+| HU30       | Integración de Base de Datos | W215a | Diseñar el esquema de la base de datos | Diseño del esquema de la base de datos para asegurar que las estructuras de datos soporten eficientemente las necesidades del negocio. | 2 horas | Adrian Rubio Calixto | Done   |
+| HU30       | Integración de Base de Datos | W215b | Implementar conexiones de base de datos | Implementación de las conexiones de base de datos en el backend para interactuar con la base de datos. | 2 horas | Nicolas Esteban Garcia | Done   |
+| HU30       | Integración de Base de Datos | W215c | Crear funciones CRUD para las entidades | Creación de funciones CRUD (Create, Read, Update, Delete) para gestionar las entidades principales en la base de datos. | 3 horas | Anaely Burga Loarte | Done   |
+| HU30       | Integración de Base de Datos | W215d | Implementar pruebas de integración | Implementación de pruebas de integración para asegurar que las interacciones con la base de datos funcionan como se espera. | 1 hora | Anaely Burga Loarte | Done   |
+| HU31       | Autenticación y Seguridad Básica | W216a | Configurar protocolos de seguridad | Configuración de protocolos de seguridad como SSL/TLS para la protección de datos en tránsito. | 2 horas | Johan Principe Godoy | Done   |
+| HU31       | Autenticación y Seguridad Básica | W216b | Implementar sistema de autenticación | Desarrollo e implementación de un sistema de autenticación basado en tokens o sesiones. | 2 horas | Johan Principe Godoy | Done   |
+| HU31       | Autenticación y Seguridad Básica | W216c | Testear seguridad y autenticación | Realización de pruebas para validar la seguridad y la efectividad de la autenticación. | 1 hora  | Braulio Torrejon Navarro | Done   |
+| HU32       | Configuración de Logging y Monitoreo | W217a | Instalar herramientas de logging | Instalación y configuración de herramientas para el logging de actividades del sistema. | 1 hora  | Braulio Torrejon Navarro | Done   |
+| HU32       | Configuración de Logging y Monitoreo | W217b | Configurar monitoreo del sistema | Configuración de herramientas de monitoreo para supervisar el rendimiento y la estabilidad del sistema. | 1 hora  | Braulio Torrejon Navarro | Done   |
+| HU32       | Configuración de Logging y Monitoreo | W217c | Crear dashboards de monitoreo | Creación de dashboards para visualizar en tiempo real la información de logging y monitoreo. | 1 hora  | Nicolas Esteban Garcia | Done   |
+
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 
@@ -1746,7 +1753,9 @@ Con base en las diversas opiniones recogidas en las entrevistas realizadas a cli
 
 ## 5.4. Video About-the-Product
 
-*Grabar y poner el video about the product*
+Orientación promocional, resumiendo el modelo de negocio, las características y beneficios del producto
+
+[Link del Video](https://drive.google.com/file/d/1YFR8mpze4nmslpR2XH8OSzHcNfoqc3pa/view?usp=sharing)
 
 # Conclusiones y recomendaciones.
 
