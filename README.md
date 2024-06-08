@@ -1820,6 +1820,24 @@ Harold nos comenta que le parece muy reconfortante el diseño de la aplicación 
 Considera que la información contenida en la aplicación es clara y completa, lo que facilita mucho su búsqueda de apoyo y recursos para manejar su salud mental. Harold cree firmemente que esta aplicación es beneficiosa tanto para las personas que enfrentan problemas de salud mental como para los especialistas que pueden ofrecer su ayuda y experiencia.
 <br><br>
 
+**Entrevista 3 (realizada por Braulio Torrejon):**<br>
+**Nombre:** Camila Irpa
+**Edad:** 19 años
+**Ocupación:** Estudiante de Ingeniería de Software que frecuenta plataformas donde se presentan interaccion entre usuarios
+
+<div style="display:flex;justify-content:center">
+<img src="./assets/images-chapter5/braulioentrevista.jpg" alt="Entrevista a Sebastian Ramirez" style="width:80%;">
+</div>
+
+<br/>
+
+[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212096_upc_edu_pe/EZyQVZHFYLNLgMKMbGWppc8BgtjBDhK_rh24hoNXvxJ-2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DDrRoh)
+<br>
+Camila Irpa ha enfrentado desafíos en su salud mental, pero ha encontrado en los foros de discusión un espacio valioso donde puede interactuar con otros. Este entorno le permite conectarse con personas que han pasado por experiencias similares, así como con profesionales de la salud mental. En los foros, Camila puede compartir sus vivencias, obtener apoyo y resolver sus dudas sobre cómo manejar su bienestar emocional. Además de su participación en estos foros, Camila también dirige un pequeño negocio especializado en la venta de productos electrónicos.
+
+Camila nos comenta que el diseño de la aplicación del foro de discusión le resulta muy acogedor. Destaca su facilidad de uso y la fluidez con la que puede navegar por la plataforma, lo que le permite acceder rápidamente a la información que necesita para su bienestar emocional. La sección del foro es su favorita, ya que le permite interactuar con otros usuarios que entienden sus luchas y con especialistas que le brindan orientación y consejos valiosos.
+<br><br>
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 Con base en las diversas opiniones recogidas en las entrevistas realizadas a clientes empresariales y técnicos afiliados, se ha obtenido lo siguiente:
