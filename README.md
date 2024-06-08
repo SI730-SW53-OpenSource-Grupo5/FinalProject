@@ -1411,7 +1411,19 @@ En este sprint realizamos las pruebas de aceptación en la herramienta de Gherki
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-En este primer Sprint nos enfocamos únicamente en crear el landing page, sin necesidad de utilizar servicios extra.
+En este sprint 3, los miembros de ConnectionLink lograron complementar satisfactoriamente todas las tareas propuestas. Este sprint estuvo enfocado principalmente en el desarrollo del backend de la aplicación. A lo largo del desarrollo, se realizaron múltiples correcciones a errores presentes en el código, lo que permitió mejorar la funcionalidad y estabilidad del sistema.
+- En el mundo de la programación y el desarrollo web, los endpoints juegan un papel crucial en la comunicación entre el cliente y el servidor. Imagina un endpoint como un punto de entrada específico en una aplicación o servicio web, similar a una puerta de acceso en un edificio con múltiples habitaciones. Cada endpoint está asociado con una ruta única, que generalmente se expresa como una URL. Cuando un cliente, como un navegador web o una aplicación móvil, envía una solicitud a un servidor, especifica el endpoint al que desea acceder. El servidor, a su vez, procesa esa solicitud y responde con la información o la acción correspondiente. Los endpoints actúan como controladores de tráfico, dirigiendo y gestionando las solicitudes de los usuarios hacia las partes relevantes de la aplicación. Cada endpoint puede ofrecer diferentes funcionalidades, desde mostrar información estática hasta realizar operaciones complejas en la base de datos. Al definir y documentar endpoints, los desarrolladores proporcionan una guía clara sobre cómo interactuar con su aplicación. Esto facilita a otros desarrolladores entender cómo integrar su aplicación en la suya, así como a los usuarios comprender qué acciones pueden realizar y cómo hacerlo.
+  | Endpoint         | Detalles                                                |
+|------------------|---------------------------------------------------------|
+| /auth            | En esta ruta se gestionan las operaciones de autenticación.                                       |
+| /user            | En esta ruta se gestionan las operaciones relacionadas con los usuarios.                            |
+| /user/subscription | En esta ruta se gestionan las suscripciones de los usuarios.                                          |
+| /subscription    | En esta ruta se gestionan las operaciones relacionadas con las suscripciones.                           |
+| /evento          | En esta ruta se proporciona información y operaciones relacionadas con eventos.                        |
+| /category        | En esta ruta se gestionan las categorías de contenido.                                              |
+| /post            | En esta ruta se gestionan las publicaciones de contenido.                                             |
+| /comment         | En esta ruta se gestionan los comentarios sobre publicaciones.                                          |
+| /notification    | En esta ruta se gestionan las notificaciones para los usuarios.                                        |
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
