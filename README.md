@@ -1653,13 +1653,57 @@ Para el sprint 3 se ha presentado el back-end y se optó por varias herramientas
 - *GitHub*: Se utilizó para crear el repositorio del back-end, donde se subió el código fuente.
 - *Swagger*: Se utilizó para documentar la API RESTful.
 - *MySQL*: Se utilizó para la base de datos.
-[Colocar evidencias de la ejecución del sprint 3]
+
+<div style="display:flex;justify-content:center,align-items: center; width:100%">
+<img src="./assets/images-chapter5/swagger-1.jpg" alt="Swagger" style="width:100%;">
+</div>
+
+<br/>
+<div style="display:flex;justify-content:center,align-items: center; width:100%">
+<img src="./assets/images-chapter5/swagger-2.jpg" alt="Swagger" style="width:100%;">
+</div>
+
+<br/>
+<div style="display:flex;justify-content:center,align-items: center; width:100%">
+<img src="./assets/images-chapter5/swagger-3.jpg" alt="Swagger" style="width:100%;">
+</div>
+
+<br/>
+<div style="display:flex;justify-content:center,align-items: center; width:100%">
+<img src="./assets/images-chapter5/swagger-4.jpg" alt="Swagger" style="width:100%;">
+</div>
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 En este sprint 3, los miembros de ConnectionLink lograron complementar satisfactoriamente todas las tareas propuestas. Este sprint estuvo enfocado principalmente en el desarrollo del backend de la aplicación. A lo largo del desarrollo, se realizaron múltiples correcciones a errores presentes en el código, lo que permitió mejorar la funcionalidad y estabilidad del sistema.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
+<img src="./assets/images-chapter5/azure-1.jpg" alt="" style="width:80%;">
+Se creó una base de datos flexible MySQL en los servicios de Azure para almacenar la información de los usuarios, eventos y foro.
+</div>
+
+<br/>
+<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
+<img src="./assets/images-chapter5/azure-2.jpg" alt="" style="width:80%;">
+Creando un App Service para desplegar nuestro back-end Java en Azure
+</div>
+
+<br/>
+<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
+<img src="./assets/images-chapter5/azure-3.jpg" alt="" style="width:80%;">
+</div>
+<br>
+
+<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
+<img src="./assets/images-chapter5/swagger-1.jpg" alt="" style="width:80%;">
+</div>
+
+<br/>
+
+[Link endpoints ConnectionLink desplegado](https://connectionlink-spring-app-20240608144348.azuremicroservices.io/api-docs/swagger-ui/index.html/)
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
 Durante el Sprint 3, se desarrollaron diversas funcionalidades clave para el backend de la aplicación. Para gestionar esto de manera eficiente, se crearon ramas específicas para cada funcionalidad, permitiendo un desarrollo aislado y organizado. Cada feature fue implementada y confirmada mediante commits individuales antes de ser fusionada con la rama de desarrollo (develop). Posteriormente, se verificó minuciosamente la ausencia de conflictos para asegurar la integridad del código. Una vez confirmada la estabilidad, se realizó la fusión final con la rama de producción (main).
