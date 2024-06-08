@@ -1740,6 +1740,18 @@ En este sprint 3, los miembros de ConnectionLink lograron complementar satisfact
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+Para el sprint presentado del Banck-end se optó por varias herramientas para su desarrollo y despliegue de manera pública.
+
+* Git: Se utilizó para el control de versiones del código fuente.
+* GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
+* GitHub: Se utilizó para crear el repositorio del backend, donde se subió el código fuente.
+* Azure: Se utilizó esta herramienta ya que nos ofrece un despliegue rápido de una maquiva virtual.
+* Intellij: Se utilizó esta herramienta de programacion para codificar cada content realizado en el trabajo.
+* Spring: Se utilizó esta framework para generar una base para el back del proyecto.
+* Swagger: Se utilizó esta herramienta para la documentacion de nuestras APIs.
+
+<h4>Despliegue del proyecto a nivel Frontend</h4>
+
 <div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
 <img src="./assets/images-chapter5/azure-1.jpg" alt="" style="width:80%;">
 Se creó una base de datos flexible MySQL en los servicios de Azure para almacenar la información de los usuarios, eventos y foro.
