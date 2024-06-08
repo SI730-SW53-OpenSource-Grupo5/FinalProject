@@ -1868,7 +1868,7 @@ Dominio de herramientas de desarrollo web: A lo largo del proyecto, utilizamos u
 
 # Video About-the-Team.
 
-[URL del video about the team](https://www.example.com)
+[URL del video about the team](https://drive.google.com/file/d/182dtZ9bUakB2qOr3r-oxFXukBC0XKAVs/view?usp=sharing)
 
 # Bibliografía
 
@@ -1884,7 +1884,6 @@ formato
 
 datos, gráficos, imágenes, esquemas, mapas o referencias de otros autores
 
-![Imagen de algo no nuestro lol](image.jpg)
 
 
 
