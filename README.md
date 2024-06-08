@@ -1750,7 +1750,7 @@ Para el sprint presentado del Banck-end se optó por varias herramientas para su
 * Spring: Se utilizó esta framework para generar una base para el back del proyecto.
 * Swagger: Se utilizó esta herramienta para la documentacion de nuestras APIs.
 
-<h4>Despliegue del proyecto a nivel Frontend</h4>
+<h4>Despliegue del proyecto </h4>
 
 <div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
 <img src="./assets/images-chapter5/azure-1.jpg" alt="" style="width:80%;">
