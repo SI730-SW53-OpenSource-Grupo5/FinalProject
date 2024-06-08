@@ -1691,7 +1691,46 @@ Tras finalizar el desarrollo del FrontEnd y su integración con los servicios we
 
 ### 5.3.2. Registro de Entrevistas
 
-*Aqui poner todas las entrevistas realizadas*
+**Segmento 1: Clientes que requieren de un plan para soporte técnico que brinde garantía y soluciones a sus productos electrónicos**
+<br><br>
+**Entrevista 1 (realizada por Nicolas Esteban):**<br>
+**Nombre:** Sebastian Ramirez
+**Edad:** 22 años
+**Ocupación:** Estudiante de Ingeniería de Software que frecuenta plataformas donde se presentan interaccion entre usuarios
+
+<div style="display:flex;justify-content:center">
+<img src="./assets/images-chapter5/entrevista-sebastian.jpg" alt="Entrevista a Sebastian Ramirez" style="width:80%;">
+</div>
+
+<br/>
+
+[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212096_upc_edu_pe/EZyQVZHFYLNLgMKMbGWppc8BgtjBDhK_rh24hoNXvxJ-2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DDrRoh)
+<br>
+Sebastián Ramírez es un joven que participa activamente en foros de discusión, donde interactúa con muchas personas, tanto pacientes como especialistas, compartiendo conocimientos y resolviendo dudas. Además, se encuentra involucrado en un pequeño negocio que se dedica a comercializar diferentes productos electrónicos. Sebastián nos comenta que le parece muy buen trabajo con respecto al diseño de la aplicación de foro de discusión. La encuentra muy intuitiva y dinámica, y le agrada la facilidad de navegación, así como la rapidez con la que puede acceder a la información que necesita.
+
+Le encanta la sección de foro, ya que le permite interactuar con otros usuarios, tanto pacientes como especialistas, para resolver dudas y compartir conocimientos. Considera que la información contenida en la aplicación es clara y completa, lo que facilita mucho su trabajo y estudio como asistente de negocio y estudiante de Ingeniería de Sistemas. Sebastián cree firmemente que esta aplicación es beneficiosa tanto para las empresas como para los técnicos, ya que facilita la interaccion entre usuario y especialistas
+<br><br>
+
+**Entrevista 2 (realizada por Nicolas Esteban):**<br>
+**Nombre:** Harold Mayta
+**Edad:** 20 años
+**Ocupación:** Estudiante de Ingeniería de Software que frecuenta plataformas donde se presentan interaccion entre usuarios
+
+<div style="display:flex;justify-content:center">
+<img src="./assets/images-chapter5/entrevista-sebastian.jpg" alt="Entrevista a Sebastian Ramirez" style="width:80%;">
+</div>
+
+<br/>
+
+[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212096_upc_edu_pe/EZyQVZHFYLNLgMKMbGWppc8BgtjBDhK_rh24hoNXvxJ-2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DDrRoh)
+<br>
+Harold Mayta es una persona que ha enfrentado desafíos en su bienestar mental. Sin embargo, ha encontrado en los foros de discusión un refugio donde puede interactuar con muchas personas, tanto pacientes como especialistas, compartiendo experiencias, recibiendo apoyo y resolviendo dudas sobre su salud mental. Además, Harold está involucrado en un pequeño negocio que se dedica a comercializar diferentes productos electrónicos.
+
+Harold nos comenta que le parece muy reconfortante el diseño de la aplicación de foro de discusión. La encuentra muy intuitiva y dinámica, y le agrada la facilidad de navegación, así como la rapidez con la que puede acceder a la información que necesita para su bienestar emocional. Le encanta la sección de foro, ya que le permite interactuar con otros usuarios que comprenden sus luchas y con especialistas que pueden brindarle orientación y consejos.
+
+Considera que la información contenida en la aplicación es clara y completa, lo que facilita mucho su búsqueda de apoyo y recursos para manejar su salud mental. Harold cree firmemente que esta aplicación es beneficiosa tanto para las personas que enfrentan problemas de salud mental como para los especialistas que pueden ofrecer su ayuda y experiencia.
+<br><br>
+
 
 ### 5.3.3. Evaluaciones según heurísticas
 
