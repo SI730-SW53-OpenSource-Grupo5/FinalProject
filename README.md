@@ -1775,7 +1775,7 @@ Creando un App Service para desplegar nuestro back-end Java en Azure
 
 <br/>
 
-[Link endpoints ConnectionLink desplegado](https://connectionlink-spring-app-20240608144348.azuremicroservices.io/api-docs/swagger-ui/index.html/)
+[Link endpoints ConnectionLink desplegado](https://connectionlink-spring-app-20240608144348.azuremicroservices.io/api-docs/swagger-ui/index.html)
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
