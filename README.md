@@ -1832,7 +1832,7 @@ Tras finalizar el desarrollo del FrontEnd y su integración con los servicios we
 
 <br/>
 
-[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212096_upc_edu_pe/EZyQVZHFYLNLgMKMbGWppc8BgtjBDhK_rh24hoNXvxJ-2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DDrRoh)
+[Vídeo de entrevista](https://drive.google.com/file/d/1IVk0AZjGIgYZdkrBwa0qlarhfGjyau56/view?usp=sharing)
 <br>
 Sebastián Ramírez es un joven que participa activamente en foros de discusión, donde interactúa con muchas personas, tanto pacientes como especialistas, compartiendo conocimientos y resolviendo dudas. Además, se encuentra involucrado en un pequeño negocio que se dedica a comercializar diferentes productos electrónicos. Sebastián nos comenta que le parece muy buen trabajo con respecto al diseño de la aplicación de foro de discusión. La encuentra muy intuitiva y dinámica, y le agrada la facilidad de navegación, así como la rapidez con la que puede acceder a la información que necesita.
 
@@ -1845,12 +1845,12 @@ Le encanta la sección de foro, ya que le permite interactuar con otros usuarios
 **Ocupación:** Estudiante de Ingeniería de Software que frecuenta plataformas donde se presentan interaccion entre usuarios
 
 <div style="display:flex;justify-content:center">
-<img src="./assets/images-chapter5/entrevista-sebastian.jpg" alt="Entrevista a Sebastian Ramirez" style="width:80%;">
+<img src="./assets/images-chapter5/entrevista-harold.jpg" alt="Entrevista a Sebastian Ramirez" style="width:80%;">
 </div>
 
 <br/>
 
-[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212096_upc_edu_pe/EZyQVZHFYLNLgMKMbGWppc8BgtjBDhK_rh24hoNXvxJ-2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DDrRoh)
+[Vídeo de entrevista](https://drive.google.com/file/d/1CsfNmwuUioFGJFHKSUsSypzlUc-PGyW4/view?usp=sharing)
 <br>
 Harold Mayta es una persona que ha enfrentado desafíos en su bienestar mental. Sin embargo, ha encontrado en los foros de discusión un refugio donde puede interactuar con muchas personas, tanto pacientes como especialistas, compartiendo experiencias, recibiendo apoyo y resolviendo dudas sobre su salud mental. Además, Harold está involucrado en un pequeño negocio que se dedica a comercializar diferentes productos electrónicos.
 
@@ -1870,7 +1870,7 @@ Considera que la información contenida en la aplicación es clara y completa, l
 
 <br/>
 
-[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212096_upc_edu_pe/EZyQVZHFYLNLgMKMbGWppc8BgtjBDhK_rh24hoNXvxJ-2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DDrRoh)
+[Vídeo de entrevista](https://drive.google.com/file/d/1B4aYs8pTcXSmWGyj71MIzCsI_P-b0rnm/view?usp=sharing)
 <br>
 Camila Irpa ha enfrentado desafíos en su salud mental, pero ha encontrado en los foros de discusión un espacio valioso donde puede interactuar con otros. Este entorno le permite conectarse con personas que han pasado por experiencias similares, así como con profesionales de la salud mental. En los foros, Camila puede compartir sus vivencias, obtener apoyo y resolver sus dudas sobre cómo manejar su bienestar emocional. Además de su participación en estos foros, Camila también dirige un pequeño negocio especializado en la venta de productos electrónicos.
 
