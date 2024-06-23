@@ -1785,6 +1785,151 @@ Durante el Sprint 3, se desarrollaron diversas funcionalidades clave para el bac
 <img src="./assets/images-chapter5/network-grapgh.jpg" alt="" style="width:80%;">
 </div>
 
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+
+| Sprint 2                   | Culminacion de los Bounded Context en el Backend y conexion entre el Drontend y Backend Application                                                                                                |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background |                                                                                                                                                                                                        |
+| Date                       | 1/05/2024                                                                                                                                                                                             |
+| Time                       | 21:00                                                                                                                                                                                                  |
+| Location                   | Reunión realizada mediante Discord                                                                                                                                                                     |
+| Prepared By                | Esteban Garcia, Nicolas Sebastian                                                                                                                                                                      |
+| Attendees                  | Dioses Molina, Djalma Santos / Esteban Garcia, Nicolas Sebastian <br/> Príncipe Godoy, Johan / Torrejon Navarro, Braulio Rodrigo |
+| Sprint Goal & User Stories |                                                                                                                                                                                                        |
+| Sprint 2 Goal              | Finalizar el Backend y Conectar el Backend y fontend.                                                                                                                                                                  |
+| Sprint 2 Velocity          | 45                                                                                                                                                                                                     |
+| Sum of Story Points        | 41                                                                                                                                                                                                     |
+
+#### 5.2.4.2 Sprint Backlog 4
+
+| User Story |  | Work-Item/Task |  |  |  |  |
+|------------|----------------|-------------|--------------------------------|-----------|------------------|--------|
+| ID         | Title          | ID          | Title                          | Description                     | Estimation | Assigned To      | Status |
+|        |  	 |        |  |  |  |  |    |
+
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+| Repository              | Branch                     | Commit ID | Commit Message                                                 | Commit Message Body | Commited On(Date) |
+|-------------------------|----------------------------|-----------|----------------------------------------------------------------|---------------------|-------------------|
+| ConnectionLink-Frontend | feature/calendar           | 9f3f1e1   | feat: calendar component added                                 | -                   | 01/05/2024        |
+
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+| Repository          | Branch | Commit ID                                | Commit Message                     | Commit Message (Body) | Committed on (Date) |
+|---------------------|--------|------------------------------------------|------------------------------------|-----------------------|---------------------|
+| ConnectionLink-Frontend     | main   | cea366a8a164c5b2d6287557f9d5f200964ecec6 | Merge branch 'feature/analytics'      | -                     | 01/05/2024          |
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+Se ha completado con éxito el despliegue del frontend, backend y la landing page del proyecto.
+
+##### Deploy del Frotend
+
+<img src="./assets/aplicacion-web/frontend-general.jpg" width="100%"><br/>
+<a href="#">Visitar Frontend</a>
+
+##### Deploy del Backend
+
+<img src="./assets/aplicacion-web/backend-general.jpg"  width="100%"><br/>
+<a href="https://connectionlink-spring-app-20240608144348.azuremicroservices.io/swagger-ui/index.html#/user-controller">Visitar Swagger Backend</a>
+
+##### Deploy del Landing Page
+
+<img src="./assets/aplicacion-web/lading-page-general.jpg" width="100%"><br/>
+<a href="https://connection-link-landing-page-open-source.vercel.app/">Visitar Landing Page</a>
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+A continuación se mostraran los bounded contexts disponibles junto con sus respectivos endpoints y los métodos disponibles para cada uno.
+
+##### User Controller
+Este controller permite actualizar tlistar a los usuarios tanto normales como abogados.<br/>
+ <img src="./assets/aplicacion-web/user-controller.jpg"  width="100%"><br/> 
+
+##### Subscription Controller
+Este controller permite manejar las suscripciones de los usuarios.<br/>
+ <img src="./assets/aplicacion-web/suscription-controller.jpg"  width="100%"><br/> 
+
+##### Notification Controller
+Este controller permite listar las notificaciones del os usuarios y espcialistas, las creacion de notificaciones se realiza de forma interna en los services.<br/>
+ <img src="./assets/aplicacion-web/notification-controller.jpg"  width="100%"><br/> 
+
+##### Event Controller
+Este controller permite, listar, modificar y eliminar eventos, tambien permite a los usuarios asistir a un evento.<br/>
+ <img src="./assets/aplicacion-web/event-controller.jpg"  width="100%"><br/>
+
+
+##### Calendar Controller
+Este controller le permite al especialista, modificar, crear o eliminar horarios para sus citas.<br/>
+ <img src="./assets/aplicacion-web/calendar-controller.jpg"  width="100%"><br/>
+
+##### Appoiment Controller
+Este controller permite crear, modificar, eliminar una cita entre un usuario y un especialista.<br/>
+ <img src="./assets/aplicacion-web/appoinment-controller.jpg"  width="100%"><br/>
+
+##### Review Controller
+Este controller se encarga de crear, listar las reviews hacia los especialistas.<br/>
+ <img src="./assets/aplicacion-web/review-controller.jpg"  width="100%"><br/>
+
+##### Post Controller
+Este controller se encarga de que los usuarios puedan crear y listar post en el form.<br/>
+ <img src="./assets/aplicacion-web/post-controller.jpg"  width="100%"><br/>
+
+##### Comment Controller
+Este controller se encarga de crear, eliminar, modificar los comentarios que se realizan en los post.<br/>
+ <img src="./assets/aplicacion-web/comment-controller.jpg"  width="100%"><br/>
+
+##### Authentication Controller
+
+Este controller se encarga de authenticar y registrar a los usuarios. <br>
+ <img src="./assets/aplicacion-web/authentication-controller.jpg"  width="100%"><br/>
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+<h4>Despliegue del proyecto a nivel Frontend</h4>
+
+* Creacion de cuenta en vercel con el nombre de la organizacion correspondiente  
+
+<br/><img src="./assets/aplicacion-web/evidencia-1.jpeg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+* Importacion de nuestro proyecto de Angular de Github y configuración del despliegue
+  
+<br/><img src="./assets/aplicacion-web/evidencia-2.jpeg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+* Luego de realizado la acción, Vercel comenzara automaticamente el proceso de construccion y despliegue de la aplicacion web.
+
+<br/><img src="./assets/aplicacion-web/evidencia-4.jpeg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+* Una vez finalizado la configuracion y creado nuestro equipo de trabajo con el nombre de nuestra Startup tenemos una vista donde podemos administrar los deployments realizados por Vercel
+
+<br/><img src="./assets/aplicacion-web/evidencia-3.jpeg" alt="Captura Sprint 1 en Trello" width="100%"><br/>
+
+<a href="connection-link-frontend.vercel.app">Link del frontend</a>
+
+
+<h4>Despliegue del proyecto a nivel Backend</h4>
+
+Se creó una base de datos flexible MySQL en los servicios de Azure para almacenar la información del backend. <br>
+<img src="./assets/images-chapter5/azure-1.jpg" alt="" style="width:80%;">
+
+Creando un App Service para desplegar nuestro back-end Java en Azure<br>
+<img src="./assets/aplicacion-web/spring-app.jpg" alt="" style="width:80%;">
+
+Visualizacion del Swagger
+<img src="./assets/images-chapter5/swagger-1.jpg" alt="" style="width:80%;">
+
+<a href="https://connectionlink-spring-app-20240608144348.azuremicroservices.io/swagger-ui/index.html#/user-controller">Link del backend</a>
+
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+
+
+
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 
@@ -1894,19 +2039,6 @@ Con base en las diversas opiniones recogidas en las entrevistas realizadas a cli
 Orientación promocional, resumiendo el modelo de negocio, las características y beneficios del producto
 
 [Link del Video](https://drive.google.com/file/d/1YFR8mpze4nmslpR2XH8OSzHcNfoqc3pa/view?usp=sharing)
-
-#### 5.2.3.3. Development Evidence for Sprint Review.
-
-| Repository              | Branch                      | Commit ID | Commit Message                                                 | Commit Message Body | Commited On(Date) |
-|-------------------------|-----------------------------|-----------|----------------------------------------------------------------|---------------------|-------------------|
-| ConnectionLink-Backend  | feature/calendar            | 340299c   | Add files via upload                                           | -                   | 07/06/2024        |
-| ConnectionLink-Backend  | feature/review-Notification | 231b524   | feat: notification and review                                  | -                   | 07/06/2024        |
-| ConnectionLink-Backend  | feature/subscription        | 9c1a738   | feature(add subscriber bounded context)                        | -                   | 06/06/2024        |
-| ConnectionLink-Backend  | feature/forumBC             | e0e79c7   | feat: forum bounded context added                              | -                   | 04/06/2024        |
-| ConnectionLink-Backend  | feature/appointment         | 38b506f   | feat: appointment context added                                | -                   | 04/06/2024        |
-| ConnectionLink-Backend  | feature/events              | bfbe24c   | add event controller with methods implemented                  | -                   | 01/06/2024        |
-| ConnectionLink-Backend  | feature/users               | 7268ba4   | feat: add controller with methods implementeds                 | -                   | 01/06/2024        |
-| ConnectionLink-Backend  | feature/categories          | 94908d8   | feat: add controller with methods implementeds                 | -                   | 01/06/2024        |
 
 
 # Conclusiones y recomendaciones.
