@@ -1788,7 +1788,7 @@ Durante el Sprint 3, se desarrollaron diversas funcionalidades clave para el bac
 ### 5.2.4. Sprint 4
 #### 5.2.4.1. Sprint Planning 4
 
-| Sprint 2                   | Culminacion de los Bounded Context en el Backend y conexion entre el Drontend y Backend Application                                                                                                |
+| Sprint 4                   | Culminacion de los Bounded Context en el Backend y conexion entre el Drontend y Backend Application                                                                                                |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Sprint Planning Background |                                                                                                                                                                                                        |
 | Date                       | 1/05/2024                                                                                                                                                                                             |
@@ -1797,8 +1797,8 @@ Durante el Sprint 3, se desarrollaron diversas funcionalidades clave para el bac
 | Prepared By                | Esteban Garcia, Nicolas Sebastian                                                                                                                                                                      |
 | Attendees                  | Dioses Molina, Djalma Santos / Esteban Garcia, Nicolas Sebastian <br/> Príncipe Godoy, Johan / Torrejon Navarro, Braulio Rodrigo |
 | Sprint Goal & User Stories |                                                                                                                                                                                                        |
-| Sprint 2 Goal              | Finalizar el Backend y Conectar el Backend y fontend.                                                                                                                                                                  |
-| Sprint 2 Velocity          | 45                                                                                                                                                                                                     |
+| Sprint 4 Goal              | Finalizar el Backend y Conectar el Backend y fontend.                                                                                                                                                                  |
+| Sprint 4 Velocity          | 45                                                                                                                                                                                                     |
 | Sum of Story Points        | 41                                                                                                                                                                                                     |
 
 #### 5.2.4.2 Sprint Backlog 4
@@ -1809,21 +1809,21 @@ Durante el Sprint 3, se desarrollaron diversas funcionalidades clave para el bac
 |        |  	 |        |  |  |  |  |    |
 
 
-#### 5.2.2.3. Development Evidence for Sprint Review.
+#### 5.2.4.3. Development Evidence for Sprint Review.
 
 | Repository              | Branch                     | Commit ID | Commit Message                                                 | Commit Message Body | Commited On(Date) |
 |-------------------------|----------------------------|-----------|----------------------------------------------------------------|---------------------|-------------------|
 | ConnectionLink-Frontend | feature/calendar           | 9f3f1e1   | feat: calendar component added                                 | -                   | 01/05/2024        |
 
 
-#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
 
 | Repository          | Branch | Commit ID                                | Commit Message                     | Commit Message (Body) | Committed on (Date) |
 |---------------------|--------|------------------------------------------|------------------------------------|-----------------------|---------------------|
 | ConnectionLink-Frontend     | main   | cea366a8a164c5b2d6287557f9d5f200964ecec6 | Merge branch 'feature/analytics'      | -                     | 01/05/2024          |
 
 
-#### 5.2.2.5. Execution Evidence for Sprint Review.
+#### 5.2.4.5. Execution Evidence for Sprint Review.
 Se ha completado con éxito el despliegue del frontend, backend y la landing page del proyecto.
 
 ##### Deploy del Frotend
@@ -1842,7 +1842,7 @@ Se ha completado con éxito el despliegue del frontend, backend y la landing pag
 <a href="https://connection-link-landing-page-open-source.vercel.app/">Visitar Landing Page</a>
 
 
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 A continuación se mostraran los bounded contexts disponibles junto con sus respectivos endpoints y los métodos disponibles para cada uno.
 
@@ -1888,7 +1888,7 @@ Este controller se encarga de crear, eliminar, modificar los comentarios que se 
 Este controller se encarga de authenticar y registrar a los usuarios. <br>
  <img src="./assets/aplicacion-web/authentication-controller.jpg"  width="100%"><br/>
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
 <h4>Despliegue del proyecto a nivel Frontend</h4>
 
@@ -1925,7 +1925,7 @@ Visualizacion del Swagger
 <a href="https://connectionlink-spring-app-20240608144348.azuremicroservices.io/swagger-ui/index.html#/user-controller">Link del backend</a>
 
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint.
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
 
 
 
